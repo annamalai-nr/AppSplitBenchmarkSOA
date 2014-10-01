@@ -1,0 +1,12 @@
+1,android/support/v4/app android/support/v4/content android/support/v4/util
+2,android/support/v4/view
+3,android/support/v4/widget
+4,processing/core processing/xml
+5,com/rj/pixelesque
+6,com/rj/processing/mt
+7,android/support/v4/os
+8,android/support/v4/net
+9,de/devmil/common/ui/color
+10,android/support/v4/database
+11,android/support/v4/accessibilityservice
+12,android/annotation

@@ -1,0 +1,1035 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="org/eclipse/jgit/storage/pack" />
+    <node id="me/sheimi/android/activities" />
+    <node id="org/eclipse/jgit/storage/file" />
+    <node id="com/jcraft/jsch" />
+    <node id="android/support/v4/text" />
+    <node id="org/eclipse/jgit/revplot" />
+    <node id="com/nostra13/universalimageloader/utils" />
+    <node id="android/support/v4/print" />
+    <node id="android/support/v4/graphics/drawable" />
+    <node id="android/support/v4/media" />
+    <node id="android/support/v4/widget" />
+    <node id="android/support/v4/database" />
+    <node id="android/support/v4/os" />
+    <node id="org/eclipse/jgit/fnmatch" />
+    <node id="me/sheimi/sgit" />
+    <node id="me/sheimi/android/utils" />
+    <node id="org/eclipse/jgit/lib" />
+    <node id="org/eclipse/jgit/events" />
+    <node id="com/nostra13/universalimageloader/core" />
+    <node id="org/eclipse/jgit/errors" />
+    <node id="org/eclipse/jgit/merge" />
+    <node id="org/eclipse/jgit/transport" />
+    <node id="android/support/v4/accessibilityservice" />
+    <node id="com/nostra13/universalimageloader/cache/disc" />
+    <node id="android/support/v4/internal/view" />
+    <node id="org/eclipse/jgit/nls" />
+    <node id="com/nostra13/universalimageloader/cache/memory" />
+    <node id="android/support/v4/view" />
+    <node id="org/eclipse/jgit/notes" />
+    <node id="org/eclipse/jgit/dircache" />
+    <node id="android/support/v13/app" />
+    <node id="android/support/v4/util" />
+    <node id="org/eclipse/jgit/diff" />
+    <node id="android/support/v4/app" />
+    <node id="android/support/v4/hardware/display" />
+    <node id="org/eclipse/jgit/api" />
+    <node id="org/eclipse/jgit/revwalk" />
+    <node id="org/eclipse/jgit/patch" />
+    <node id="org/apache/commons/io" />
+    <node id="org/eclipse/jgit/submodule" />
+    <node id="org/eclipse/jgit/util" />
+    <node id="org/eclipse/jgit/treewalk" />
+    <node id="android/support/v4/net" />
+    <node id="android/support/v4/content" />
+    <node id="org/eclipse/jgit/blame" />
+    <node id="me/sheimi/android/views" />
+    <node id="org/eclipse/jgit/ignore" />
+    <node id="org/eclipse/jgit/internal" />
+    <edge source="org/eclipse/jgit/storage/pack" target="org/eclipse/jgit/storage/pack">
+      <data key="d0">88</data>
+      <data key="d1">88</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/storage/pack" target="org/eclipse/jgit/lib">
+      <data key="d0">32</data>
+      <data key="d1">32</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/android/activities" target="com/nostra13/universalimageloader/cache/disc">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/android/activities" target="com/nostra13/universalimageloader/utils">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/android/activities" target="me/sheimi/android/activities">
+      <data key="d0">66</data>
+      <data key="d1">66</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/android/activities" target="me/sheimi/sgit">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/android/activities" target="me/sheimi/android/utils">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/android/activities" target="com/nostra13/universalimageloader/core">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/storage/file" target="org/eclipse/jgit/util">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/storage/file" target="org/eclipse/jgit/storage/file">
+      <data key="d0">72</data>
+      <data key="d1">72</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/storage/file" target="org/eclipse/jgit/internal">
+      <data key="d0">39</data>
+      <data key="d1">39</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/storage/file" target="org/eclipse/jgit/errors">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/storage/file" target="org/eclipse/jgit/lib">
+      <data key="d0">49</data>
+      <data key="d1">49</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/jcraft/jsch" target="com/jcraft/jsch">
+      <data key="d0">7609</data>
+      <data key="d1">7609</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/text" target="android/support/v4/text">
+      <data key="d0">185</data>
+      <data key="d1">185</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/revplot" target="org/eclipse/jgit/revplot">
+      <data key="d0">147</data>
+      <data key="d1">147</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/revplot" target="org/eclipse/jgit/revwalk">
+      <data key="d0">54</data>
+      <data key="d1">54</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/revplot" target="org/eclipse/jgit/lib">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/revplot" target="org/eclipse/jgit/internal">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/utils" target="com/nostra13/universalimageloader/core">
+      <data key="d0">34</data>
+      <data key="d1">34</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/utils" target="com/nostra13/universalimageloader/utils">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/print" target="android/support/v4/print">
+      <data key="d0">47</data>
+      <data key="d1">47</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/graphics/drawable" target="android/support/v4/graphics/drawable">
+      <data key="d0">42</data>
+      <data key="d1">42</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/media" target="android/support/v4/view">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/media" target="android/support/v4/media">
+      <data key="d0">162</data>
+      <data key="d1">162</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/view">
+      <data key="d0">412</data>
+      <data key="d1">412</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/widget">
+      <data key="d0">1660</data>
+      <data key="d1">1660</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/os" target="android/support/v4/os">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/fnmatch" target="org/eclipse/jgit/fnmatch">
+      <data key="d0">143</data>
+      <data key="d1">143</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/fnmatch" target="org/eclipse/jgit/internal">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/fnmatch" target="org/eclipse/jgit/errors">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/sgit" target="android/support/v4/view">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/sgit" target="me/sheimi/android/activities">
+      <data key="d0">89</data>
+      <data key="d1">89</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/sgit" target="com/jcraft/jsch">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/sgit" target="me/sheimi/android/views">
+      <data key="d0">182</data>
+      <data key="d1">182</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/sgit" target="me/sheimi/sgit">
+      <data key="d0">1230</data>
+      <data key="d1">1230</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/sgit" target="me/sheimi/android/utils">
+      <data key="d0">54</data>
+      <data key="d1">54</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/sgit" target="com/nostra13/universalimageloader/core">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/sgit" target="org/apache/commons/io">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/sgit" target="org/eclipse/jgit/diff">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/sgit" target="android/support/v13/app">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/sgit" target="org/eclipse/jgit/revwalk">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/sgit" target="org/eclipse/jgit/transport">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/sgit" target="android/support/v4/widget">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/sgit" target="org/eclipse/jgit/lib">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/android/utils" target="org/apache/commons/io">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/android/utils" target="me/sheimi/android/activities">
+      <data key="d0">13</data>
+      <data key="d1">13</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/android/utils" target="me/sheimi/android/utils">
+      <data key="d0">34</data>
+      <data key="d1">34</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/lib" target="org/eclipse/jgit/storage/file">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/lib" target="org/eclipse/jgit/revwalk">
+      <data key="d0">123</data>
+      <data key="d1">123</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/lib" target="org/eclipse/jgit/events">
+      <data key="d0">19</data>
+      <data key="d1">19</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/lib" target="org/eclipse/jgit/dircache">
+      <data key="d0">37</data>
+      <data key="d1">37</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/lib" target="org/eclipse/jgit/errors">
+      <data key="d0">184</data>
+      <data key="d1">184</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/lib" target="org/eclipse/jgit/treewalk">
+      <data key="d0">97</data>
+      <data key="d1">97</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/lib" target="org/eclipse/jgit/transport">
+      <data key="d0">84</data>
+      <data key="d1">84</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/lib" target="org/eclipse/jgit/lib">
+      <data key="d0">3215</data>
+      <data key="d1">3215</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/lib" target="org/eclipse/jgit/internal">
+      <data key="d0">146</data>
+      <data key="d1">146</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/lib" target="org/eclipse/jgit/util">
+      <data key="d0">317</data>
+      <data key="d1">317</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/events" target="org/eclipse/jgit/events">
+      <data key="d0">66</data>
+      <data key="d1">66</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/events" target="org/eclipse/jgit/lib">
+      <data key="d0">1</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/core" target="com/nostra13/universalimageloader/cache/disc">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/core" target="com/nostra13/universalimageloader/core">
+      <data key="d0">1380</data>
+      <data key="d1">1380</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/core" target="com/nostra13/universalimageloader/utils">
+      <data key="d0">118</data>
+      <data key="d1">118</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/core" target="com/nostra13/universalimageloader/cache/memory">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/errors" target="org/eclipse/jgit/transport">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/errors" target="org/eclipse/jgit/dircache">
+      <data key="d0">3</data>
+      <data key="d1">3</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/errors" target="org/eclipse/jgit/internal">
+      <data key="d0">58</data>
+      <data key="d1">58</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/errors" target="org/eclipse/jgit/errors">
+      <data key="d0">217</data>
+      <data key="d1">217</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/errors" target="org/eclipse/jgit/lib">
+      <data key="d0">29</data>
+      <data key="d1">29</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/merge" target="org/eclipse/jgit/treewalk">
+      <data key="d0">223</data>
+      <data key="d1">223</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/merge" target="org/eclipse/jgit/revwalk">
+      <data key="d0">81</data>
+      <data key="d1">81</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/merge" target="org/eclipse/jgit/dircache">
+      <data key="d0">116</data>
+      <data key="d1">116</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/merge" target="org/eclipse/jgit/errors">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/merge" target="org/eclipse/jgit/merge">
+      <data key="d0">521</data>
+      <data key="d1">521</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/merge" target="org/eclipse/jgit/diff">
+      <data key="d0">128</data>
+      <data key="d1">128</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/merge" target="org/eclipse/jgit/lib">
+      <data key="d0">145</data>
+      <data key="d1">145</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/merge" target="org/eclipse/jgit/internal">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/merge" target="org/eclipse/jgit/util">
+      <data key="d0">40</data>
+      <data key="d1">40</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/transport" target="org/eclipse/jgit/storage/pack">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/transport" target="org/eclipse/jgit/fnmatch">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/transport" target="com/jcraft/jsch">
+      <data key="d0">160</data>
+      <data key="d1">160</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/transport" target="org/eclipse/jgit/revwalk">
+      <data key="d0">510</data>
+      <data key="d1">510</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/transport" target="org/eclipse/jgit/errors">
+      <data key="d0">382</data>
+      <data key="d1">382</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/transport" target="org/eclipse/jgit/treewalk">
+      <data key="d0">31</data>
+      <data key="d1">31</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/transport" target="org/eclipse/jgit/transport">
+      <data key="d0">5170</data>
+      <data key="d1">5170</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/transport" target="org/eclipse/jgit/lib">
+      <data key="d0">1186</data>
+      <data key="d1">1186</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/transport" target="org/eclipse/jgit/internal">
+      <data key="d0">568</data>
+      <data key="d1">568</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/transport" target="org/eclipse/jgit/util">
+      <data key="d0">348</data>
+      <data key="d1">348</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/accessibilityservice" target="android/support/v4/accessibilityservice">
+      <data key="d0">56</data>
+      <data key="d1">56</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/cache/disc" target="com/nostra13/universalimageloader/cache/disc">
+      <data key="d0">150</data>
+      <data key="d1">150</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/cache/disc" target="com/nostra13/universalimageloader/core">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/cache/disc" target="com/nostra13/universalimageloader/utils">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/nls" target="org/eclipse/jgit/nls">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/nls" target="org/eclipse/jgit/errors">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/cache/memory" target="com/nostra13/universalimageloader/utils">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/cache/memory" target="com/nostra13/universalimageloader/cache/memory">
+      <data key="d0">290</data>
+      <data key="d1">290</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/view">
+      <data key="d0">2764</data>
+      <data key="d1">2764</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/internal/view">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/widget">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/os">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/notes" target="org/eclipse/jgit/merge">
+      <data key="d0">9</data>
+      <data key="d1">9</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/notes" target="org/eclipse/jgit/revwalk">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/notes" target="org/eclipse/jgit/notes">
+      <data key="d0">516</data>
+      <data key="d1">516</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/notes" target="org/eclipse/jgit/util">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/notes" target="org/eclipse/jgit/treewalk">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/notes" target="org/eclipse/jgit/lib">
+      <data key="d0">162</data>
+      <data key="d1">162</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/notes" target="org/eclipse/jgit/internal">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/dircache" target="org/eclipse/jgit/events">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/dircache" target="org/eclipse/jgit/dircache">
+      <data key="d0">838</data>
+      <data key="d1">838</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/dircache" target="org/eclipse/jgit/errors">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/dircache" target="org/eclipse/jgit/treewalk">
+      <data key="d0">250</data>
+      <data key="d1">250</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/dircache" target="org/eclipse/jgit/lib">
+      <data key="d0">109</data>
+      <data key="d1">109</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/dircache" target="org/eclipse/jgit/internal">
+      <data key="d0">107</data>
+      <data key="d1">107</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/dircache" target="org/eclipse/jgit/util">
+      <data key="d0">121</data>
+      <data key="d1">121</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v13/app" target="android/support/v4/view">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v13/app" target="android/support/v13/app">
+      <data key="d0">166</data>
+      <data key="d1">166</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/util" target="android/support/v4/util">
+      <data key="d0">458</data>
+      <data key="d1">458</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/diff" target="org/eclipse/jgit/patch">
+      <data key="d0">19</data>
+      <data key="d1">19</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/diff" target="org/eclipse/jgit/revwalk">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/diff" target="org/eclipse/jgit/errors">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/diff" target="org/eclipse/jgit/treewalk">
+      <data key="d0">106</data>
+      <data key="d1">106</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/diff" target="org/eclipse/jgit/diff">
+      <data key="d0">1535</data>
+      <data key="d1">1535</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/diff" target="org/eclipse/jgit/lib">
+      <data key="d0">251</data>
+      <data key="d1">251</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/diff" target="org/eclipse/jgit/internal">
+      <data key="d0">34</data>
+      <data key="d1">34</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/diff" target="org/eclipse/jgit/util">
+      <data key="d0">159</data>
+      <data key="d1">159</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/app">
+      <data key="d0">1733</data>
+      <data key="d1">1733</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/view">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/graphics/drawable">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/util">
+      <data key="d0">147</data>
+      <data key="d1">147</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/content">
+      <data key="d0">40</data>
+      <data key="d1">40</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/widget">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/hardware/display" target="android/support/v4/hardware/display">
+      <data key="d0">38</data>
+      <data key="d1">38</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/api" target="org/eclipse/jgit/storage/file">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/api" target="org/eclipse/jgit/api">
+      <data key="d0">3867</data>
+      <data key="d1">3867</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/api" target="org/eclipse/jgit/revwalk">
+      <data key="d0">629</data>
+      <data key="d1">629</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/api" target="org/eclipse/jgit/notes">
+      <data key="d0">32</data>
+      <data key="d1">32</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/api" target="org/eclipse/jgit/treewalk">
+      <data key="d0">349</data>
+      <data key="d1">349</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/api" target="org/eclipse/jgit/patch">
+      <data key="d0">48</data>
+      <data key="d1">48</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/api" target="org/eclipse/jgit/util">
+      <data key="d0">52</data>
+      <data key="d1">52</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/api" target="org/eclipse/jgit/dircache">
+      <data key="d0">415</data>
+      <data key="d1">415</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/api" target="org/eclipse/jgit/errors">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/api" target="org/eclipse/jgit/merge">
+      <data key="d0">158</data>
+      <data key="d1">158</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/api" target="org/eclipse/jgit/transport">
+      <data key="d0">125</data>
+      <data key="d1">125</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/api" target="org/eclipse/jgit/submodule">
+      <data key="d0">92</data>
+      <data key="d1">92</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/api" target="org/eclipse/jgit/diff">
+      <data key="d0">76</data>
+      <data key="d1">76</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/api" target="org/eclipse/jgit/lib">
+      <data key="d0">1679</data>
+      <data key="d1">1679</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/api" target="org/eclipse/jgit/internal">
+      <data key="d0">358</data>
+      <data key="d1">358</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/api" target="org/eclipse/jgit/blame">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/revwalk" target="org/eclipse/jgit/revwalk">
+      <data key="d0">2128</data>
+      <data key="d1">2128</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/revwalk" target="org/eclipse/jgit/errors">
+      <data key="d0">34</data>
+      <data key="d1">34</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/revwalk" target="org/eclipse/jgit/treewalk">
+      <data key="d0">73</data>
+      <data key="d1">73</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/revwalk" target="org/eclipse/jgit/diff">
+      <data key="d0">17</data>
+      <data key="d1">17</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/revwalk" target="org/eclipse/jgit/lib">
+      <data key="d0">176</data>
+      <data key="d1">176</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/revwalk" target="org/eclipse/jgit/internal">
+      <data key="d0">48</data>
+      <data key="d1">48</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/revwalk" target="org/eclipse/jgit/util">
+      <data key="d0">105</data>
+      <data key="d1">105</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/patch" target="org/eclipse/jgit/patch">
+      <data key="d0">403</data>
+      <data key="d1">403</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/patch" target="org/eclipse/jgit/diff">
+      <data key="d0">42</data>
+      <data key="d1">42</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/patch" target="org/eclipse/jgit/lib">
+      <data key="d0">66</data>
+      <data key="d1">66</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/patch" target="org/eclipse/jgit/internal">
+      <data key="d0">22</data>
+      <data key="d1">22</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/patch" target="org/eclipse/jgit/util">
+      <data key="d0">228</data>
+      <data key="d1">228</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/apache/commons/io" target="org/apache/commons/io">
+      <data key="d0">2891</data>
+      <data key="d1">2891</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/submodule" target="org/eclipse/jgit/storage/file">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/submodule" target="org/eclipse/jgit/submodule">
+      <data key="d0">71</data>
+      <data key="d1">71</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/submodule" target="org/eclipse/jgit/treewalk">
+      <data key="d0">70</data>
+      <data key="d1">70</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/submodule" target="org/eclipse/jgit/dircache">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/submodule" target="org/eclipse/jgit/lib">
+      <data key="d0">79</data>
+      <data key="d1">79</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/submodule" target="org/eclipse/jgit/internal">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/util" target="org/eclipse/jgit/storage/file">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/util" target="org/eclipse/jgit/errors">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/util" target="org/eclipse/jgit/util">
+      <data key="d0">1418</data>
+      <data key="d1">1418</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/util" target="org/eclipse/jgit/diff">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/util" target="org/eclipse/jgit/lib">
+      <data key="d0">83</data>
+      <data key="d1">83</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/util" target="org/eclipse/jgit/internal">
+      <data key="d0">90</data>
+      <data key="d1">90</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/treewalk" target="org/eclipse/jgit/lib">
+      <data key="d0">131</data>
+      <data key="d1">131</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/treewalk" target="org/eclipse/jgit/dircache">
+      <data key="d0">46</data>
+      <data key="d1">46</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/treewalk" target="org/eclipse/jgit/errors">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/treewalk" target="org/eclipse/jgit/treewalk">
+      <data key="d0">1278</data>
+      <data key="d1">1278</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/treewalk" target="org/eclipse/jgit/submodule">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/treewalk" target="org/eclipse/jgit/diff">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/treewalk" target="org/eclipse/jgit/ignore">
+      <data key="d0">39</data>
+      <data key="d1">39</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/treewalk" target="org/eclipse/jgit/internal">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/treewalk" target="org/eclipse/jgit/util">
+      <data key="d0">27</data>
+      <data key="d1">27</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/net" target="android/support/v4/net">
+      <data key="d0">57</data>
+      <data key="d1">57</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/content">
+      <data key="d0">353</data>
+      <data key="d1">353</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/util">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/blame" target="org/eclipse/jgit/revwalk">
+      <data key="d0">92</data>
+      <data key="d1">92</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/blame" target="org/eclipse/jgit/treewalk">
+      <data key="d0">45</data>
+      <data key="d1">45</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/blame" target="org/eclipse/jgit/diff">
+      <data key="d0">109</data>
+      <data key="d1">109</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/blame" target="org/eclipse/jgit/lib">
+      <data key="d0">52</data>
+      <data key="d1">52</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/blame" target="org/eclipse/jgit/internal">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/blame" target="org/eclipse/jgit/blame">
+      <data key="d0">309</data>
+      <data key="d1">309</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/android/views" target="me/sheimi/android/views">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/sheimi/android/views" target="me/sheimi/android/activities">
+      <data key="d0">13</data>
+      <data key="d1">13</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/ignore" target="org/eclipse/jgit/fnmatch">
+      <data key="d0">21</data>
+      <data key="d1">21</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/ignore" target="org/eclipse/jgit/ignore">
+      <data key="d0">27</data>
+      <data key="d1">27</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eclipse/jgit/internal" target="org/eclipse/jgit/nls">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

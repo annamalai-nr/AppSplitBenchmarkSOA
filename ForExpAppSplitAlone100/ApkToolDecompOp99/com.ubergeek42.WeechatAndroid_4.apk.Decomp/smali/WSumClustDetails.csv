@@ -1,0 +1,7 @@
+1,android/support/v4/app android/support/v4/content android/support/v4/os android/support/v4/util android/support/v4/view android/support/v4/widget com/viewpagerindicator
+2,com/actionbarsherlock com/ubergeek42/WeechatAndroid com/ubergeek42/weechat
+3,org/slf4j
+4,android/annotation
+5,android/support/v4/accessibilityservice
+6,android/support/v4/database
+7,org/acra

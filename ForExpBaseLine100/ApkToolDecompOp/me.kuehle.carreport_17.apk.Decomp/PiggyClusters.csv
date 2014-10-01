@@ -1,0 +1,4 @@
+1, android/annotation
+2, com/dropbox/client2 org/json/simple
+3, me/kuehle/carreport me/kuehle/chartlib org/joda/time
+4, org/apache/http/entity/mime

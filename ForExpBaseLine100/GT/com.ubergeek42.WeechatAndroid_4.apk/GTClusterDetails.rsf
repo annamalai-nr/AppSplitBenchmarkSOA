@@ -1,0 +1,15 @@
+contain 1 android/support/v4/app
+contain 2 android/support/v4/os
+contain 3 android/support/v4/content
+contain 4 android/support/v4/view
+contain 5 com/actionbarsherlock
+contain 6 com/ubergeek42/WeechatAndroid
+contain 6 com/ubergeek42/weechat
+contain 7 com/viewpagerindicator
+contain 8 org/slf4j
+contain 9 android/annotation
+contain 10 android/support/v4/accessibilityservice
+contain 11 android/support/v4/database
+contain 12 org/acra
+contain 13 android/support/v4/util
+contain 14 android/support/v4/widget

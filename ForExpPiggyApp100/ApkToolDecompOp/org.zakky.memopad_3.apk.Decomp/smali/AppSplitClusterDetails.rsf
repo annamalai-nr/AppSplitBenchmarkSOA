@@ -1,0 +1,8 @@
+contain 1 android/annotation
+contain 2 android/support/v4/app
+contain 2 org/zakky/memopad
+contain 2 android/support/v4/view
+contain 2 android/support/v4/content
+contain 2 android/support/v4/util
+contain 3 android/support/v4/os
+contain 4 android/support/v4/widget

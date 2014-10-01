@@ -1,0 +1,12 @@
+1,android/annotation
+2,android/support/v4/accessibilityservice
+3,android/support/v4/app
+4,android/support/v4/content
+5,android/support/v4/database
+6,android/support/v4/os
+7,android/support/v4/util
+8,android/support/v4/view
+9,android/support/v4/widget
+10,com/zapta/apps/maniana
+11,javax/annotation
+12,net/margaritov/preference/colorpicker

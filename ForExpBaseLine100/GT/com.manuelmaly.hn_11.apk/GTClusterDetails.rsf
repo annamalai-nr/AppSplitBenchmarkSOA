@@ -1,0 +1,13 @@
+contain 1 android/support/v4/app
+contain 2 android/support/v4/os
+contain 3 android/support/v4/content
+contain 4 android/support/v4/view
+contain 5 com/google/android/apps/analytics
+contain 6 com/googlecode/androidannotations
+contain 7 com/manuelmaly/hn
+contain 8 org/jsoup
+contain 9 android/annotation
+contain 10 android/support/v4/accessibilityservice
+contain 11 android/support/v4/database
+contain 12 android/support/v4/util
+contain 13 android/support/v4/widget

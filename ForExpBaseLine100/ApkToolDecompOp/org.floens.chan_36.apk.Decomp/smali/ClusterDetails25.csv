@@ -1,0 +1,18 @@
+1,com/j256/ormlite/db com/j256/ormlite/field com/j256/ormlite/misc com/j256/ormlite/support
+2,com/j256/ormlite/dao
+3,com/j256/ormlite/stmt
+4,com/j256/ormlite/table
+5,com/j256/ormlite/android
+6,com/j256/ormlite/logger
+7,org/jsoup
+8,pl/droidsonroids/gif
+9,org/floens/chan
+10,com/mobeta/android/dslv
+11,com/micromobs/android/floatlabel
+12,com/davemorrissey/labs/subscaleview
+13,com/android/volley/toolbox
+14,android/support/v4/widget
+15,android/support/v4/view
+16,android/support/v4/content
+17,android/support/v4/app
+18,android/support/v13/app

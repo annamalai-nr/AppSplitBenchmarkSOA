@@ -1,0 +1,23 @@
+1,junit/extensions junit/framework junit/runner junit/textui
+2,junit/awtui
+3,junit/swingui
+4,android/test
+5,android/support/v4/view android/support/v4/widget
+6,android/support/v13/app
+7,android/support/v4/media
+8,android/support/v4/app
+9,android/support/v4/util
+10,android/support/v4/content
+11,de/greenrobot/event
+12,com/vmihalachi/turboeditor
+13,org/apache/commons/io
+14,android/support/v4/text
+15,it/gmariotti/changelibs
+16,android/support/v4/net
+17,android/support/v4/hardware/display
+18,android/support/v4/graphics/drawable
+19,android/support/v4/database
+20,android/support/v4/accessibilityservice
+21,android/annotation
+22,android/support/v4/os
+23,android/support/v4/internal/view

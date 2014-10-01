@@ -1,0 +1,14 @@
+1,android/support/v4/app
+2,android/support/v4/content android/support/v4/internal/view
+3,android/support/v4/graphics/drawable
+4,android/support/v4/media
+5,android/support/v4/os
+6,android/support/v4/util
+7,android/support/v4/view android/support/v4/widget
+8,android/support/v4/accessibilityservice
+9,android/support/v4/database
+10,android/support/v4/hardware/display
+11,android/support/v4/net
+12,android/support/v4/print
+13,android/support/v4/text
+14,com/wordpress/sarfraznawaz/callerdetails

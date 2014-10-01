@@ -1,0 +1,4 @@
+android/annotation
+com/google/tts
+org/acra
+org/navitproject/navit

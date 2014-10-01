@@ -1,0 +1,13 @@
+contain 1 android/support/v4/app
+contain 2 android/support/v4/os
+contain 3 android/support/v4/content
+contain 4 android/support/v4/view
+contain 5 com/actionbarsherlock
+contain 6 com/commonsware/cwac/tlv
+contain 7 com/xatik/app/droiddraw/client
+contain 7 com/xatik/app/droiddraw/common
+contain 8 android/annotation
+contain 9 android/support/v4/accessibilityservice
+contain 10 android/support/v4/database
+contain 11 android/support/v4/util
+contain 12 android/support/v4/widget

@@ -1,0 +1,20 @@
+1,android/support/v7/app android/support/v7/internal/view android/support/v7/internal/widget
+2,android/support/v7/view
+3,android/support/v4/app
+4,android/support/v4/util
+5,android/support/v4/content
+6,android/support/v7/widget
+7,android/support/v4/view android/support/v4/widget
+8,android/support/v4/media
+9,au/com/bytecode/opencsv
+10,nl/frankkie/bronylivewallpaper
+11,jp/tomorrowkey/android/gifplayer
+12,android/support/v4/print
+13,android/support/v4/text
+14,android/support/v4/net
+15,android/support/v4/hardware/display
+16,android/support/v4/graphics/drawable
+17,android/support/v4/database
+18,android/support/v4/accessibilityservice
+19,android/support/v4/os
+20,android/support/v4/internal/view

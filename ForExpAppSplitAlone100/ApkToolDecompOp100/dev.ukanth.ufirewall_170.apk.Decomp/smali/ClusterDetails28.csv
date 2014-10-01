@@ -1,0 +1,19 @@
+1,android/support/v4/content android/support/v4/internal/view
+2,android/support/v4/media
+3,android/support/v4/os
+4,android/support/v4/app android/support/v4/util
+5,android/support/v4/view android/support/v4/widget
+6,com/actionbarsherlock
+7,com/haibison/android/lockpattern
+8,com/stericson/RootTools
+9,dev/ukanth/ufirewall
+10,eu/chainfire/libsuperuser
+11,net/saik0/android/unifiedpreference
+12,android/support/v4/accessibilityservice
+13,android/support/v4/database
+14,android/support/v4/graphics/drawable
+15,android/support/v4/hardware/display
+16,android/support/v4/net
+17,android/support/v4/text
+18,com/twofortyfouram/locale
+19,net/margaritov/preference/colorpicker

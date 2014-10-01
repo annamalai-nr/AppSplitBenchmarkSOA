@@ -1,0 +1,62 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="org/achartengine" />
+    <node id="org/w3c/dom" />
+    <node id="org/jaxen" />
+    <node id="org/dom4j" />
+    <node id="to/networld/android/divedroid" />
+    <edge source="org/achartengine" target="org/achartengine">
+      <data key="d0">882</data>
+      <data key="d1">882</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/jaxen" target="org/w3c/dom">
+      <data key="d0">143</data>
+      <data key="d1">143</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/jaxen" target="org/jaxen">
+      <data key="d0">4855</data>
+      <data key="d1">4855</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/jaxen" target="org/dom4j">
+      <data key="d0">83</data>
+      <data key="d1">83</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/dom4j" target="org/w3c/dom">
+      <data key="d0">232</data>
+      <data key="d1">232</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/dom4j" target="org/jaxen">
+      <data key="d0">75</data>
+      <data key="d1">75</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/dom4j" target="org/dom4j">
+      <data key="d0">9979</data>
+      <data key="d1">9979</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="to/networld/android/divedroid" target="org/achartengine">
+      <data key="d0">74</data>
+      <data key="d1">74</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="to/networld/android/divedroid" target="to/networld/android/divedroid">
+      <data key="d0">621</data>
+      <data key="d1">621</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="to/networld/android/divedroid" target="org/dom4j">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

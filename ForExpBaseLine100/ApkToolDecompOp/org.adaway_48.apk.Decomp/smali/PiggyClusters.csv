@@ -1,0 +1,10 @@
+1, android/support/v4/accessibilityservice
+2, android/support/v4/app com/actionbarsherlock org/adaway org/sufficientlysecure/rootcommands android/support/v4/view android/support/v4/widget android/support/v4/util android/support/v4/content com/commonsware/cwac/wakeful org/sufficientlysecure/donations android/support/v4/internal/view org/sufficientlysecure/htmltextview
+3, android/support/v4/database
+4, android/support/v4/graphics/drawable
+5, android/support/v4/hardware/display
+6, android/support/v4/media
+7, android/support/v4/net
+8, android/support/v4/os
+9, android/support/v4/text
+10, com/android/vending/billing

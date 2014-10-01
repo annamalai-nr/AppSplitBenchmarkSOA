@@ -1,0 +1,9 @@
+contain 1 a/a/a/a/a/a
+contain 2 b/a
+contain 2 org/mumod/b
+contain 2 org/apache/a/a/a
+contain 2 org/apache/james/mime4j
+contain 2 org/mumod/d
+contain 2 org/mumod/e
+contain 2 org/mumod/a
+contain 3 org/mumod/c

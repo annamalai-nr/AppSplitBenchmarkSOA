@@ -1,0 +1,9 @@
+contain 1 com/darknessmap
+contain 2 com/google/code/microlog4android
+contain 3 com/google/code/morphia
+contain 4 com/google/gson
+contain 5 com/mongodb
+contain 6 com/paulm/jsignal
+contain 7 org/bson
+contain 8 org/slf4j
+contain 9 relocated/morphia/org/apache/commons/collections

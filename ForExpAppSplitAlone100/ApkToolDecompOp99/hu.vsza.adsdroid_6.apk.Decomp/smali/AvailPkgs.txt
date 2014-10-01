@@ -1,0 +1,10 @@
+a
+hu
+a/a
+a/a/c
+a/a/a
+a/a/d
+a/a/b
+hu/vsza
+hu/vsza/a
+hu/vsza/adsdroid

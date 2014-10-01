@@ -1,0 +1,24 @@
+1,org/videolan/libvlc
+2,org/videolan/vlc
+3,android/support/v4/view android/support/v4/widget
+4,android/support/v4/media
+5,android/support/v4/app
+6,android/support/v4/util
+7,org/videolan/android/ui
+8,android/support/v4/content
+9,android/support/v7/internal/view android/support/v7/internal/widget
+10,android/support/v7/app
+11,android/support/v7/view
+12,android/support/v7/widget
+13,com/slidingmenu/lib
+14,android/support/v4/text
+15,kankan/wheel
+16,android/support/v4/print
+17,android/support/v4/net
+18,android/support/v4/hardware/display
+19,android/support/v4/graphics/drawable
+20,android/support/v4/database
+21,android/support/v4/accessibilityservice
+22,android/support/annotation
+23,android/support/v4/os
+24,android/support/v4/internal/view

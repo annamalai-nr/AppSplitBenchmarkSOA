@@ -1,0 +1,4 @@
+1, android/support/v4/accessibilityservice
+2, android/support/v4/app com/actionbarsherlock com/unleashyouradventure/swaccess com/unleashyouradventure/swapi org/jsoup com/novoda/imageloader/core android/support/v4/widget android/support/v4/view android/support/v4/content android/support/v4/util com/google/gson
+3, android/support/v4/database
+4, android/support/v4/os

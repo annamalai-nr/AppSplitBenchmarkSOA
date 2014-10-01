@@ -1,0 +1,68 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="android/support/v4/view" />
+    <node id="com/gokhanmoral/stweaks/app" />
+    <node id="android/support/v4/c" />
+    <node id="android/support/v4/b" />
+    <node id="android/support/v4/a" />
+    <node id="android/support/v4/d" />
+    <edge source="android/support/v4/view" target="android/support/v4/b">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/view">
+      <data key="d0">1120</data>
+      <data key="d1">1120</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/d">
+      <data key="d0">34</data>
+      <data key="d1">34</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/gokhanmoral/stweaks/app" target="android/support/v4/view">
+      <data key="d0">27</data>
+      <data key="d1">27</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/gokhanmoral/stweaks/app" target="android/support/v4/a">
+      <data key="d0">52</data>
+      <data key="d1">52</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/gokhanmoral/stweaks/app" target="com/gokhanmoral/stweaks/app">
+      <data key="d0">308</data>
+      <data key="d1">308</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/c" target="android/support/v4/c">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/b" target="android/support/v4/b">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/a" target="android/support/v4/c">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/a" target="android/support/v4/a">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/d" target="android/support/v4/d">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

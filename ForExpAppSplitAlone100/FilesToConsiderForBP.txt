@@ -1,0 +1,7 @@
+MojoFMOP_1_0_0_sli.txt
+MojoFMOP_0_1_0_sli.txt
+MojoFMOP_0_0_1_sli.txt
+MojoFMOP_1_1_0_sli.txt
+MojoFMOP_1_0_1_sli.txt
+MojoFMOP_0_1_1_sli.txt
+MojoFMOP_1_1_1_sli.txt

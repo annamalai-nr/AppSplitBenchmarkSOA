@@ -1,0 +1,25 @@
+1,com/google/common/escape com/google/common/html com/google/common/xml
+2,com/google/common/collect com/google/common/reflect
+3,com/google/common/base com/google/common/cache com/google/common/eventbus com/google/common/io com/google/common/net com/google/common/primitives
+4,com/google/common/hash
+5,com/google/thirdparty/publicsuffix
+6,com/google/common/math
+7,com/google/common/util/concurrent
+8,com/google/android/apps/dashclock/api
+9,net/imatruck/betterweather
+10,com/getpebble/android/kit
+11,android/support/v4/app
+12,android/support/v4/util
+13,android/support/v4/content
+14,android/support/v4/view android/support/v4/widget
+15,android/support/v4/media
+16,android/support/v4/graphics/drawable
+17,android/support/v4/text
+18,com/google/common/annotations
+19,android/support/v4/print
+20,android/support/v4/net
+21,android/support/v4/hardware/display
+22,android/support/v4/database
+23,android/support/v4/accessibilityservice
+24,android/support/v4/os
+25,android/support/v4/internal/view

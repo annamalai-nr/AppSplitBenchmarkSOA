@@ -1,0 +1,14 @@
+contain 1 android/support/v4/app
+contain 2 android/support/v4/content
+contain 3 android/support/v4/os
+contain 4 android/support/v4/util
+contain 5 android/support/v4/view
+contain 6 android/support/v4/widget
+contain 7 com/actionbarsherlock
+contain 8 com/dalthed/tucan
+contain 9 com/viewpagerindicator
+contain 10 org/acra
+contain 11 org/apache/commons/lang3
+contain 12 org/jsoup
+contain 13 android/support/v4/accessibilityservice
+contain 14 android/support/v4/database

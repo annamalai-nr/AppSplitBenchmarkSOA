@@ -1,0 +1,16 @@
+contain 1 android/support/v4/accessibilityservice
+contain 2 android/support/v4/app
+contain 3 android/support/v4/content
+contain 4 android/support/v4/database
+contain 5 android/support/v4/graphics/drawable
+contain 6 android/support/v4/hardware/display
+contain 7 android/support/v4/internal/view
+contain 8 android/support/v4/media
+contain 9 android/support/v4/net
+contain 10 android/support/v4/os
+contain 11 android/support/v4/print
+contain 12 android/support/v4/text
+contain 13 android/support/v4/util
+contain 14 android/support/v4/view
+contain 15 android/support/v4/widget
+contain 16 com/f0x/eddymalou

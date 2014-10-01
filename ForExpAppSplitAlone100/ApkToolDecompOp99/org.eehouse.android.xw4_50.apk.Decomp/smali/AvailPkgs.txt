@@ -1,0 +1,11 @@
+org
+android
+com
+org/eehouse
+org/eehouse/android
+org/eehouse/android/xw4
+org/eehouse/android/xw4/jni
+android/annotation
+com/google
+com/google/android
+com/google/android/gcm

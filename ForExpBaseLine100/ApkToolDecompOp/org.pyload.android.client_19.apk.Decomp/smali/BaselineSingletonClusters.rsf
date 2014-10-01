@@ -1,0 +1,11 @@
+contain 1 android/support/v4/a
+contain 2 android/support/v4/b
+contain 3 android/support/v4/c
+contain 4 android/support/v4/d
+contain 5 android/support/v4/view
+contain 6 org/apache/commons/codec
+contain 7 org/apache/commons/lang
+contain 8 org/apache/thrift
+contain 9 org/pyload/android/client
+contain 10 org/pyload/thrift
+contain 11 org/slf4j

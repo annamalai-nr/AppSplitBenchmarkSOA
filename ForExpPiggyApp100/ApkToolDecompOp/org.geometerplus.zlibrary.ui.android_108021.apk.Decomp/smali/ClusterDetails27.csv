@@ -1,0 +1,18 @@
+1,org/geometerplus/zlibrary/core/config org/geometerplus/zlibrary/core/sqliteconfig
+2,org/geometerplus/android/fbreader
+3,org/geometerplus/fbreader
+4,org/geometerplus/zlibrary/core/view
+5,org/geometerplus/zlibrary/ui/android
+6,org/geometerplus/zlibrary/core/application org/geometerplus/zlibrary/core/image org/geometerplus/zlibrary/core/library org/geometerplus/zlibrary/core/money org/geometerplus/zlibrary/core/network org/geometerplus/zlibrary/core/options org/geometerplus/zlibrary/core/util
+7,org/geometerplus/zlibrary/core/encodings org/geometerplus/zlibrary/core/filesystem org/geometerplus/zlibrary/core/filetypes org/geometerplus/zlibrary/core/language org/geometerplus/zlibrary/core/resources org/geometerplus/zlibrary/core/xml
+8,org/geometerplus/android/util
+9,org/geometerplus/zlibrary/text/hyphenation
+10,org/geometerplus/zlibrary/text/model
+11,org/geometerplus/zlibrary/text/view
+12,org/geometerplus/zlibrary/core/html
+13,org/geometerplus/zlibrary/core/tree
+14,android/annotation
+15,org/geometerplus/zlibrary/core/constants
+16,org/vimgadgets/linebreak
+17,yuku/ambilwarna
+18,org/amse/ys/zip

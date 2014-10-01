@@ -1,0 +1,5 @@
+contain 1 org/achartengine
+contain 1 to/networld/android/divedroid
+contain 1 org/dom4j
+contain 1 org/w3c/dom
+contain 1 org/jaxen

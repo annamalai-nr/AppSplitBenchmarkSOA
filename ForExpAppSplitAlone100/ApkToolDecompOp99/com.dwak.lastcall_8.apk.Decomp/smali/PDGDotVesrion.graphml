@@ -1,0 +1,113 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="android/support/v4/app" />
+    <node id="android/support/v4/view" />
+    <node id="com/google/android/apps/dashclock/api" />
+    <node id="android/support/v4/util" />
+    <node id="android/support/v4/net" />
+    <node id="com/dwak/lastcall" />
+    <node id="android/support/v4/content" />
+    <node id="android/support/v4/widget" />
+    <node id="android/support/v4/database" />
+    <node id="android/support/v4/os" />
+    <node id="android/support/v4/accessibilityservice" />
+    <edge source="android/support/v4/app" target="android/support/v4/app">
+      <data key="d0">1703</data>
+      <data key="d1">1703</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/view">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/content">
+      <data key="d0">40</data>
+      <data key="d1">40</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/widget">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/util">
+      <data key="d0">112</data>
+      <data key="d1">112</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/view">
+      <data key="d0">2412</data>
+      <data key="d1">2412</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/widget">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/os">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/android/apps/dashclock/api" target="com/google/android/apps/dashclock/api">
+      <data key="d0">112</data>
+      <data key="d1">112</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/util" target="android/support/v4/util">
+      <data key="d0">156</data>
+      <data key="d1">156</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/net" target="android/support/v4/net">
+      <data key="d0">57</data>
+      <data key="d1">57</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/dwak/lastcall" target="com/dwak/lastcall">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/dwak/lastcall" target="com/google/android/apps/dashclock/api">
+      <data key="d0">36</data>
+      <data key="d1">36</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/content">
+      <data key="d0">333</data>
+      <data key="d1">333</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/util">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/view">
+      <data key="d0">314</data>
+      <data key="d1">314</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/widget">
+      <data key="d0">1378</data>
+      <data key="d1">1378</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/os" target="android/support/v4/os">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/accessibilityservice" target="android/support/v4/accessibilityservice">
+      <data key="d0">36</data>
+      <data key="d1">36</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

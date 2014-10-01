@@ -1,0 +1,358 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="android/support/v4/app" />
+    <node id="android/support/v4/view" />
+    <node id="pl/droidsonroids/gif" />
+    <node id="com/davemorrissey/labs/subscaleview" />
+    <node id="com/j256/ormlite/field" />
+    <node id="com/micromobs/android/floatlabel" />
+    <node id="com/j256/ormlite/table" />
+    <node id="com/j256/ormlite/android" />
+    <node id="com/mobeta/android/dslv" />
+    <node id="org/floens/chan" />
+    <node id="com/j256/ormlite/dao" />
+    <node id="com/j256/ormlite/misc" />
+    <node id="android/support/v13/app" />
+    <node id="org/jsoup" />
+    <node id="com/j256/ormlite/db" />
+    <node id="android/support/v4/content" />
+    <node id="com/android/volley/toolbox" />
+    <node id="android/support/v4/widget" />
+    <node id="com/j256/ormlite/logger" />
+    <node id="com/j256/ormlite/stmt" />
+    <node id="com/j256/ormlite/support" />
+    <edge source="android/support/v4/app" target="android/support/v4/app">
+      <data key="d0">56</data>
+      <data key="d1">56</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/view">
+      <data key="d0">623</data>
+      <data key="d1">623</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="pl/droidsonroids/gif" target="pl/droidsonroids/gif">
+      <data key="d0">170</data>
+      <data key="d1">170</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/davemorrissey/labs/subscaleview" target="com/davemorrissey/labs/subscaleview">
+      <data key="d0">640</data>
+      <data key="d1">640</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/field" target="com/j256/ormlite/dao">
+      <data key="d0">35</data>
+      <data key="d1">35</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/field" target="com/j256/ormlite/field">
+      <data key="d0">1604</data>
+      <data key="d1">1604</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/field" target="com/j256/ormlite/misc">
+      <data key="d0">58</data>
+      <data key="d1">58</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/field" target="com/j256/ormlite/support">
+      <data key="d0">67</data>
+      <data key="d1">67</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/field" target="com/j256/ormlite/db">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/field" target="com/j256/ormlite/stmt">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/field" target="com/j256/ormlite/table">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/micromobs/android/floatlabel" target="com/micromobs/android/floatlabel">
+      <data key="d0">22</data>
+      <data key="d1">22</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/table" target="com/j256/ormlite/dao">
+      <data key="d0">29</data>
+      <data key="d1">29</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/table" target="com/j256/ormlite/field">
+      <data key="d0">59</data>
+      <data key="d1">59</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/table" target="com/j256/ormlite/logger">
+      <data key="d0">19</data>
+      <data key="d1">19</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/table" target="com/j256/ormlite/misc">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/table" target="com/j256/ormlite/db">
+      <data key="d0">42</data>
+      <data key="d1">42</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/table" target="com/j256/ormlite/support">
+      <data key="d0">68</data>
+      <data key="d1">68</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/table" target="com/j256/ormlite/table">
+      <data key="d0">174</data>
+      <data key="d1">174</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/android" target="com/j256/ormlite/dao">
+      <data key="d0">11</data>
+      <data key="d1">11</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/android" target="com/j256/ormlite/field">
+      <data key="d0">144</data>
+      <data key="d1">144</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/android" target="com/j256/ormlite/android">
+      <data key="d0">324</data>
+      <data key="d1">324</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/android" target="com/j256/ormlite/misc">
+      <data key="d0">36</data>
+      <data key="d1">36</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/android" target="com/j256/ormlite/support">
+      <data key="d0">38</data>
+      <data key="d1">38</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/android" target="com/j256/ormlite/db">
+      <data key="d0">13</data>
+      <data key="d1">13</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/android" target="com/j256/ormlite/logger">
+      <data key="d0">104</data>
+      <data key="d1">104</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/android" target="com/j256/ormlite/stmt">
+      <data key="d0">9</data>
+      <data key="d1">9</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/android" target="com/j256/ormlite/table">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/mobeta/android/dslv" target="com/mobeta/android/dslv">
+      <data key="d0">342</data>
+      <data key="d1">342</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/floens/chan" target="org/floens/chan">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/dao" target="com/j256/ormlite/dao">
+      <data key="d0">876</data>
+      <data key="d1">876</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/dao" target="com/j256/ormlite/field">
+      <data key="d0">31</data>
+      <data key="d1">31</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/dao" target="com/j256/ormlite/logger">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/dao" target="com/j256/ormlite/misc">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/dao" target="com/j256/ormlite/support">
+      <data key="d0">169</data>
+      <data key="d1">169</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/dao" target="com/j256/ormlite/db">
+      <data key="d0">3</data>
+      <data key="d1">3</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/dao" target="com/j256/ormlite/stmt">
+      <data key="d0">117</data>
+      <data key="d1">117</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/dao" target="com/j256/ormlite/table">
+      <data key="d0">54</data>
+      <data key="d1">54</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/misc" target="com/j256/ormlite/dao">
+      <data key="d0">17</data>
+      <data key="d1">17</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/misc" target="com/j256/ormlite/field">
+      <data key="d0">54</data>
+      <data key="d1">54</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/misc" target="com/j256/ormlite/logger">
+      <data key="d0">30</data>
+      <data key="d1">30</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/misc" target="com/j256/ormlite/misc">
+      <data key="d0">54</data>
+      <data key="d1">54</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/misc" target="com/j256/ormlite/db">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/misc" target="com/j256/ormlite/support">
+      <data key="d0">31</data>
+      <data key="d1">31</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v13/app" target="android/support/v13/app">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/jsoup" target="org/jsoup">
+      <data key="d0">2772</data>
+      <data key="d1">2772</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/db" target="com/j256/ormlite/db">
+      <data key="d0">102</data>
+      <data key="d1">102</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/db" target="com/j256/ormlite/android">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/db" target="com/j256/ormlite/misc">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/db" target="com/j256/ormlite/field">
+      <data key="d0">123</data>
+      <data key="d1">123</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/db" target="com/j256/ormlite/support">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/content">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/volley/toolbox" target="com/android/volley/toolbox">
+      <data key="d0">30</data>
+      <data key="d1">30</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/widget">
+      <data key="d0">342</data>
+      <data key="d1">342</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/logger" target="com/j256/ormlite/logger">
+      <data key="d0">274</data>
+      <data key="d1">274</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/stmt" target="com/j256/ormlite/dao">
+      <data key="d0">50</data>
+      <data key="d1">50</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/stmt" target="com/j256/ormlite/field">
+      <data key="d0">230</data>
+      <data key="d1">230</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/stmt" target="com/j256/ormlite/logger">
+      <data key="d0">112</data>
+      <data key="d1">112</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/stmt" target="com/j256/ormlite/misc">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/stmt" target="com/j256/ormlite/support">
+      <data key="d0">194</data>
+      <data key="d1">194</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/stmt" target="com/j256/ormlite/db">
+      <data key="d0">83</data>
+      <data key="d1">83</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/stmt" target="com/j256/ormlite/stmt">
+      <data key="d0">1308</data>
+      <data key="d1">1308</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/stmt" target="com/j256/ormlite/table">
+      <data key="d0">129</data>
+      <data key="d1">129</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/support" target="com/j256/ormlite/logger">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/support" target="com/j256/ormlite/misc">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/support" target="com/j256/ormlite/support">
+      <data key="d0">44</data>
+      <data key="d1">44</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

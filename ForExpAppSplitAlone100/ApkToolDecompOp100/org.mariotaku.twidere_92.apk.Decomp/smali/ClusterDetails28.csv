@@ -1,0 +1,39 @@
+1,android/support/v4/content
+2,android/support/v4/media
+3,android/support/v4/os
+4,android/support/v4/app android/support/v4/util
+5,android/support/v13/app android/support/v4/view android/support/v4/widget
+6,com/etsy/android/grid
+7,com/google/android/apps/dashclock/api
+8,com/jeremyfeinstein/slidingmenu/lib
+9,com/mobeta/android/dslv
+10,com/negusoft/holoaccent
+11,com/nostra13/universalimageloader/cache/memory
+12,com/nostra13/universalimageloader/cache/disc com/nostra13/universalimageloader/core com/nostra13/universalimageloader/utils
+13,com/readystatesoftware/viewbadger
+14,com/scvngr/levelup/views/gallery
+15,com/twitter
+16,de/keyboardsurfer/android/widget/crouton
+17,edu/ucdavis/earlybird
+18,fr/castorflex/android/smoothprogressbar
+19,android/support/v4/internal/view it/sephiroth/android/library/imagezoom
+20,me/imid/swipebacklayout/lib
+21,microsoft/mappoint
+22,org/acra
+23,org/apache/commons/lang3
+24,org/apache/http/entity/mime
+25,org/mariotaku/menucomponent
+26,org/mariotaku/refreshnow
+27,org/mariotaku/gallery3d org/mariotaku/jsonserializer org/mariotaku/querybuilder org/mariotaku/twidere
+28,org/metalev/multitouch/controller
+29,org/osmdroid
+30,org/slf4j
+31,twitter4j
+32,android/support/v4/accessibilityservice
+33,android/support/v4/database
+34,android/support/v4/graphics/drawable
+35,android/support/v4/hardware/display
+36,android/support/v4/net
+37,android/support/v4/text
+38,org/mariotaku/harmony/view
+39,org/xbill/DNS

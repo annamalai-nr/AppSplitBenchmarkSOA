@@ -1,0 +1,41 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="oauth/signpost" />
+    <node id="org/tomdroid" />
+    <node id="com/google/gdata/util/common/base" />
+    <node id="difflib" />
+    <edge source="oauth/signpost" target="com/google/gdata/util/common/base">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="oauth/signpost" target="oauth/signpost">
+      <data key="d0">708</data>
+      <data key="d1">708</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/tomdroid" target="org/tomdroid">
+      <data key="d0">3923</data>
+      <data key="d1">3923</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/tomdroid" target="difflib">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/gdata/util/common/base" target="com/google/gdata/util/common/base">
+      <data key="d0">103</data>
+      <data key="d1">103</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="difflib" target="difflib">
+      <data key="d0">109</data>
+      <data key="d1">109</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

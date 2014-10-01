@@ -1,0 +1,2018 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="org/gudy/azureus2/core3/ipchecker/extipchecker" />
+    <node id="com/frostwire/android" />
+    <node id="org/gudy/azureus2/core3/tracker/protocol" />
+    <node id="org/appwork/utils" />
+    <node id="org/gudy/azureus2/core3/stats" />
+    <node id="com/aelitis/net/natpmp" />
+    <node id="org/appwork/storage" />
+    <node id="org/gudy/azureus2/core3/internat" />
+    <node id="jd/utils" />
+    <node id="android/support/v4/os" />
+    <node id="javax/enterprise/event" />
+    <node id="android/support/v4/accessibilityservice" />
+    <node id="org/gudy/azureus2/core3/html" />
+    <node id="org/gudy/azureus2/core3/logging" />
+    <node id="android/support/v4/content" />
+    <node id="com/coremedia/iso" />
+    <node id="javax/decorator" />
+    <node id="android/support/v4/util" />
+    <node id="com/aelitis/net/magneturi" />
+    <node id="org/gudy/azureus2/core3/global" />
+    <node id="com/aelitis/azureus/plugins/sharing/hoster" />
+    <node id="org/gudy/azureus2/core3/download" />
+    <node id="com/aelitis/azureus/plugins/startstoprules/always" />
+    <node id="com/aelitis/azureus/ui" />
+    <node id="com/aelitis/net/udp/uc" />
+    <node id="org/apache/commons/io" />
+    <node id="com/aelitis/net/udp/mc" />
+    <node id="android/support/v4/net" />
+    <node id="com/frostwire/search" />
+    <node id="org/gudy/azureus2/core3/tracker/util" />
+    <node id="com/aelitis/azureus/activities" />
+    <node id="com/aelitis/azureus/plugins/removerules" />
+    <node id="javax/enterprise/context" />
+    <node id="org/apache/commons/lang" />
+    <node id="android/support/v4/database" />
+    <node id="com/android/vending/billing" />
+    <node id="javax/annotation" />
+    <node id="jd/parser" />
+    <node id="org/bouncycastle/crypto" />
+    <node id="sun/net/httpserver" />
+    <node id="com/aelitis/azureus/plugins/clientid" />
+    <node id="javax/interceptor" />
+    <node id="org/gudy/azureus2/core3/disk" />
+    <node id="org/gudy/azureus2/core3/security" />
+    <node id="android/annotation" />
+    <node id="com/aelitis/azureus/plugins/extseed" />
+    <node id="com/jakewharton" />
+    <node id="org/xmlpull/v1" />
+    <node id="ch/qos/logback/repackage/com/mindprod/ledatastream" />
+    <node id="org/gudy/azureus2/core3/torrent" />
+    <node id="javax/inject" />
+    <node id="org/seamless/xml" />
+    <node id="ch/qos/logback/repackage/brut/androlib" />
+    <node id="org/pf/file" />
+    <node id="com/slidingmenu/lib" />
+    <node id="org/gudy/azureus2/core3/ipchecker/natchecker" />
+    <node id="org/gudy/azureus2/core3/util" />
+    <node id="com/frostwire/licences" />
+    <node id="com/googlecode/mp4parser" />
+    <node id="com/sun/net/httpserver" />
+    <node id="org/slf4j" />
+    <node id="com/frostwire/util" />
+    <node id="org/json" />
+    <node id="httpserver/com/sun/net/httpserver" />
+    <node id="org/gudy/azureus2/core3/xml/simpleparser" />
+    <node id="ch/qos/logback/core" />
+    <node id="com/aelitis/azureus/plugins/startstoprules/defaultplugin" />
+    <node id="javax/enterprise/util" />
+    <node id="org/gudy/azureus2/core3/category" />
+    <node id="android/support/v4/view" />
+    <node id="org/gudy/azureus2/plugins" />
+    <node id="com/aelitis/azureus/core" />
+    <node id="com/frostwire/gui/upnp" />
+    <node id="sun/misc" />
+    <node id="javax/servlet" />
+    <node id="org/gudy/azureus2/platform" />
+    <node id="ch/qos/logback/repackage/brut/util" />
+    <node id="org/bouncycastle/util/encoders" />
+    <node id="sun/net/www" />
+    <node id="com/aelitis/azureus/plugins/upnp" />
+    <node id="sun/security/action" />
+    <node id="com/frostwire/core" />
+    <node id="org/gudy/azureus2/core3/config" />
+    <node id="org/gudy/azureus2/core3/ipfilter" />
+    <node id="android/support/v4/widget" />
+    <node id="com/aelitis/azureus/plugins/dht" />
+    <node id="com/frostwire/mp3" />
+    <node id="com/google/gson" />
+    <node id="org/gudy/azureus2/core3/xml/util" />
+    <node id="org/seamless/util" />
+    <node id="org/gudy/azureus2/core3/tracker/client" />
+    <node id="ch/qos/logback/classic" />
+    <node id="com/frostwire/frostclick" />
+    <node id="org/gudy/azureus2/core3/peer" />
+    <node id="org/pf/text" />
+    <node id="ch/qos/logback/repackage/brut/common" />
+    <node id="javax/enterprise/inject" />
+    <node id="jd/http" />
+    <node id="jd/nutils/encoding" />
+    <node id="com/aelitis/net/upnp" />
+    <node id="org/seamless/http" />
+    <node id="com/aelitis/azureus/util" />
+    <node id="com/google/ads" />
+    <node id="android/support/v4/app" />
+    <node id="org/fourthline/cling" />
+    <node id="org/seamless/xhtml" />
+    <edge source="org/gudy/azureus2/core3/ipchecker/extipchecker" target="org/gudy/azureus2/core3/ipchecker/extipchecker">
+      <data key="d0">143</data>
+      <data key="d1">143</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/ipchecker/extipchecker" target="org/gudy/azureus2/core3/internat">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/ipchecker/extipchecker" target="org/gudy/azureus2/core3/util">
+      <data key="d0">88</data>
+      <data key="d1">88</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/android" target="com/frostwire/util">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/android" target="com/jakewharton">
+      <data key="d0">27</data>
+      <data key="d1">27</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/android" target="org/slf4j">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/android" target="com/frostwire/android">
+      <data key="d0">1471</data>
+      <data key="d1">1471</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/android" target="com/frostwire/gui/upnp">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/android" target="org/apache/commons/io">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/android" target="org/json">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/android" target="org/fourthline/cling">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/android" target="android/support/v4/util">
+      <data key="d0">27</data>
+      <data key="d1">27</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/android" target="com/frostwire/search">
+      <data key="d0">58</data>
+      <data key="d1">58</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/android" target="com/android/vending/billing">
+      <data key="d0">13</data>
+      <data key="d1">13</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/tracker/protocol" target="org/gudy/azureus2/core3/tracker/protocol">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/tracker/protocol" target="org/gudy/azureus2/core3/config">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/tracker/protocol" target="com/aelitis/net/udp/uc">
+      <data key="d0">186</data>
+      <data key="d1">186</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/tracker/protocol" target="org/gudy/azureus2/core3/util">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/appwork/utils" target="org/appwork/utils">
+      <data key="d0">560</data>
+      <data key="d1">560</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/stats" target="org/gudy/azureus2/core3/peer">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/stats" target="org/gudy/azureus2/core3/util">
+      <data key="d0">29</data>
+      <data key="d1">29</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/stats" target="org/gudy/azureus2/core3/logging">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/stats" target="org/gudy/azureus2/core3/torrent">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/stats" target="org/gudy/azureus2/core3/xml/util">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/stats" target="org/gudy/azureus2/core3/stats">
+      <data key="d0">289</data>
+      <data key="d1">289</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/stats" target="com/aelitis/azureus/core">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/stats" target="org/gudy/azureus2/core3/config">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/stats" target="org/gudy/azureus2/core3/global">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/stats" target="org/gudy/azureus2/core3/disk">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/stats" target="org/gudy/azureus2/core3/download">
+      <data key="d0">60</data>
+      <data key="d1">60</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/natpmp" target="com/aelitis/net/natpmp">
+      <data key="d0">98</data>
+      <data key="d1">98</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/natpmp" target="com/aelitis/azureus/core">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/internat" target="org/gudy/azureus2/core3/util">
+      <data key="d0">63</data>
+      <data key="d1">63</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/internat" target="org/gudy/azureus2/core3/config">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/internat" target="org/gudy/azureus2/core3/torrent">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/internat" target="org/gudy/azureus2/core3/internat">
+      <data key="d0">269</data>
+      <data key="d1">269</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/internat" target="org/gudy/azureus2/core3/logging">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="jd/utils" target="jd/utils">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/os" target="android/support/v4/os">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/accessibilityservice" target="android/support/v4/accessibilityservice">
+      <data key="d0">36</data>
+      <data key="d1">36</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/html" target="org/gudy/azureus2/core3/html">
+      <data key="d0">100</data>
+      <data key="d1">100</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/html" target="org/gudy/azureus2/core3/xml/util">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/html" target="org/gudy/azureus2/core3/util">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/logging" target="org/gudy/azureus2/plugins">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/logging" target="org/gudy/azureus2/core3/logging">
+      <data key="d0">271</data>
+      <data key="d1">271</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/logging" target="org/gudy/azureus2/core3/util">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/logging" target="com/aelitis/azureus/core">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/logging" target="org/gudy/azureus2/core3/config">
+      <data key="d0">31</data>
+      <data key="d1">31</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/logging" target="org/gudy/azureus2/core3/internat">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/content">
+      <data key="d0">298</data>
+      <data key="d1">298</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/util">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/coremedia/iso" target="com/googlecode/mp4parser">
+      <data key="d0">758</data>
+      <data key="d1">758</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/coremedia/iso" target="com/coremedia/iso">
+      <data key="d0">2094</data>
+      <data key="d1">2094</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/util" target="android/support/v4/util">
+      <data key="d0">156</data>
+      <data key="d1">156</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/magneturi" target="org/bouncycastle/util/encoders">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/magneturi" target="org/gudy/azureus2/core3/logging">
+      <data key="d0">56</data>
+      <data key="d1">56</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/magneturi" target="org/gudy/azureus2/core3/util">
+      <data key="d0">89</data>
+      <data key="d1">89</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/magneturi" target="com/aelitis/azureus/core">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/magneturi" target="org/gudy/azureus2/core3/internat">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/magneturi" target="com/aelitis/net/magneturi">
+      <data key="d0">191</data>
+      <data key="d1">191</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/global" target="org/gudy/azureus2/core3/peer">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/global" target="org/gudy/azureus2/core3/util">
+      <data key="d0">489</data>
+      <data key="d1">489</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/global" target="org/gudy/azureus2/core3/logging">
+      <data key="d0">30</data>
+      <data key="d1">30</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/global" target="org/gudy/azureus2/core3/torrent">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/global" target="org/gudy/azureus2/core3/tracker/client">
+      <data key="d0">11</data>
+      <data key="d1">11</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/global" target="org/gudy/azureus2/core3/stats">
+      <data key="d0">9</data>
+      <data key="d1">9</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/global" target="com/aelitis/azureus/core">
+      <data key="d0">50</data>
+      <data key="d1">50</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/global" target="org/gudy/azureus2/core3/config">
+      <data key="d0">46</data>
+      <data key="d1">46</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/global" target="org/gudy/azureus2/core3/internat">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/global" target="org/gudy/azureus2/core3/category">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/global" target="org/gudy/azureus2/core3/global">
+      <data key="d0">312</data>
+      <data key="d1">312</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/global" target="org/gudy/azureus2/core3/disk">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/global" target="org/gudy/azureus2/plugins">
+      <data key="d0">1</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/global" target="org/gudy/azureus2/core3/download">
+      <data key="d0">392</data>
+      <data key="d1">392</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/global" target="org/gudy/azureus2/core3/tracker/util">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/sharing/hoster" target="org/gudy/azureus2/plugins">
+      <data key="d0">149</data>
+      <data key="d1">149</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/sharing/hoster" target="com/aelitis/azureus/plugins/sharing/hoster">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/sharing/hoster" target="org/gudy/azureus2/core3/internat">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/sharing/hoster" target="org/gudy/azureus2/core3/util">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/download" target="com/aelitis/azureus/plugins/extseed">
+      <data key="d0">11</data>
+      <data key="d1">11</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/download" target="org/gudy/azureus2/core3/util">
+      <data key="d0">1307</data>
+      <data key="d1">1307</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/download" target="org/gudy/azureus2/core3/logging">
+      <data key="d0">96</data>
+      <data key="d1">96</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/download" target="org/gudy/azureus2/core3/torrent">
+      <data key="d0">133</data>
+      <data key="d1">133</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/download" target="org/gudy/azureus2/core3/peer">
+      <data key="d0">222</data>
+      <data key="d1">222</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/download" target="com/aelitis/azureus/core">
+      <data key="d0">228</data>
+      <data key="d1">228</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/download" target="org/gudy/azureus2/core3/config">
+      <data key="d0">76</data>
+      <data key="d1">76</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/download" target="org/gudy/azureus2/core3/internat">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/download" target="org/gudy/azureus2/core3/category">
+      <data key="d0">25</data>
+      <data key="d1">25</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/download" target="org/gudy/azureus2/core3/global">
+      <data key="d0">50</data>
+      <data key="d1">50</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/download" target="org/gudy/azureus2/core3/disk">
+      <data key="d0">196</data>
+      <data key="d1">196</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/download" target="org/gudy/azureus2/core3/tracker/client">
+      <data key="d0">145</data>
+      <data key="d1">145</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/download" target="org/gudy/azureus2/plugins">
+      <data key="d0">64</data>
+      <data key="d1">64</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/download" target="org/gudy/azureus2/core3/download">
+      <data key="d0">2665</data>
+      <data key="d1">2665</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/startstoprules/always" target="org/gudy/azureus2/plugins">
+      <data key="d0">101</data>
+      <data key="d1">101</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/startstoprules/always" target="com/aelitis/azureus/plugins/startstoprules/always">
+      <data key="d0">78</data>
+      <data key="d1">78</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/ui" target="org/gudy/azureus2/plugins">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/ui" target="org/gudy/azureus2/core3/util">
+      <data key="d0">41</data>
+      <data key="d1">41</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/ui" target="com/aelitis/azureus/ui">
+      <data key="d0">88</data>
+      <data key="d1">88</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/ui" target="org/gudy/azureus2/core3/torrent">
+      <data key="d0">23</data>
+      <data key="d1">23</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/ui" target="com/aelitis/azureus/core">
+      <data key="d0">13</data>
+      <data key="d1">13</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/ui" target="org/gudy/azureus2/core3/config">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/ui" target="org/gudy/azureus2/core3/global">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/ui" target="org/gudy/azureus2/core3/security">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/ui" target="com/aelitis/azureus/util">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/ui" target="org/gudy/azureus2/core3/download">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/udp/uc" target="org/bouncycastle/util/encoders">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/udp/uc" target="org/gudy/azureus2/core3/logging">
+      <data key="d0">96</data>
+      <data key="d1">96</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/udp/uc" target="org/gudy/azureus2/core3/util">
+      <data key="d0">310</data>
+      <data key="d1">310</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/udp/uc" target="com/aelitis/net/udp/uc">
+      <data key="d0">478</data>
+      <data key="d1">478</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/udp/uc" target="com/aelitis/azureus/core">
+      <data key="d0">53</data>
+      <data key="d1">53</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/udp/uc" target="org/gudy/azureus2/core3/config">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/apache/commons/io" target="org/apache/commons/io">
+      <data key="d0">1198</data>
+      <data key="d1">1198</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/udp/mc" target="org/gudy/azureus2/core3/config">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/udp/mc" target="com/aelitis/net/udp/mc">
+      <data key="d0">118</data>
+      <data key="d1">118</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/udp/mc" target="org/gudy/azureus2/core3/util">
+      <data key="d0">91</data>
+      <data key="d1">91</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/net" target="android/support/v4/net">
+      <data key="d0">57</data>
+      <data key="d1">57</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/search" target="com/frostwire/util">
+      <data key="d0">49</data>
+      <data key="d1">49</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/search" target="org/json">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/search" target="org/slf4j">
+      <data key="d0">54</data>
+      <data key="d1">54</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/search" target="org/gudy/azureus2/core3/util">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/search" target="com/frostwire/licences">
+      <data key="d0">3</data>
+      <data key="d1">3</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/search" target="org/gudy/azureus2/core3/torrent">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/search" target="jd/parser">
+      <data key="d0">98</data>
+      <data key="d1">98</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/search" target="org/apache/commons/io">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/search" target="jd/http">
+      <data key="d0">117</data>
+      <data key="d1">117</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/search" target="com/frostwire/search">
+      <data key="d0">1117</data>
+      <data key="d1">1117</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/search" target="jd/nutils/encoding">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/tracker/util" target="org/gudy/azureus2/core3/util">
+      <data key="d0">41</data>
+      <data key="d1">41</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/tracker/util" target="org/gudy/azureus2/core3/config">
+      <data key="d0">46</data>
+      <data key="d1">46</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/tracker/util" target="org/gudy/azureus2/core3/tracker/util">
+      <data key="d0">51</data>
+      <data key="d1">51</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/tracker/util" target="org/gudy/azureus2/core3/tracker/client">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/tracker/util" target="com/aelitis/azureus/core">
+      <data key="d0">17</data>
+      <data key="d1">17</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/activities" target="com/aelitis/azureus/activities">
+      <data key="d0">238</data>
+      <data key="d1">238</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/activities" target="org/gudy/azureus2/core3/util">
+      <data key="d0">107</data>
+      <data key="d1">107</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/activities" target="com/aelitis/azureus/ui">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/activities" target="org/gudy/azureus2/core3/torrent">
+      <data key="d0">17</data>
+      <data key="d1">17</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/activities" target="com/aelitis/azureus/core">
+      <data key="d0">63</data>
+      <data key="d1">63</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/activities" target="org/gudy/azureus2/core3/config">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/activities" target="org/gudy/azureus2/core3/global">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/activities" target="com/aelitis/azureus/util">
+      <data key="d0">72</data>
+      <data key="d1">72</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/activities" target="org/gudy/azureus2/core3/download">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/removerules" target="com/aelitis/azureus/plugins/removerules">
+      <data key="d0">32</data>
+      <data key="d1">32</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/removerules" target="org/gudy/azureus2/plugins">
+      <data key="d0">160</data>
+      <data key="d1">160</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/removerules" target="org/gudy/azureus2/core3/util">
+      <data key="d0">30</data>
+      <data key="d1">30</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/apache/commons/lang" target="org/apache/commons/lang">
+      <data key="d0">122</data>
+      <data key="d1">122</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/vending/billing" target="com/android/vending/billing">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="jd/parser" target="org/appwork/utils">
+      <data key="d0">34</data>
+      <data key="d1">34</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="jd/parser" target="jd/nutils/encoding">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="jd/parser" target="jd/utils">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="jd/parser" target="jd/parser">
+      <data key="d0">325</data>
+      <data key="d1">325</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="jd/parser" target="jd/http">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="sun/net/httpserver" target="com/sun/net/httpserver">
+      <data key="d0">358</data>
+      <data key="d1">358</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="sun/net/httpserver" target="sun/net/httpserver">
+      <data key="d0">980</data>
+      <data key="d1">980</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/clientid" target="org/gudy/azureus2/plugins">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/clientid" target="org/gudy/azureus2/core3/config">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/clientid" target="com/aelitis/azureus/plugins/clientid">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/clientid" target="org/gudy/azureus2/core3/peer">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/disk" target="org/gudy/azureus2/plugins">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/disk" target="org/gudy/azureus2/core3/util">
+      <data key="d0">411</data>
+      <data key="d1">411</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/disk" target="org/gudy/azureus2/core3/logging">
+      <data key="d0">180</data>
+      <data key="d1">180</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/disk" target="org/gudy/azureus2/core3/torrent">
+      <data key="d0">79</data>
+      <data key="d1">79</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/disk" target="com/aelitis/azureus/core">
+      <data key="d0">146</data>
+      <data key="d1">146</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/disk" target="org/gudy/azureus2/core3/config">
+      <data key="d0">42</data>
+      <data key="d1">42</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/disk" target="org/gudy/azureus2/platform">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/disk" target="org/gudy/azureus2/core3/internat">
+      <data key="d0">21</data>
+      <data key="d1">21</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/disk" target="org/gudy/azureus2/core3/disk">
+      <data key="d0">1164</data>
+      <data key="d1">1164</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/disk" target="org/gudy/azureus2/core3/download">
+      <data key="d0">217</data>
+      <data key="d1">217</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/security" target="org/gudy/azureus2/core3/config">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/security" target="org/gudy/azureus2/core3/security">
+      <data key="d0">221</data>
+      <data key="d1">221</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/security" target="org/gudy/azureus2/core3/util">
+      <data key="d0">120</data>
+      <data key="d1">120</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/security" target="org/gudy/azureus2/core3/logging">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/security" target="com/aelitis/azureus/core">
+      <data key="d0">13</data>
+      <data key="d1">13</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/extseed" target="org/gudy/azureus2/plugins">
+      <data key="d0">480</data>
+      <data key="d1">480</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/extseed" target="org/gudy/azureus2/core3/util">
+      <data key="d0">92</data>
+      <data key="d1">92</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/extseed" target="com/aelitis/azureus/plugins/extseed">
+      <data key="d0">674</data>
+      <data key="d1">674</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/extseed" target="com/aelitis/azureus/core">
+      <data key="d0">42</data>
+      <data key="d1">42</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/extseed" target="org/gudy/azureus2/core3/config">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/extseed" target="org/gudy/azureus2/core3/security">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/jakewharton" target="com/jakewharton">
+      <data key="d0">306</data>
+      <data key="d1">306</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xmlpull/v1" target="org/xmlpull/v1">
+      <data key="d0">199</data>
+      <data key="d1">199</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="ch/qos/logback/repackage/com/mindprod/ledatastream" target="ch/qos/logback/repackage/com/mindprod/ledatastream">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/torrent" target="org/gudy/azureus2/core3/html">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/torrent" target="org/gudy/azureus2/plugins">
+      <data key="d0">58</data>
+      <data key="d1">58</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/torrent" target="org/gudy/azureus2/core3/util">
+      <data key="d0">186</data>
+      <data key="d1">186</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/torrent" target="org/gudy/azureus2/core3/logging">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/torrent" target="org/gudy/azureus2/core3/torrent">
+      <data key="d0">977</data>
+      <data key="d1">977</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/torrent" target="org/gudy/azureus2/core3/xml/util">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/torrent" target="com/aelitis/azureus/core">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/torrent" target="org/gudy/azureus2/core3/internat">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/torrent" target="org/gudy/azureus2/core3/global">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/torrent" target="org/gudy/azureus2/core3/xml/simpleparser">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/torrent" target="org/gudy/azureus2/core3/security">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/seamless/xml" target="org/seamless/xml">
+      <data key="d0">393</data>
+      <data key="d1">393</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/seamless/xml" target="org/xmlpull/v1">
+      <data key="d0">39</data>
+      <data key="d1">39</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="ch/qos/logback/repackage/brut/androlib" target="ch/qos/logback/repackage/brut/common">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/pf/file" target="org/pf/file">
+      <data key="d0">332</data>
+      <data key="d1">332</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/pf/file" target="org/pf/text">
+      <data key="d0">34</data>
+      <data key="d1">34</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/slidingmenu/lib" target="android/support/v4/app">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/slidingmenu/lib" target="android/support/v4/view">
+      <data key="d0">48</data>
+      <data key="d1">48</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/slidingmenu/lib" target="com/slidingmenu/lib">
+      <data key="d0">920</data>
+      <data key="d1">920</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/ipchecker/natchecker" target="org/gudy/azureus2/plugins">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/ipchecker/natchecker" target="org/gudy/azureus2/core3/util">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/ipchecker/natchecker" target="org/gudy/azureus2/core3/logging">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/ipchecker/natchecker" target="org/gudy/azureus2/core3/ipchecker/natchecker">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/ipchecker/natchecker" target="com/aelitis/azureus/plugins/upnp">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/ipchecker/natchecker" target="com/aelitis/azureus/core">
+      <data key="d0">57</data>
+      <data key="d1">57</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/ipchecker/natchecker" target="org/gudy/azureus2/core3/tracker/util">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/ipchecker/natchecker" target="org/gudy/azureus2/core3/internat">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/util" target="org/bouncycastle/util/encoders">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/util" target="org/gudy/azureus2/core3/util">
+      <data key="d0">4932</data>
+      <data key="d1">4932</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/util" target="org/gudy/azureus2/core3/logging">
+      <data key="d0">140</data>
+      <data key="d1">140</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/util" target="org/gudy/azureus2/core3/torrent">
+      <data key="d0">303</data>
+      <data key="d1">303</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/util" target="org/gudy/azureus2/core3/xml/util">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/util" target="org/gudy/azureus2/core3/peer">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/util" target="com/aelitis/azureus/core">
+      <data key="d0">70</data>
+      <data key="d1">70</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/util" target="org/gudy/azureus2/core3/config">
+      <data key="d0">102</data>
+      <data key="d1">102</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/util" target="org/gudy/azureus2/platform">
+      <data key="d0">22</data>
+      <data key="d1">22</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/util" target="org/gudy/azureus2/core3/internat">
+      <data key="d0">62</data>
+      <data key="d1">62</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/util" target="org/gudy/azureus2/core3/global">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/util" target="com/aelitis/net/magneturi">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/util" target="org/gudy/azureus2/core3/disk">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/util" target="org/gudy/azureus2/core3/security">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/util" target="org/gudy/azureus2/plugins">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/util" target="org/gudy/azureus2/core3/download">
+      <data key="d0">44</data>
+      <data key="d1">44</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/licences" target="com/frostwire/licences">
+      <data key="d0">64</data>
+      <data key="d1">64</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/googlecode/mp4parser" target="com/googlecode/mp4parser">
+      <data key="d0">698</data>
+      <data key="d1">698</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/googlecode/mp4parser" target="com/coremedia/iso">
+      <data key="d0">289</data>
+      <data key="d1">289</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/sun/net/httpserver" target="com/sun/net/httpserver">
+      <data key="d0">203</data>
+      <data key="d1">203</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/sun/net/httpserver" target="sun/net/httpserver">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/sun/net/httpserver" target="sun/misc">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/slf4j" target="ch/qos/logback/classic">
+      <data key="d0">21</data>
+      <data key="d1">21</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/slf4j" target="ch/qos/logback/core">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/slf4j" target="org/slf4j">
+      <data key="d0">426</data>
+      <data key="d1">426</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/util" target="com/frostwire/util">
+      <data key="d0">178</data>
+      <data key="d1">178</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/util" target="org/apache/commons/io">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/util" target="com/google/gson">
+      <data key="d0">9</data>
+      <data key="d1">9</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/util" target="org/slf4j">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/json" target="org/json">
+      <data key="d0">584</data>
+      <data key="d1">584</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/json" target="org/gudy/azureus2/core3/util">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/xml/simpleparser" target="org/gudy/azureus2/plugins">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="ch/qos/logback/core" target="ch/qos/logback/core">
+      <data key="d0">3703</data>
+      <data key="d1">3703</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/startstoprules/defaultplugin" target="org/gudy/azureus2/core3/config">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/startstoprules/defaultplugin" target="com/aelitis/azureus/plugins/startstoprules/defaultplugin">
+      <data key="d0">380</data>
+      <data key="d1">380</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/startstoprules/defaultplugin" target="org/gudy/azureus2/plugins">
+      <data key="d0">717</data>
+      <data key="d1">717</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/startstoprules/defaultplugin" target="org/gudy/azureus2/core3/util">
+      <data key="d0">181</data>
+      <data key="d1">181</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/startstoprules/defaultplugin" target="com/aelitis/azureus/core">
+      <data key="d0">9</data>
+      <data key="d1">9</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/category" target="org/gudy/azureus2/core3/util">
+      <data key="d0">84</data>
+      <data key="d1">84</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/category" target="org/gudy/azureus2/core3/download">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/category" target="org/gudy/azureus2/core3/category">
+      <data key="d0">185</data>
+      <data key="d1">185</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/category" target="com/aelitis/azureus/core">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/view">
+      <data key="d0">2270</data>
+      <data key="d1">2270</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/widget">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/os">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/plugins" target="org/gudy/azureus2/plugins">
+      <data key="d0">108</data>
+      <data key="d1">108</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/plugins" target="org/gudy/azureus2/core3/util">
+      <data key="d0">11</data>
+      <data key="d1">11</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="org/gudy/azureus2/core3/peer">
+      <data key="d0">32</data>
+      <data key="d1">32</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="org/gudy/azureus2/core3/torrent">
+      <data key="d0">39</data>
+      <data key="d1">39</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="org/gudy/azureus2/core3/ipfilter">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="org/gudy/azureus2/core3/util">
+      <data key="d0">1340</data>
+      <data key="d1">1340</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="org/gudy/azureus2/core3/logging">
+      <data key="d0">310</data>
+      <data key="d1">310</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="com/aelitis/azureus/ui">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="com/aelitis/azureus/plugins/clientid">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="com/aelitis/net/udp/uc">
+      <data key="d0">56</data>
+      <data key="d1">56</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="org/gudy/azureus2/core3/tracker/client">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="org/gudy/azureus2/core3/stats">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="com/aelitis/azureus/core">
+      <data key="d0">4093</data>
+      <data key="d1">4093</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="com/aelitis/azureus/plugins/dht">
+      <data key="d0">25</data>
+      <data key="d1">25</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="org/gudy/azureus2/core3/config">
+      <data key="d0">209</data>
+      <data key="d1">209</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="org/gudy/azureus2/platform">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="org/gudy/azureus2/core3/internat">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="org/gudy/azureus2/core3/global">
+      <data key="d0">73</data>
+      <data key="d1">73</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="org/gudy/azureus2/core3/disk">
+      <data key="d0">94</data>
+      <data key="d1">94</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="org/gudy/azureus2/plugins">
+      <data key="d0">306</data>
+      <data key="d1">306</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="com/aelitis/azureus/util">
+      <data key="d0">108</data>
+      <data key="d1">108</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/core" target="org/gudy/azureus2/core3/download">
+      <data key="d0">152</data>
+      <data key="d1">152</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/gui/upnp" target="com/frostwire/util">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/gui/upnp" target="com/frostwire/gui/upnp">
+      <data key="d0">283</data>
+      <data key="d1">283</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/gui/upnp" target="org/fourthline/cling">
+      <data key="d0">337</data>
+      <data key="d1">337</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/gui/upnp" target="com/frostwire/android">
+      <data key="d0">50</data>
+      <data key="d1">50</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="sun/misc" target="sun/misc">
+      <data key="d0">48</data>
+      <data key="d1">48</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/platform" target="org/gudy/azureus2/plugins">
+      <data key="d0">107</data>
+      <data key="d1">107</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/platform" target="org/gudy/azureus2/core3/logging">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/platform" target="org/gudy/azureus2/core3/util">
+      <data key="d0">44</data>
+      <data key="d1">44</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/platform" target="com/aelitis/azureus/ui">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/platform" target="com/aelitis/azureus/core">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/platform" target="org/gudy/azureus2/core3/config">
+      <data key="d0">30</data>
+      <data key="d1">30</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/platform" target="org/gudy/azureus2/core3/internat">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/platform" target="org/gudy/azureus2/platform">
+      <data key="d0">192</data>
+      <data key="d1">192</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="ch/qos/logback/repackage/brut/util" target="ch/qos/logback/repackage/brut/util">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="sun/net/www" target="sun/net/www">
+      <data key="d0">43</data>
+      <data key="d1">43</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/upnp" target="org/gudy/azureus2/plugins">
+      <data key="d0">413</data>
+      <data key="d1">413</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/upnp" target="com/aelitis/net/upnp">
+      <data key="d0">190</data>
+      <data key="d1">190</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/upnp" target="org/gudy/azureus2/core3/util">
+      <data key="d0">130</data>
+      <data key="d1">130</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/upnp" target="com/aelitis/azureus/plugins/upnp">
+      <data key="d0">542</data>
+      <data key="d1">542</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/upnp" target="com/aelitis/net/natpmp">
+      <data key="d0">11</data>
+      <data key="d1">11</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/upnp" target="org/gudy/azureus2/core3/config">
+      <data key="d0">31</data>
+      <data key="d1">31</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/upnp" target="org/gudy/azureus2/core3/internat">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="sun/security/action" target="sun/security/action">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/config" target="org/gudy/azureus2/core3/logging">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/config" target="org/gudy/azureus2/core3/util">
+      <data key="d0">190</data>
+      <data key="d1">190</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/config" target="com/aelitis/azureus/core">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/config" target="org/gudy/azureus2/core3/config">
+      <data key="d0">804</data>
+      <data key="d1">804</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/config" target="org/gudy/azureus2/core3/global">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/config" target="org/gudy/azureus2/core3/security">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/ipfilter" target="org/gudy/azureus2/plugins">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/ipfilter" target="org/gudy/azureus2/core3/util">
+      <data key="d0">399</data>
+      <data key="d1">399</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/ipfilter" target="org/gudy/azureus2/core3/logging">
+      <data key="d0">102</data>
+      <data key="d1">102</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/ipfilter" target="org/gudy/azureus2/core3/tracker/protocol">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/ipfilter" target="com/aelitis/azureus/ui">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/ipfilter" target="com/aelitis/azureus/core">
+      <data key="d0">15</data>
+      <data key="d1">15</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/ipfilter" target="org/gudy/azureus2/core3/config">
+      <data key="d0">40</data>
+      <data key="d1">40</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/ipfilter" target="org/gudy/azureus2/core3/ipfilter">
+      <data key="d0">612</data>
+      <data key="d1">612</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/widget">
+      <data key="d0">297</data>
+      <data key="d1">297</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/dht" target="org/gudy/azureus2/plugins">
+      <data key="d0">323</data>
+      <data key="d1">323</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/dht" target="org/gudy/azureus2/core3/util">
+      <data key="d0">534</data>
+      <data key="d1">534</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/dht" target="com/aelitis/azureus/plugins/upnp">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/dht" target="com/aelitis/azureus/core">
+      <data key="d0">366</data>
+      <data key="d1">366</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/dht" target="com/aelitis/azureus/plugins/dht">
+      <data key="d0">1234</data>
+      <data key="d1">1234</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/plugins/dht" target="org/gudy/azureus2/core3/config">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/mp3" target="com/frostwire/mp3">
+      <data key="d0">1497</data>
+      <data key="d1">1497</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/gson" target="com/google/gson">
+      <data key="d0">2365</data>
+      <data key="d1">2365</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/xml/util" target="org/gudy/azureus2/core3/xml/util">
+      <data key="d0">146</data>
+      <data key="d1">146</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/xml/util" target="org/gudy/azureus2/core3/util">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/seamless/util" target="org/seamless/util">
+      <data key="d0">1435</data>
+      <data key="d1">1435</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/tracker/client" target="org/gudy/azureus2/plugins">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/tracker/client" target="org/gudy/azureus2/core3/util">
+      <data key="d0">214</data>
+      <data key="d1">214</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/tracker/client" target="org/gudy/azureus2/core3/logging">
+      <data key="d0">68</data>
+      <data key="d1">68</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/tracker/client" target="org/gudy/azureus2/core3/torrent">
+      <data key="d0">47</data>
+      <data key="d1">47</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/tracker/client" target="com/aelitis/azureus/core">
+      <data key="d0">63</data>
+      <data key="d1">63</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/tracker/client" target="org/gudy/azureus2/core3/config">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/tracker/client" target="org/gudy/azureus2/core3/internat">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/tracker/client" target="org/gudy/azureus2/core3/tracker/client">
+      <data key="d0">684</data>
+      <data key="d1">684</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="ch/qos/logback/classic" target="org/slf4j">
+      <data key="d0">66</data>
+      <data key="d1">66</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="ch/qos/logback/classic" target="ch/qos/logback/classic">
+      <data key="d0">2343</data>
+      <data key="d1">2343</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="ch/qos/logback/classic" target="org/xmlpull/v1">
+      <data key="d0">22</data>
+      <data key="d1">22</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="ch/qos/logback/classic" target="ch/qos/logback/core">
+      <data key="d0">689</data>
+      <data key="d1">689</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="ch/qos/logback/classic" target="ch/qos/logback/repackage/brut/androlib">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/frostclick" target="com/frostwire/frostclick">
+      <data key="d0">1</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/frostwire/frostclick" target="org/apache/commons/io">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/peer" target="org/gudy/azureus2/core3/peer">
+      <data key="d0">237</data>
+      <data key="d1">237</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/peer" target="org/gudy/azureus2/core3/logging">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/peer" target="org/gudy/azureus2/core3/util">
+      <data key="d0">184</data>
+      <data key="d1">184</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/peer" target="org/gudy/azureus2/plugins">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/peer" target="com/aelitis/azureus/core">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/peer" target="org/gudy/azureus2/core3/config">
+      <data key="d0">22</data>
+      <data key="d1">22</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/gudy/azureus2/core3/peer" target="org/gudy/azureus2/core3/disk">
+      <data key="d0">51</data>
+      <data key="d1">51</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/pf/text" target="org/pf/text">
+      <data key="d0">325</data>
+      <data key="d1">325</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="jd/http" target="jd/nutils/encoding">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="jd/http" target="org/appwork/utils">
+      <data key="d0">161</data>
+      <data key="d1">161</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="jd/http" target="jd/parser">
+      <data key="d0">136</data>
+      <data key="d1">136</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="jd/http" target="jd/http">
+      <data key="d0">1304</data>
+      <data key="d1">1304</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="jd/nutils/encoding" target="jd/nutils/encoding">
+      <data key="d0">60</data>
+      <data key="d1">60</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="jd/nutils/encoding" target="org/appwork/utils">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/upnp" target="org/gudy/azureus2/plugins">
+      <data key="d0">22</data>
+      <data key="d1">22</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/upnp" target="com/aelitis/net/upnp">
+      <data key="d0">279</data>
+      <data key="d1">279</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/upnp" target="org/gudy/azureus2/core3/util">
+      <data key="d0">170</data>
+      <data key="d1">170</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/net/upnp" target="com/aelitis/azureus/core">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/seamless/http" target="org/seamless/util">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/seamless/http" target="org/seamless/http">
+      <data key="d0">231</data>
+      <data key="d1">231</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/util" target="org/bouncycastle/util/encoders">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/util" target="com/aelitis/azureus/activities">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/util" target="org/gudy/azureus2/core3/util">
+      <data key="d0">83</data>
+      <data key="d1">83</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/util" target="org/gudy/azureus2/core3/logging">
+      <data key="d0">32</data>
+      <data key="d1">32</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/util" target="com/aelitis/azureus/ui">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/util" target="org/gudy/azureus2/core3/torrent">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/util" target="org/gudy/azureus2/plugins">
+      <data key="d0">132</data>
+      <data key="d1">132</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/util" target="com/aelitis/azureus/core">
+      <data key="d0">217</data>
+      <data key="d1">217</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/util" target="org/json">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/util" target="org/gudy/azureus2/core3/global">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/util" target="org/gudy/azureus2/core3/disk">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/util" target="com/aelitis/azureus/util">
+      <data key="d0">170</data>
+      <data key="d1">170</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/aelitis/azureus/util" target="org/gudy/azureus2/core3/download">
+      <data key="d0">46</data>
+      <data key="d1">46</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/ads" target="com/google/ads">
+      <data key="d0">101</data>
+      <data key="d1">101</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/app">
+      <data key="d0">1597</data>
+      <data key="d1">1597</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/view">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/content">
+      <data key="d0">40</data>
+      <data key="d1">40</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/util">
+      <data key="d0">112</data>
+      <data key="d1">112</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/fourthline/cling" target="org/seamless/util">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/fourthline/cling" target="org/fourthline/cling">
+      <data key="d0">3321</data>
+      <data key="d1">3321</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/seamless/xhtml" target="org/seamless/xml">
+      <data key="d0">160</data>
+      <data key="d1">160</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/seamless/xhtml" target="org/seamless/xhtml">
+      <data key="d0">458</data>
+      <data key="d1">458</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

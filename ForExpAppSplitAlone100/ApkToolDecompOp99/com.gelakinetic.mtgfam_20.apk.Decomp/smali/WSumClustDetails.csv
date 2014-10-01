@@ -1,0 +1,7 @@
+1,android/support/v4/app android/support/v4/content android/support/v4/os android/support/v4/util android/support/v4/view android/support/v4/widget roboguice/util/temp
+2,com/actionbarsherlock com/gelakinetic/mtgfam com/octo/android/robospice com/slidingmenu/lib
+3,com/google/common/base com/google/common/cache com/google/common/collect com/google/common/eventbus com/google/common/hash com/google/common/io com/google/common/math com/google/common/net com/google/common/primitives com/google/common/reflect com/google/common/util/concurrent com/google/gson org/apache/commons/io
+4,android/support/v4/accessibilityservice
+5,android/support/v4/database
+6,android/support/v4/net
+7,com/google/common/annotations

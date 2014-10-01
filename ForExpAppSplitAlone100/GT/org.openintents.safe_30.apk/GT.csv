@@ -1,0 +1,12 @@
+1,android/support/v4/os
+2,android/support/v4/app
+12,android/support/v4/content
+13,android/support/v4/util
+3,android/support/v4/view
+14,android/support/v4/widget
+4,estreamj/ciphers/trivium estreamj/framework
+6,org/openintents/safe org/openintents/distribution org/openintents/util
+8,android/support/v4/accessibilityservice
+9,android/support/v4/database
+10,android/support/v4/net
+11,org/openintents/intents

@@ -1,0 +1,20 @@
+1,android/support/v4/view android/support/v4/widget
+2,android/support/v4/media
+3,android/support/v4/app
+4,android/support/v4/util
+5,android/support/v4/content
+6,org/sufficientlysecure/donations
+7,com/actionbarsherlock
+8,org/adaway
+9,org/sufficientlysecure/rootcommands
+10,com/commonsware/cwac/wakeful
+11,org/sufficientlysecure/htmltextview
+12,android/support/v4/text
+13,com/android/vending/billing
+14,android/support/v4/net
+15,android/support/v4/hardware/display
+16,android/support/v4/graphics/drawable
+17,android/support/v4/database
+18,android/support/v4/accessibilityservice
+19,android/support/v4/os
+20,android/support/v4/internal/view

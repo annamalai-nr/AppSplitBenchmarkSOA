@@ -1,0 +1,172 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="org/apache/commons/codec" />
+    <node id="net/fortuna/ical4j/filter" />
+    <node id="org/dgtale/icsimport" />
+    <node id="net/fortuna/ical4j/util" />
+    <node id="org/apache/commons/lang" />
+    <node id="net/fortuna/ical4j/data" />
+    <node id="net/fortuna/ical4j/transform" />
+    <node id="edu/emory/mathcs/backport/java/util" />
+    <node id="net/fortuna/ical4j/model" />
+    <node id="org/apache/commons/logging" />
+    <edge source="org/apache/commons/codec" target="org/apache/commons/codec">
+      <data key="d0">2014</data>
+      <data key="d1">2014</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/filter" target="net/fortuna/ical4j/filter">
+      <data key="d0">66</data>
+      <data key="d1">66</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/filter" target="org/apache/commons/logging">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/filter" target="net/fortuna/ical4j/model">
+      <data key="d0">21</data>
+      <data key="d1">21</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/dgtale/icsimport" target="net/fortuna/ical4j/model">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/dgtale/icsimport" target="org/dgtale/icsimport">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/dgtale/icsimport" target="net/fortuna/ical4j/data">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/util" target="org/apache/commons/codec">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/util" target="net/fortuna/ical4j/util">
+      <data key="d0">107</data>
+      <data key="d1">107</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/util" target="net/fortuna/ical4j/data">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/util" target="edu/emory/mathcs/backport/java/util">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/util" target="net/fortuna/ical4j/model">
+      <data key="d0">272</data>
+      <data key="d1">272</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/util" target="org/apache/commons/logging">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/apache/commons/lang" target="org/apache/commons/lang">
+      <data key="d0">5959</data>
+      <data key="d1">5959</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/data" target="net/fortuna/ical4j/model">
+      <data key="d0">148</data>
+      <data key="d1">148</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/data" target="org/apache/commons/logging">
+      <data key="d0">95</data>
+      <data key="d1">95</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/data" target="org/apache/commons/lang">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/data" target="net/fortuna/ical4j/data">
+      <data key="d0">525</data>
+      <data key="d1">525</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/data" target="net/fortuna/ical4j/util">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/transform" target="net/fortuna/ical4j/model">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/transform" target="net/fortuna/ical4j/transform">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/transform" target="net/fortuna/ical4j/util">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="edu/emory/mathcs/backport/java/util" target="edu/emory/mathcs/backport/java/util">
+      <data key="d0">7777</data>
+      <data key="d1">7777</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/model" target="org/apache/commons/codec">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/model" target="net/fortuna/ical4j/util">
+      <data key="d0">3008</data>
+      <data key="d1">3008</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/model" target="org/apache/commons/lang">
+      <data key="d0">212</data>
+      <data key="d1">212</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/model" target="net/fortuna/ical4j/data">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/model" target="edu/emory/mathcs/backport/java/util">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/model" target="net/fortuna/ical4j/model">
+      <data key="d0">16460</data>
+      <data key="d1">16460</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/fortuna/ical4j/model" target="org/apache/commons/logging">
+      <data key="d0">101</data>
+      <data key="d1">101</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/apache/commons/logging" target="org/apache/commons/logging">
+      <data key="d0">1163</data>
+      <data key="d1">1163</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

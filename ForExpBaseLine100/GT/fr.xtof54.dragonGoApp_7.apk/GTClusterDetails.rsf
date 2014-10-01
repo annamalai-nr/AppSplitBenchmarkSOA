@@ -1,0 +1,13 @@
+contain 1 android/support/v4/os
+contain 2 android/support/v4/app
+contain 3 android/support/v4/view
+contain 4 fr/xtof54/jsgo
+contain 5 org/json
+contain 6 android/annotation
+contain 7 android/support/v4/accessibilityservice
+contain 8 android/support/v4/database
+contain 9 android/support/v4/net
+contain 10 fr/xtof54/dragonGoApp
+contain 11 android/support/v4/content
+contain 12 android/support/v4/util
+contain 13 android/support/v4/widget

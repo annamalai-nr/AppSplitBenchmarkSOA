@@ -1,0 +1,6 @@
+1,com/valleytg/oasvn/android org/tmatesoft/svn/core org/tmatesoft/svn/util
+2,com/trilead/ssh2
+3,org/tmatesoft/sqljet/core
+4,com/sun/jna/platform
+5,android/annotation
+6,de/regnis/q/sequence

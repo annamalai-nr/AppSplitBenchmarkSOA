@@ -1,0 +1,9 @@
+1,android/support/v4/content android/support/v4/util
+2,android/support/v4/view android/support/v4/widget
+3,android/support/v4/app
+4,android/support/v4/os
+5,com/bugsense/trace
+6,com/qubling/sidekick
+7,android/support/v4/accessibilityservice
+8,android/support/v4/database
+9,android/annotation

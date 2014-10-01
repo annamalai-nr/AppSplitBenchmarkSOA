@@ -1,0 +1,96 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="org/mumod/e" />
+    <node id="org/mumod/d" />
+    <node id="org/mumod/c" />
+    <node id="org/mumod/b" />
+    <node id="org/mumod/a" />
+    <node id="a/a/a/a/a/a" />
+    <node id="org/apache/james/mime4j" />
+    <node id="b/a" />
+    <node id="org/apache/a/a/a" />
+    <edge source="org/mumod/e" target="b/a">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mumod/e" target="org/mumod/e">
+      <data key="d0">144</data>
+      <data key="d1">144</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mumod/e" target="org/mumod/a">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mumod/e" target="org/apache/a/a/a">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mumod/d" target="org/mumod/e">
+      <data key="d0">40</data>
+      <data key="d1">40</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mumod/d" target="org/mumod/d">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mumod/c" target="org/mumod/c">
+      <data key="d0">17</data>
+      <data key="d1">17</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mumod/b" target="b/a">
+      <data key="d0">32</data>
+      <data key="d1">32</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mumod/b" target="org/mumod/e">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mumod/b" target="org/mumod/b">
+      <data key="d0">3</data>
+      <data key="d1">3</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="a/a/a/a/a/a" target="a/a/a/a/a/a">
+      <data key="d0">38</data>
+      <data key="d1">38</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/apache/james/mime4j" target="org/apache/james/mime4j">
+      <data key="d0">863</data>
+      <data key="d1">863</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="b/a" target="b/a">
+      <data key="d0">552</data>
+      <data key="d1">552</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="b/a" target="a/a/a/a/a/a">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/apache/a/a/a" target="org/apache/james/mime4j">
+      <data key="d0">125</data>
+      <data key="d1">125</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/apache/a/a/a" target="org/apache/a/a/a">
+      <data key="d0">211</data>
+      <data key="d1">211</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

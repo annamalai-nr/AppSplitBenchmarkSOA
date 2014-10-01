@@ -1,0 +1,114 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="android/support/v4/app" />
+    <node id="android/support/v4/view" />
+    <node id="at/enajat/david/android/filechooser" />
+    <node id="xml" />
+    <node id="at/tomtasche/reader" />
+    <node id="util" />
+    <node id="openoffice" />
+    <node id="android/support/v4/util" />
+    <node id="android/support/v4/content" />
+    <node id="android/support/v4/widget" />
+    <node id="android/support/v4/os" />
+    <node id="at/tomtasche/writer" />
+    <edge source="android/support/v4/app" target="android/support/v4/app">
+      <data key="d0">1096</data>
+      <data key="d1">1096</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/view">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/content">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/util">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/view">
+      <data key="d0">340</data>
+      <data key="d1">340</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/os">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="at/enajat/david/android/filechooser" target="android/support/v4/app">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="at/enajat/david/android/filechooser" target="at/enajat/david/android/filechooser">
+      <data key="d0">166</data>
+      <data key="d1">166</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="xml" target="xml">
+      <data key="d0">111</data>
+      <data key="d1">111</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="at/tomtasche/reader" target="at/tomtasche/reader">
+      <data key="d0">94</data>
+      <data key="d1">94</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="at/tomtasche/reader" target="openoffice">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="openoffice" target="xml">
+      <data key="d0">165</data>
+      <data key="d1">165</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="openoffice" target="openoffice">
+      <data key="d0">164</data>
+      <data key="d1">164</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/util" target="android/support/v4/util">
+      <data key="d0">62</data>
+      <data key="d1">62</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/content">
+      <data key="d0">121</data>
+      <data key="d1">121</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/util">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/widget">
+      <data key="d0">105</data>
+      <data key="d1">105</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/os" target="android/support/v4/os">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="at/tomtasche/writer" target="at/tomtasche/writer">
+      <data key="d0">3</data>
+      <data key="d1">3</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

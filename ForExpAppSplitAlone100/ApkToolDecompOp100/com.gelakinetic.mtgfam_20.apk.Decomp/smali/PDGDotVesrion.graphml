@@ -1,0 +1,415 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="com/google/common/util/concurrent" />
+    <node id="com/slidingmenu/lib" />
+    <node id="com/google/common/cache" />
+    <node id="com/google/common/annotations" />
+    <node id="com/google/common/io" />
+    <node id="com/octo/android/robospice" />
+    <node id="android/support/v4/widget" />
+    <node id="android/support/v4/database" />
+    <node id="android/support/v4/os" />
+    <node id="com/google/common/net" />
+    <node id="com/google/gson" />
+    <node id="com/google/common/eventbus" />
+    <node id="com/google/common/hash" />
+    <node id="com/google/common/collect" />
+    <node id="android/support/v4/accessibilityservice" />
+    <node id="android/support/v4/view" />
+    <node id="com/actionbarsherlock" />
+    <node id="com/google/common/reflect" />
+    <node id="android/support/v4/util" />
+    <node id="roboguice/util/temp" />
+    <node id="android/support/v4/app" />
+    <node id="com/google/common/math" />
+    <node id="org/apache/commons/io" />
+    <node id="com/google/common/primitives" />
+    <node id="com/gelakinetic/mtgfam" />
+    <node id="android/support/v4/net" />
+    <node id="com/google/common/base" />
+    <node id="android/support/v4/content" />
+    <edge source="com/google/common/util/concurrent" target="com/google/common/util/concurrent">
+      <data key="d0">2485</data>
+      <data key="d1">2485</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/util/concurrent" target="com/google/common/base">
+      <data key="d0">274</data>
+      <data key="d1">274</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/util/concurrent" target="com/google/common/math">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/util/concurrent" target="com/google/common/collect">
+      <data key="d0">203</data>
+      <data key="d1">203</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/slidingmenu/lib" target="android/support/v4/view">
+      <data key="d0">46</data>
+      <data key="d1">46</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/slidingmenu/lib" target="com/slidingmenu/lib">
+      <data key="d0">861</data>
+      <data key="d1">861</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/slidingmenu/lib" target="com/actionbarsherlock">
+      <data key="d0">44</data>
+      <data key="d1">44</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/cache" target="com/google/common/util/concurrent">
+      <data key="d0">41</data>
+      <data key="d1">41</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/cache" target="com/google/common/base">
+      <data key="d0">434</data>
+      <data key="d1">434</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/cache" target="com/google/common/collect">
+      <data key="d0">86</data>
+      <data key="d1">86</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/cache" target="com/google/common/primitives">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/cache" target="com/google/common/cache">
+      <data key="d0">2799</data>
+      <data key="d1">2799</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/io" target="com/google/common/math">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/io" target="com/google/common/hash">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/io" target="com/google/common/primitives">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/io" target="com/google/common/collect">
+      <data key="d0">23</data>
+      <data key="d1">23</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/io" target="com/google/common/io">
+      <data key="d0">1456</data>
+      <data key="d1">1456</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/io" target="com/google/common/base">
+      <data key="d0">323</data>
+      <data key="d1">323</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/octo/android/robospice" target="com/octo/android/robospice">
+      <data key="d0">925</data>
+      <data key="d1">925</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/octo/android/robospice" target="roboguice/util/temp">
+      <data key="d0">114</data>
+      <data key="d1">114</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/widget">
+      <data key="d0">204</data>
+      <data key="d1">204</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/os" target="android/support/v4/os">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/net" target="com/google/common/net">
+      <data key="d0">493</data>
+      <data key="d1">493</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/net" target="com/google/common/hash">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/net" target="com/google/common/primitives">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/net" target="com/google/common/collect">
+      <data key="d0">234</data>
+      <data key="d1">234</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/net" target="com/google/common/io">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/net" target="com/google/common/base">
+      <data key="d0">191</data>
+      <data key="d1">191</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/gson" target="com/google/gson">
+      <data key="d0">3575</data>
+      <data key="d1">3575</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/eventbus" target="com/google/common/eventbus">
+      <data key="d0">98</data>
+      <data key="d1">98</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/eventbus" target="com/google/common/util/concurrent">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/eventbus" target="com/google/common/cache">
+      <data key="d0">42</data>
+      <data key="d1">42</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/eventbus" target="com/google/common/reflect">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/eventbus" target="com/google/common/collect">
+      <data key="d0">23</data>
+      <data key="d1">23</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/eventbus" target="com/google/common/base">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/hash" target="com/google/common/base">
+      <data key="d0">79</data>
+      <data key="d1">79</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/hash" target="com/google/common/math">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/hash" target="com/google/common/primitives">
+      <data key="d0">38</data>
+      <data key="d1">38</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/hash" target="com/google/common/hash">
+      <data key="d0">867</data>
+      <data key="d1">867</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/collect" target="com/google/common/base">
+      <data key="d0">1815</data>
+      <data key="d1">1815</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/collect" target="com/google/common/math">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/collect" target="com/google/common/primitives">
+      <data key="d0">38</data>
+      <data key="d1">38</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/collect" target="com/google/common/collect">
+      <data key="d0">25560</data>
+      <data key="d1">25560</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/accessibilityservice" target="android/support/v4/accessibilityservice">
+      <data key="d0">36</data>
+      <data key="d1">36</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/view">
+      <data key="d0">2268</data>
+      <data key="d1">2268</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/widget">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/os">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/actionbarsherlock" target="android/support/v4/app">
+      <data key="d0">90</data>
+      <data key="d1">90</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/actionbarsherlock" target="com/actionbarsherlock">
+      <data key="d0">2126</data>
+      <data key="d1">2126</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/reflect" target="com/google/common/base">
+      <data key="d0">118</data>
+      <data key="d1">118</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/reflect" target="com/google/common/reflect">
+      <data key="d0">1153</data>
+      <data key="d1">1153</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/reflect" target="com/google/common/collect">
+      <data key="d0">265</data>
+      <data key="d1">265</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/util" target="android/support/v4/util">
+      <data key="d0">156</data>
+      <data key="d1">156</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="roboguice/util/temp" target="roboguice/util/temp">
+      <data key="d0">118</data>
+      <data key="d1">118</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/app">
+      <data key="d0">1625</data>
+      <data key="d1">1625</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/view">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/content">
+      <data key="d0">40</data>
+      <data key="d1">40</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="com/actionbarsherlock">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/util">
+      <data key="d0">112</data>
+      <data key="d1">112</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/math" target="com/google/common/base">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/math" target="com/google/common/math">
+      <data key="d0">248</data>
+      <data key="d1">248</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/math" target="com/google/common/primitives">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/apache/commons/io" target="org/apache/commons/io">
+      <data key="d0">3137</data>
+      <data key="d1">3137</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/primitives" target="com/google/common/base">
+      <data key="d0">284</data>
+      <data key="d1">284</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/primitives" target="com/google/common/primitives">
+      <data key="d0">734</data>
+      <data key="d1">734</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/gelakinetic/mtgfam" target="android/support/v4/app">
+      <data key="d0">396</data>
+      <data key="d1">396</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/gelakinetic/mtgfam" target="com/slidingmenu/lib">
+      <data key="d0">56</data>
+      <data key="d1">56</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/gelakinetic/mtgfam" target="com/actionbarsherlock">
+      <data key="d0">167</data>
+      <data key="d1">167</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/gelakinetic/mtgfam" target="org/apache/commons/io">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/gelakinetic/mtgfam" target="com/gelakinetic/mtgfam">
+      <data key="d0">5812</data>
+      <data key="d1">5812</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/gelakinetic/mtgfam" target="com/octo/android/robospice">
+      <data key="d0">71</data>
+      <data key="d1">71</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/gelakinetic/mtgfam" target="com/google/gson">
+      <data key="d0">262</data>
+      <data key="d1">262</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/net" target="android/support/v4/net">
+      <data key="d0">57</data>
+      <data key="d1">57</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/common/base" target="com/google/common/base">
+      <data key="d0">1924</data>
+      <data key="d1">1924</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/content">
+      <data key="d0">298</data>
+      <data key="d1">298</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/util">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,235 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="android/support/v4/app" />
+    <node id="android/support/v4/view" />
+    <node id="com/android/inputmethod/latin" />
+    <node id="com/android/inputmethod/accessibility" />
+    <node id="com/android/inputmethod/dictionarypack" />
+    <node id="com/android/inputmethod/research" />
+    <node id="com/android/inputmethodcommon" />
+    <node id="com/android/inputmethod/compat" />
+    <node id="com/android/inputmethod/annotations" />
+    <node id="android/support/v4/util" />
+    <node id="android/support/v4/net" />
+    <node id="com/android/inputmethod/keyboard" />
+    <node id="android/support/v4/content" />
+    <node id="com/android/inputmethod/event" />
+    <node id="android/support/v4/widget" />
+    <node id="android/support/v4/database" />
+    <node id="android/support/v4/os" />
+    <node id="android/support/v4/accessibilityservice" />
+    <edge source="android/support/v4/app" target="android/support/v4/app">
+      <data key="d0">1703</data>
+      <data key="d1">1703</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/view">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/content">
+      <data key="d0">40</data>
+      <data key="d1">40</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/widget">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/util">
+      <data key="d0">112</data>
+      <data key="d1">112</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/view">
+      <data key="d0">2412</data>
+      <data key="d1">2412</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/widget">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/os">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/latin" target="com/android/inputmethod/accessibility">
+      <data key="d0">36</data>
+      <data key="d1">36</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/latin" target="com/android/inputmethodcommon">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/latin" target="com/android/inputmethod/compat">
+      <data key="d0">50</data>
+      <data key="d1">50</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/latin" target="com/android/inputmethod/latin">
+      <data key="d0">8337</data>
+      <data key="d1">8337</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/latin" target="com/android/inputmethod/event">
+      <data key="d0">3</data>
+      <data key="d1">3</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/latin" target="com/android/inputmethod/keyboard">
+      <data key="d0">292</data>
+      <data key="d1">292</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/accessibility" target="android/support/v4/view">
+      <data key="d0">62</data>
+      <data key="d1">62</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/accessibility" target="com/android/inputmethod/latin">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/accessibility" target="com/android/inputmethod/accessibility">
+      <data key="d0">132</data>
+      <data key="d1">132</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/accessibility" target="com/android/inputmethod/keyboard">
+      <data key="d0">80</data>
+      <data key="d1">80</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/dictionarypack" target="com/android/inputmethod/compat">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/dictionarypack" target="com/android/inputmethod/dictionarypack">
+      <data key="d0">1029</data>
+      <data key="d1">1029</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/dictionarypack" target="com/android/inputmethod/latin">
+      <data key="d0">114</data>
+      <data key="d1">114</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/research" target="com/android/inputmethod/research">
+      <data key="d0">1170</data>
+      <data key="d1">1170</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/research" target="com/android/inputmethod/latin">
+      <data key="d0">58</data>
+      <data key="d1">58</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/research" target="com/android/inputmethod/keyboard">
+      <data key="d0">45</data>
+      <data key="d1">45</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethodcommon" target="com/android/inputmethodcommon">
+      <data key="d0">79</data>
+      <data key="d1">79</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/compat" target="com/android/inputmethod/compat">
+      <data key="d0">80</data>
+      <data key="d1">80</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/compat" target="com/android/inputmethod/latin">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/util" target="android/support/v4/util">
+      <data key="d0">156</data>
+      <data key="d1">156</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/net" target="android/support/v4/net">
+      <data key="d0">57</data>
+      <data key="d1">57</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/keyboard" target="com/android/inputmethod/compat">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/keyboard" target="android/support/v4/view">
+      <data key="d0">35</data>
+      <data key="d1">35</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/keyboard" target="com/android/inputmethod/latin">
+      <data key="d0">660</data>
+      <data key="d1">660</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/keyboard" target="com/android/inputmethod/accessibility">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/keyboard" target="com/android/inputmethod/keyboard">
+      <data key="d0">3867</data>
+      <data key="d1">3867</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/content">
+      <data key="d0">333</data>
+      <data key="d1">333</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/util">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/event" target="com/android/inputmethod/latin">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/inputmethod/event" target="com/android/inputmethod/event">
+      <data key="d0">53</data>
+      <data key="d1">53</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/view">
+      <data key="d0">314</data>
+      <data key="d1">314</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/widget">
+      <data key="d0">1378</data>
+      <data key="d1">1378</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/os" target="android/support/v4/os">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/accessibilityservice" target="android/support/v4/accessibilityservice">
+      <data key="d0">36</data>
+      <data key="d1">36</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

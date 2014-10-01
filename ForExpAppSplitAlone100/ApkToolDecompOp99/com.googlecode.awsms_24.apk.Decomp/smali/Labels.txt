@@ -1,0 +1,6 @@
+android/annotation
+com/googlecode/awsms
+com/googlecode/esms/account
+com/googlecode/esms/message
+com/googlecode/esms/provider
+org/jdom

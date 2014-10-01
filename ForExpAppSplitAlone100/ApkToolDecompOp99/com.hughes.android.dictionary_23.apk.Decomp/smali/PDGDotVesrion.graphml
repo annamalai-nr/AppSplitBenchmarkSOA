@@ -1,0 +1,140 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="com/hughes/android/util" />
+    <node id="com/ibm/icu/math" />
+    <node id="com/ibm/icu/text" />
+    <node id="com/hughes/android/dictionary" />
+    <node id="com/ibm/icu/util" />
+    <node id="com/ibm/icu/lang" />
+    <node id="com/ibm/icu/impl" />
+    <node id="com/hughes/util" />
+    <edge source="com/hughes/android/util" target="com/hughes/android/util">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ibm/icu/math" target="com/ibm/icu/math">
+      <data key="d0">400</data>
+      <data key="d1">400</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ibm/icu/math" target="com/ibm/icu/lang">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ibm/icu/text" target="com/ibm/icu/math">
+      <data key="d0">82</data>
+      <data key="d1">82</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ibm/icu/text" target="com/ibm/icu/text">
+      <data key="d0">12441</data>
+      <data key="d1">12441</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ibm/icu/text" target="com/ibm/icu/util">
+      <data key="d0">910</data>
+      <data key="d1">910</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ibm/icu/text" target="com/ibm/icu/impl">
+      <data key="d0">1452</data>
+      <data key="d1">1452</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ibm/icu/text" target="com/ibm/icu/lang">
+      <data key="d0">152</data>
+      <data key="d1">152</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/hughes/android/dictionary" target="com/hughes/android/util">
+      <data key="d0">44</data>
+      <data key="d1">44</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/hughes/android/dictionary" target="com/hughes/android/dictionary">
+      <data key="d0">1776</data>
+      <data key="d1">1776</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/hughes/android/dictionary" target="com/ibm/icu/text">
+      <data key="d0">30</data>
+      <data key="d1">30</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/hughes/android/dictionary" target="com/hughes/util">
+      <data key="d0">120</data>
+      <data key="d1">120</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ibm/icu/util" target="com/ibm/icu/text">
+      <data key="d0">129</data>
+      <data key="d1">129</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ibm/icu/util" target="com/ibm/icu/util">
+      <data key="d0">4441</data>
+      <data key="d1">4441</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ibm/icu/util" target="com/ibm/icu/impl">
+      <data key="d0">635</data>
+      <data key="d1">635</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ibm/icu/util" target="com/ibm/icu/lang">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ibm/icu/lang" target="com/ibm/icu/text">
+      <data key="d0">66</data>
+      <data key="d1">66</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ibm/icu/lang" target="com/ibm/icu/util">
+      <data key="d0">38</data>
+      <data key="d1">38</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ibm/icu/lang" target="com/ibm/icu/impl">
+      <data key="d0">138</data>
+      <data key="d1">138</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ibm/icu/lang" target="com/ibm/icu/lang">
+      <data key="d0">835</data>
+      <data key="d1">835</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ibm/icu/impl" target="com/ibm/icu/text">
+      <data key="d0">723</data>
+      <data key="d1">723</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ibm/icu/impl" target="com/ibm/icu/util">
+      <data key="d0">728</data>
+      <data key="d1">728</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ibm/icu/impl" target="com/ibm/icu/impl">
+      <data key="d0">6277</data>
+      <data key="d1">6277</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ibm/icu/impl" target="com/ibm/icu/lang">
+      <data key="d0">38</data>
+      <data key="d1">38</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/hughes/util" target="com/hughes/util">
+      <data key="d0">236</data>
+      <data key="d1">236</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

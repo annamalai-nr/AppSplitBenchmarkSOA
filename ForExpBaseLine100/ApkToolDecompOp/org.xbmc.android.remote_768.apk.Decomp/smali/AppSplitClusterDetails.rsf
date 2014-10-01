@@ -1,0 +1,16 @@
+contain 1 com/strangeberry/jmdns/tools
+contain 2 javax/jmdns
+contain 3 org/codehaus/jackson
+contain 3 org/xbmc/jsonrpc
+contain 3 org/xbmc/android/remote
+contain 3 org/xbmc/api/data
+contain 3 org/xbmc/api/business
+contain 3 org/xbmc/api/object
+contain 3 org/xbmc/android/util
+contain 3 org/xbmc/httpapi
+contain 3 org/xbmc/api/type
+contain 3 org/xbmc/api/info
+contain 3 org/xbmc/android/widget
+contain 3 org/xbmc/api/presentation
+contain 3 org/xbmc/eventclient
+contain 4 samples

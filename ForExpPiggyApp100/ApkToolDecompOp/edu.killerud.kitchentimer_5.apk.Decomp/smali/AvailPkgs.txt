@@ -1,0 +1,9 @@
+edu
+com
+android
+edu/killerud
+edu/killerud/kitchentimer
+com/quietlycoding
+com/quietlycoding/android
+com/quietlycoding/android/picker
+android/annotation

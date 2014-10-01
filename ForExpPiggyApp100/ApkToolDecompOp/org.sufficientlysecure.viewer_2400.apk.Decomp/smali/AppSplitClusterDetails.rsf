@@ -1,0 +1,15 @@
+contain 1 android/support/v4/accessibilityservice
+contain 2 android/support/v4/app
+contain 2 android/support/v4/util
+contain 2 android/support/v4/content
+contain 2 android/support/v4/view
+contain 2 android/support/v4/widget
+contain 3 android/support/v4/database
+contain 4 android/support/v4/net
+contain 5 android/support/v4/os
+contain 6 com/ximpleware
+contain 7 jcifs
+contain 8 org/afzkl/colorpicker
+contain 9 org/ebookdroid
+contain 9 org/emdev
+contain 10 org/sufficientlysecure/viewer

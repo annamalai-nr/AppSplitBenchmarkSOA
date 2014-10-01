@@ -1,0 +1,10 @@
+contain 1 android/support/v4/app
+contain 2 android/support/v4/os
+contain 3 android/support/v4/content
+contain 4 android/support/v4/view
+contain 5 jp/co/kayo/android/localplayer/ds/ampache
+contain 6 org/apache/commons/httpclient/contrib/ssl
+contain 7 android/annotation
+contain 8 android/support/v4/android/accessibilityservice
+contain 9 android/support/v4/util
+contain 10 android/support/v4/widget

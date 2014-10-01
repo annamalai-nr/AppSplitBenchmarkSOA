@@ -1,0 +1,5 @@
+contain 1 com/google/android/apps/analytics
+contain 2 org/acra
+contain 3 zame/GloomyDungeons/opensource/game
+contain 3 zame/GloomyDungeons/opensource/libs
+contain 5 android/annotation

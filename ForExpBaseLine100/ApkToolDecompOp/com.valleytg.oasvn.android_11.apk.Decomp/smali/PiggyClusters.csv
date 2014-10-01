@@ -1,0 +1,5 @@
+1, android/annotation
+2, com/sun/jna/platform
+3, com/trilead/ssh2
+4, com/valleytg/oasvn/android org/tmatesoft/svn/core org/tmatesoft/svn/util de/regnis/q/sequence
+5, org/tmatesoft/sqljet/core

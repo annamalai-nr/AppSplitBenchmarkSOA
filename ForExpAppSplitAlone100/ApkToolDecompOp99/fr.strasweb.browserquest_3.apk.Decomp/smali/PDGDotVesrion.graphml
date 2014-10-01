@@ -1,0 +1,41 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="com/phonegap/plugins/statusBarNotification" />
+    <node id="org/java_websocket" />
+    <node id="fr/strasweb/browserquest" />
+    <node id="org/apache/cordova" />
+    <edge source="com/phonegap/plugins/statusBarNotification" target="com/phonegap/plugins/statusBarNotification">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/phonegap/plugins/statusBarNotification" target="org/apache/cordova">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/java_websocket" target="org/java_websocket">
+      <data key="d0">1434</data>
+      <data key="d1">1434</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="fr/strasweb/browserquest" target="org/apache/cordova">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/apache/cordova" target="org/java_websocket">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/apache/cordova" target="org/apache/cordova">
+      <data key="d0">4644</data>
+      <data key="d1">4644</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,702 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="org/vimgadgets/linebreak" />
+    <node id="org/geometerplus/fbreader" />
+    <node id="org/geometerplus/zlibrary/ui/android" />
+    <node id="org/geometerplus/zlibrary/core/xml" />
+    <node id="org/geometerplus/android/util" />
+    <node id="org/geometerplus/zlibrary/core/html" />
+    <node id="org/geometerplus/zlibrary/core/library" />
+    <node id="org/geometerplus/zlibrary/core/network" />
+    <node id="org/geometerplus/zlibrary/core/config" />
+    <node id="org/geometerplus/zlibrary/core/encodings" />
+    <node id="org/geometerplus/zlibrary/text/hyphenation" />
+    <node id="org/geometerplus/zlibrary/core/application" />
+    <node id="org/geometerplus/zlibrary/core/filesystem" />
+    <node id="org/geometerplus/zlibrary/core/constants" />
+    <node id="org/geometerplus/zlibrary/core/tree" />
+    <node id="org/geometerplus/zlibrary/core/filetypes" />
+    <node id="org/geometerplus/android/fbreader" />
+    <node id="org/geometerplus/zlibrary/core/language" />
+    <node id="org/geometerplus/zlibrary/core/resources" />
+    <node id="org/geometerplus/zlibrary/core/util" />
+    <node id="org/geometerplus/zlibrary/text/view" />
+    <node id="org/geometerplus/zlibrary/text/model" />
+    <node id="android/annotation" />
+    <node id="org/geometerplus/zlibrary/core/view" />
+    <node id="org/amse/ys/zip" />
+    <node id="org/geometerplus/zlibrary/core/options" />
+    <node id="org/geometerplus/zlibrary/core/sqliteconfig" />
+    <node id="org/geometerplus/zlibrary/core/money" />
+    <node id="yuku/ambilwarna" />
+    <node id="org/geometerplus/zlibrary/core/image" />
+    <edge source="org/vimgadgets/linebreak" target="org/vimgadgets/linebreak">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/fbreader" target="org/geometerplus/zlibrary/core/view">
+      <data key="d0">87</data>
+      <data key="d1">87</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/fbreader" target="org/geometerplus/zlibrary/core/language">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/fbreader" target="org/geometerplus/zlibrary/core/tree">
+      <data key="d0">42</data>
+      <data key="d1">42</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/fbreader" target="org/geometerplus/zlibrary/core/options">
+      <data key="d0">320</data>
+      <data key="d1">320</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/fbreader" target="org/geometerplus/zlibrary/core/filetypes">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/fbreader" target="org/geometerplus/zlibrary/core/library">
+      <data key="d0">32</data>
+      <data key="d1">32</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/fbreader" target="org/geometerplus/zlibrary/text/view">
+      <data key="d0">175</data>
+      <data key="d1">175</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/fbreader" target="org/geometerplus/zlibrary/core/network">
+      <data key="d0">38</data>
+      <data key="d1">38</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/fbreader" target="org/geometerplus/zlibrary/core/resources">
+      <data key="d0">115</data>
+      <data key="d1">115</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/fbreader" target="org/geometerplus/zlibrary/core/encodings">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/fbreader" target="org/geometerplus/zlibrary/core/util">
+      <data key="d0">55</data>
+      <data key="d1">55</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/fbreader" target="org/geometerplus/zlibrary/core/money">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/fbreader" target="org/geometerplus/zlibrary/text/hyphenation">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/fbreader" target="org/geometerplus/fbreader">
+      <data key="d0">4746</data>
+      <data key="d1">4746</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/fbreader" target="org/geometerplus/zlibrary/core/image">
+      <data key="d0">42</data>
+      <data key="d1">42</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/fbreader" target="org/geometerplus/zlibrary/core/application">
+      <data key="d0">27</data>
+      <data key="d1">27</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/fbreader" target="org/geometerplus/zlibrary/core/xml">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/fbreader" target="org/geometerplus/zlibrary/text/model">
+      <data key="d0">75</data>
+      <data key="d1">75</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/fbreader" target="org/geometerplus/zlibrary/core/filesystem">
+      <data key="d0">160</data>
+      <data key="d1">160</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/ui/android" target="org/geometerplus/zlibrary/core/view">
+      <data key="d0">193</data>
+      <data key="d1">193</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/ui/android" target="org/geometerplus/zlibrary/core/options">
+      <data key="d0">34</data>
+      <data key="d1">34</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/ui/android" target="org/geometerplus/zlibrary/core/library">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/ui/android" target="org/geometerplus/zlibrary/core/util">
+      <data key="d0">23</data>
+      <data key="d1">23</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/ui/android" target="org/geometerplus/zlibrary/core/network">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/ui/android" target="org/geometerplus/zlibrary/core/resources">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/ui/android" target="org/geometerplus/fbreader">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/ui/android" target="org/geometerplus/zlibrary/ui/android">
+      <data key="d0">619</data>
+      <data key="d1">619</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/ui/android" target="org/geometerplus/zlibrary/core/sqliteconfig">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/ui/android" target="org/geometerplus/android/fbreader">
+      <data key="d0">19</data>
+      <data key="d1">19</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/ui/android" target="org/geometerplus/zlibrary/core/image">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/ui/android" target="org/geometerplus/zlibrary/core/application">
+      <data key="d0">120</data>
+      <data key="d1">120</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/ui/android" target="org/geometerplus/android/util">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/ui/android" target="org/geometerplus/zlibrary/core/filesystem">
+      <data key="d0">19</data>
+      <data key="d1">19</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/xml" target="org/geometerplus/zlibrary/core/xml">
+      <data key="d0">241</data>
+      <data key="d1">241</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/xml" target="org/geometerplus/zlibrary/core/filesystem">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/xml" target="org/geometerplus/zlibrary/core/util">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/util" target="org/geometerplus/android/util">
+      <data key="d0">68</data>
+      <data key="d1">68</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/util" target="org/geometerplus/zlibrary/core/options">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/util" target="org/geometerplus/zlibrary/core/resources">
+      <data key="d0">50</data>
+      <data key="d1">50</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/html" target="org/geometerplus/zlibrary/core/html">
+      <data key="d0">161</data>
+      <data key="d1">161</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/html" target="org/geometerplus/zlibrary/core/util">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/library" target="org/geometerplus/zlibrary/core/options">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/library" target="org/geometerplus/zlibrary/core/library">
+      <data key="d0">3</data>
+      <data key="d1">3</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/network" target="org/geometerplus/zlibrary/core/options">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/network" target="org/geometerplus/zlibrary/core/util">
+      <data key="d0">29</data>
+      <data key="d1">29</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/network" target="org/geometerplus/zlibrary/core/network">
+      <data key="d0">120</data>
+      <data key="d1">120</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/network" target="org/geometerplus/zlibrary/core/resources">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/config" target="org/geometerplus/zlibrary/core/config">
+      <data key="d0">1</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/encodings" target="org/geometerplus/zlibrary/core/xml">
+      <data key="d0">22</data>
+      <data key="d1">22</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/encodings" target="org/geometerplus/zlibrary/core/filesystem">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/encodings" target="org/geometerplus/zlibrary/core/encodings">
+      <data key="d0">80</data>
+      <data key="d1">80</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/text/hyphenation" target="org/geometerplus/zlibrary/core/language">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/text/hyphenation" target="org/geometerplus/zlibrary/text/hyphenation">
+      <data key="d0">38</data>
+      <data key="d1">38</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/text/hyphenation" target="org/geometerplus/zlibrary/core/filesystem">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/text/hyphenation" target="org/geometerplus/zlibrary/core/xml">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/text/hyphenation" target="org/geometerplus/zlibrary/core/util">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/application" target="org/geometerplus/zlibrary/core/view">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/application" target="org/geometerplus/zlibrary/core/options">
+      <data key="d0">41</data>
+      <data key="d1">41</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/application" target="org/geometerplus/fbreader">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/application" target="org/geometerplus/zlibrary/core/application">
+      <data key="d0">114</data>
+      <data key="d1">114</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/application" target="org/geometerplus/zlibrary/core/xml">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/application" target="org/geometerplus/zlibrary/core/filesystem">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/filesystem" target="org/amse/ys/zip">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/filesystem" target="org/geometerplus/zlibrary/core/filesystem">
+      <data key="d0">216</data>
+      <data key="d1">216</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/filesystem" target="org/geometerplus/zlibrary/core/library">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/tree" target="org/geometerplus/zlibrary/core/tree">
+      <data key="d0">44</data>
+      <data key="d1">44</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/filetypes" target="org/geometerplus/zlibrary/core/options">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/filetypes" target="org/geometerplus/zlibrary/core/filesystem">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/filetypes" target="org/geometerplus/zlibrary/core/filetypes">
+      <data key="d0">155</data>
+      <data key="d1">155</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/filetypes" target="org/geometerplus/zlibrary/core/util">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/fbreader">
+      <data key="d0">1462</data>
+      <data key="d1">1462</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/ui/android">
+      <data key="d0">132</data>
+      <data key="d1">132</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/core/xml">
+      <data key="d0">66</data>
+      <data key="d1">66</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/android/util">
+      <data key="d0">102</data>
+      <data key="d1">102</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/core/network">
+      <data key="d0">63</data>
+      <data key="d1">63</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/core/library">
+      <data key="d0">30</data>
+      <data key="d1">30</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/core/resources">
+      <data key="d0">679</data>
+      <data key="d1">679</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/core/encodings">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/text/hyphenation">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/core/application">
+      <data key="d0">59</data>
+      <data key="d1">59</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/core/filesystem">
+      <data key="d0">56</data>
+      <data key="d1">56</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/core/tree">
+      <data key="d0">25</data>
+      <data key="d1">25</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/core/filetypes">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/core/config">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/core/util">
+      <data key="d0">50</data>
+      <data key="d1">50</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/text/view">
+      <data key="d0">133</data>
+      <data key="d1">133</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/text/model">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/core/view">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/core/language">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/core/options">
+      <data key="d0">220</data>
+      <data key="d1">220</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/android/fbreader">
+      <data key="d0">6182</data>
+      <data key="d1">6182</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/core/money">
+      <data key="d0">21</data>
+      <data key="d1">21</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="yuku/ambilwarna">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/android/fbreader" target="org/geometerplus/zlibrary/core/image">
+      <data key="d0">25</data>
+      <data key="d1">25</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/language" target="org/geometerplus/zlibrary/core/language">
+      <data key="d0">22</data>
+      <data key="d1">22</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/language" target="org/geometerplus/zlibrary/core/filesystem">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/language" target="org/geometerplus/zlibrary/core/resources">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/resources" target="org/geometerplus/zlibrary/core/language">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/resources" target="org/geometerplus/zlibrary/core/xml">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/resources" target="org/geometerplus/zlibrary/core/filesystem">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/resources" target="org/geometerplus/zlibrary/core/options">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/resources" target="org/geometerplus/zlibrary/core/resources">
+      <data key="d0">104</data>
+      <data key="d1">104</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/util" target="org/geometerplus/zlibrary/core/util">
+      <data key="d0">220</data>
+      <data key="d1">220</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/util" target="org/geometerplus/zlibrary/core/library">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/text/view" target="org/geometerplus/zlibrary/core/view">
+      <data key="d0">192</data>
+      <data key="d1">192</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/text/view" target="org/geometerplus/zlibrary/core/options">
+      <data key="d0">126</data>
+      <data key="d1">126</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/text/view" target="org/geometerplus/zlibrary/core/library">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/text/view" target="org/geometerplus/zlibrary/text/view">
+      <data key="d0">2461</data>
+      <data key="d1">2461</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/text/view" target="org/geometerplus/zlibrary/core/util">
+      <data key="d0">32</data>
+      <data key="d1">32</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/text/view" target="org/vimgadgets/linebreak">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/text/view" target="org/geometerplus/zlibrary/text/hyphenation">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/text/view" target="org/geometerplus/zlibrary/core/image">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/text/view" target="org/geometerplus/zlibrary/core/application">
+      <data key="d0">66</data>
+      <data key="d1">66</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/text/view" target="org/geometerplus/zlibrary/core/xml">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/text/view" target="org/geometerplus/zlibrary/text/model">
+      <data key="d0">196</data>
+      <data key="d1">196</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/text/view" target="org/geometerplus/zlibrary/core/filesystem">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/text/model" target="org/geometerplus/zlibrary/text/model">
+      <data key="d0">216</data>
+      <data key="d1">216</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/text/model" target="org/geometerplus/zlibrary/core/util">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/view" target="org/geometerplus/zlibrary/core/application">
+      <data key="d0">1</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/view" target="org/geometerplus/zlibrary/core/view">
+      <data key="d0">100</data>
+      <data key="d1">100</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/view" target="org/geometerplus/zlibrary/core/util">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/amse/ys/zip" target="org/amse/ys/zip">
+      <data key="d0">261</data>
+      <data key="d1">261</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/options" target="org/geometerplus/zlibrary/core/util">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/options" target="org/geometerplus/zlibrary/core/options">
+      <data key="d0">146</data>
+      <data key="d1">146</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/options" target="org/geometerplus/zlibrary/core/config">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/sqliteconfig" target="org/geometerplus/zlibrary/core/config">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/money" target="org/geometerplus/zlibrary/core/money">
+      <data key="d0">19</data>
+      <data key="d1">19</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/money" target="org/geometerplus/zlibrary/core/util">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="yuku/ambilwarna" target="yuku/ambilwarna">
+      <data key="d0">159</data>
+      <data key="d1">159</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/image" target="org/geometerplus/zlibrary/core/image">
+      <data key="d0">112</data>
+      <data key="d1">112</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/image" target="org/geometerplus/zlibrary/core/filesystem">
+      <data key="d0">11</data>
+      <data key="d1">11</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/geometerplus/zlibrary/core/image" target="org/geometerplus/zlibrary/core/util">
+      <data key="d0">15</data>
+      <data key="d1">15</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

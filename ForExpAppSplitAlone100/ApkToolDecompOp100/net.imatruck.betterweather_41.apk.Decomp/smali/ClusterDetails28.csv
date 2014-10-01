@@ -1,0 +1,19 @@
+1,android/support/v4/content
+2,android/support/v4/graphics/drawable
+3,android/support/v4/internal/view
+4,android/support/v4/os
+5,android/support/v4/app android/support/v4/util
+6,android/support/v4/media android/support/v4/view android/support/v4/widget
+7,com/getpebble/android/kit
+8,com/google/android/apps/dashclock/api
+9,com/google/common/base com/google/common/cache com/google/common/hash com/google/common/io com/google/common/math com/google/common/net com/google/common/primitives
+10,com/google/common/collect com/google/common/eventbus com/google/common/reflect com/google/common/util/concurrent com/google/thirdparty/publicsuffix
+11,com/google/common/escape com/google/common/html com/google/common/xml
+12,net/imatruck/betterweather
+13,android/support/v4/accessibilityservice
+14,android/support/v4/database
+15,android/support/v4/hardware/display
+16,android/support/v4/net
+17,android/support/v4/print
+18,android/support/v4/text
+19,com/google/common/annotations

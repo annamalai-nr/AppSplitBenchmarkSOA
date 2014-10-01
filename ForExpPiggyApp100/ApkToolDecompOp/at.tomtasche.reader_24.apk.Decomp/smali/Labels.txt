@@ -1,0 +1,12 @@
+android/support/v4/app
+android/support/v4/content
+android/support/v4/os
+android/support/v4/util
+android/support/v4/view
+android/support/v4/widget
+at/enajat/david/android/filechooser
+at/tomtasche/reader
+at/tomtasche/writer
+openoffice
+util
+xml

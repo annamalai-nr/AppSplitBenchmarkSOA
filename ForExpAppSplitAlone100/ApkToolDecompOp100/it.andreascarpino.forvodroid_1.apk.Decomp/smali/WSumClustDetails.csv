@@ -1,0 +1,9 @@
+1,android/support/v4/app android/support/v4/content android/support/v4/graphics/drawable android/support/v4/internal/view android/support/v4/media android/support/v4/os android/support/v4/util android/support/v4/view android/support/v4/widget
+2,it/andreascarpino/forvodroid it/andreascarpino/util ru/o2genum/forvo
+3,com/google/gson org/apache/commons/codec
+4,android/support/v4/accessibilityservice
+5,android/support/v4/database
+6,android/support/v4/hardware/display
+7,android/support/v4/net
+8,android/support/v4/print
+9,android/support/v4/text

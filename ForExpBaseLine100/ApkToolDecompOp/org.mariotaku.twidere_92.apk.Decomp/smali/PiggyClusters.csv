@@ -1,0 +1,14 @@
+1, android/support/v13/app android/support/v4/app android/support/v4/view android/support/v4/widget org/mariotaku/jsonserializer org/mariotaku/querybuilder org/mariotaku/twidere twitter4j android/support/v4/util me/imid/swipebacklayout/lib android/support/v4/content com/nostra13/universalimageloader/core com/nostra13/universalimageloader/utils org/mariotaku/gallery3d com/google/android/apps/dashclock/api com/jeremyfeinstein/slidingmenu/lib com/etsy/android/grid de/keyboardsurfer/android/widget/crouton com/mobeta/android/dslv com/nostra13/universalimageloader/cache/disc org/mariotaku/menucomponent com/twitter org/mariotaku/refreshnow fr/castorflex/android/smoothprogressbar com/nostra13/universalimageloader/cache/memory com/negusoft/holoaccent edu/ucdavis/earlybird android/support/v4/internal/view it/sephiroth/android/library/imagezoom com/scvngr/levelup/views/gallery org/acra
+2, android/support/v4/accessibilityservice
+3, android/support/v4/database
+4, android/support/v4/graphics/drawable
+5, android/support/v4/hardware/display
+6, android/support/v4/media
+7, android/support/v4/net
+8, android/support/v4/os
+9, android/support/v4/text
+10, com/readystatesoftware/viewbadger
+11, microsoft/mappoint org/osmdroid org/slf4j org/metalev/multitouch/controller org/apache/http/entity/mime
+12, org/apache/commons/lang3
+13, org/mariotaku/harmony/view
+14, org/xbill/DNS

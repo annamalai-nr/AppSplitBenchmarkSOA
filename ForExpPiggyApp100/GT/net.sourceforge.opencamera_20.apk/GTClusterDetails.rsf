@@ -1,0 +1,15 @@
+contain 1 android/support/v4/os
+contain 2 android/support/v4/app
+contain 3 android/support/v4/internal/view
+contain 4 android/support/v4/accessibilityservice
+contain 5 android/support/v4/database
+contain 6 android/support/v4/graphics/drawable
+contain 7 android/support/v4/hardware/display
+contain 8 android/support/v4/net
+contain 9 android/support/v4/text
+contain 10 net/sourceforge/opencamera
+contain 11 android/support/v4/content
+contain 12 android/support/v4/util
+contain 13 android/support/v4/media
+contain 14 android/support/v4/view
+contain 15 android/support/v4/widget

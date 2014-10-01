@@ -1,0 +1,25 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="com/radioreddit/android" />
+    <node id="com/google/gson" />
+    <node id="android/annotation" />
+    <edge source="com/radioreddit/android" target="com/radioreddit/android">
+      <data key="d0">867</data>
+      <data key="d1">867</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/radioreddit/android" target="com/google/gson">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/gson" target="com/google/gson">
+      <data key="d0">2203</data>
+      <data key="d1">2203</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

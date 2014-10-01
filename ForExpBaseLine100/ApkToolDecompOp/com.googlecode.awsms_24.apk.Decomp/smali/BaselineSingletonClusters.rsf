@@ -1,0 +1,6 @@
+contain 1 android/annotation
+contain 2 com/googlecode/awsms
+contain 3 com/googlecode/esms/account
+contain 4 com/googlecode/esms/message
+contain 5 com/googlecode/esms/provider
+contain 6 org/jdom

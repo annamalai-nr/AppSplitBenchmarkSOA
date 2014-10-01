@@ -1,0 +1,16 @@
+1,com/strangeberry/jmdns/tools
+2,javax/jmdns
+3,org/codehaus/jackson
+4,org/xbmc/android/remote
+5,org/xbmc/android/util
+6,org/xbmc/android/widget
+7,org/xbmc/api/business
+8,org/xbmc/api/data
+9,org/xbmc/api/info
+10,org/xbmc/api/object
+11,org/xbmc/api/presentation
+12,org/xbmc/api/type
+13,org/xbmc/eventclient
+14,org/xbmc/httpapi
+15,org/xbmc/jsonrpc
+16,samples

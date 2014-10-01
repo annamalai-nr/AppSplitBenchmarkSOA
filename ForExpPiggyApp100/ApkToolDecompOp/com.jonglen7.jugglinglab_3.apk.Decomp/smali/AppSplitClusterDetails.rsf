@@ -1,0 +1,8 @@
+contain 1 com/cyrilmottier/android/greendroid
+contain 2 com/jonglen7/jugglinglab
+contain 2 greendroid/app
+contain 2 greendroid/widget
+contain 2 greendroid/image
+contain 2 greendroid/util
+contain 2 greendroid/graphics/drawable
+contain 3 org/superdry/util/colorpicker/lib

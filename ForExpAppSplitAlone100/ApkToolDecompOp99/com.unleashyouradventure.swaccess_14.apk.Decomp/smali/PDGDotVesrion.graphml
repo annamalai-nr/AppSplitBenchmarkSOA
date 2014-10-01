@@ -1,0 +1,166 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="android/support/v4/app" />
+    <node id="android/support/v4/view" />
+    <node id="com/actionbarsherlock" />
+    <node id="com/novoda/imageloader/core" />
+    <node id="com/google/gson" />
+    <node id="com/unleashyouradventure/swapi" />
+    <node id="org/jsoup" />
+    <node id="android/support/v4/util" />
+    <node id="com/unleashyouradventure/swaccess" />
+    <node id="android/support/v4/content" />
+    <node id="android/support/v4/widget" />
+    <node id="android/support/v4/database" />
+    <node id="android/support/v4/os" />
+    <node id="android/support/v4/accessibilityservice" />
+    <edge source="android/support/v4/app" target="android/support/v4/app">
+      <data key="d0">1293</data>
+      <data key="d1">1293</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/view">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/content">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="com/actionbarsherlock">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/util">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/view">
+      <data key="d0">1451</data>
+      <data key="d1">1451</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/widget">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/os">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/actionbarsherlock" target="android/support/v4/app">
+      <data key="d0">96</data>
+      <data key="d1">96</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/actionbarsherlock" target="android/support/v4/view">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/actionbarsherlock" target="com/actionbarsherlock">
+      <data key="d0">2651</data>
+      <data key="d1">2651</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/actionbarsherlock" target="android/support/v4/widget">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/novoda/imageloader/core" target="com/novoda/imageloader/core">
+      <data key="d0">973</data>
+      <data key="d1">973</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/gson" target="com/google/gson">
+      <data key="d0">2333</data>
+      <data key="d1">2333</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/unleashyouradventure/swapi" target="com/unleashyouradventure/swapi">
+      <data key="d0">1259</data>
+      <data key="d1">1259</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/unleashyouradventure/swapi" target="org/jsoup">
+      <data key="d0">138</data>
+      <data key="d1">138</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/unleashyouradventure/swapi" target="com/google/gson">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/jsoup" target="org/jsoup">
+      <data key="d0">8521</data>
+      <data key="d1">8521</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/util" target="android/support/v4/util">
+      <data key="d0">62</data>
+      <data key="d1">62</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/unleashyouradventure/swaccess" target="com/unleashyouradventure/swapi">
+      <data key="d0">302</data>
+      <data key="d1">302</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/unleashyouradventure/swaccess" target="com/unleashyouradventure/swaccess">
+      <data key="d0">1062</data>
+      <data key="d1">1062</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/unleashyouradventure/swaccess" target="com/actionbarsherlock">
+      <data key="d0">90</data>
+      <data key="d1">90</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/unleashyouradventure/swaccess" target="com/google/gson">
+      <data key="d0">9</data>
+      <data key="d1">9</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/unleashyouradventure/swaccess" target="com/novoda/imageloader/core">
+      <data key="d0">52</data>
+      <data key="d1">52</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/content">
+      <data key="d0">248</data>
+      <data key="d1">248</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/util">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/widget">
+      <data key="d0">186</data>
+      <data key="d1">186</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/os" target="android/support/v4/os">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/accessibilityservice" target="android/support/v4/accessibilityservice">
+      <data key="d0">36</data>
+      <data key="d1">36</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

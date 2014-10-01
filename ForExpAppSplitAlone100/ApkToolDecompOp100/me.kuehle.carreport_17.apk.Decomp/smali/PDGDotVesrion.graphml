@@ -1,0 +1,59 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="org/apache/http/entity/mime" />
+    <node id="me/kuehle/chartlib" />
+    <node id="org/joda/time" />
+    <node id="com/dropbox/client2" />
+    <node id="me/kuehle/carreport" />
+    <node id="org/json/simple" />
+    <node id="android/annotation" />
+    <edge source="org/apache/http/entity/mime" target="org/apache/http/entity/mime">
+      <data key="d0">247</data>
+      <data key="d1">247</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/kuehle/chartlib" target="me/kuehle/chartlib">
+      <data key="d0">489</data>
+      <data key="d1">489</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/joda/time" target="org/joda/time">
+      <data key="d0">23400</data>
+      <data key="d1">23400</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/dropbox/client2" target="com/dropbox/client2">
+      <data key="d0">1379</data>
+      <data key="d1">1379</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/dropbox/client2" target="org/json/simple">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/kuehle/carreport" target="me/kuehle/chartlib">
+      <data key="d0">227</data>
+      <data key="d1">227</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/kuehle/carreport" target="org/joda/time">
+      <data key="d0">74</data>
+      <data key="d1">74</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/kuehle/carreport" target="me/kuehle/carreport">
+      <data key="d0">2864</data>
+      <data key="d1">2864</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/json/simple" target="org/json/simple">
+      <data key="d0">320</data>
+      <data key="d1">320</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

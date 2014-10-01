@@ -1,0 +1,17 @@
+1,android/support/v4/content
+2,android/support/v4/internal/view
+3,android/support/v4/media
+4,android/support/v4/os
+5,android/support/v4/app android/support/v4/util
+6,android/support/v4/view android/support/v4/widget
+7,com/actionbarsherlock
+8,com/androidplot
+9,com/seawolfsanctuary/keepingtracks
+10,org/acra
+11,org/holoeverywhere
+12,android/support/v4/accessibilityservice
+13,android/support/v4/database
+14,android/support/v4/graphics/drawable
+15,android/support/v4/hardware/display
+16,android/support/v4/net
+17,android/support/v4/text

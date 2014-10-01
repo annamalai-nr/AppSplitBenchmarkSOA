@@ -1,0 +1,125 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="android/support/v4/app" />
+    <node id="android/support/v4/view" />
+    <node id="org/openintents/filemanager" />
+    <node id="org/openintents/intents" />
+    <node id="org/openintents/util" />
+    <node id="android/support/v4/util" />
+    <node id="org/openintents/distribution" />
+    <node id="android/support/v4/net" />
+    <node id="android/support/v4/content" />
+    <node id="android/support/v4/widget" />
+    <node id="android/support/v4/database" />
+    <node id="android/support/v4/os" />
+    <node id="android/support/v4/accessibilityservice" />
+    <edge source="android/support/v4/app" target="android/support/v4/app">
+      <data key="d0">1208</data>
+      <data key="d1">1208</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/view">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/content">
+      <data key="d0">34</data>
+      <data key="d1">34</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/util">
+      <data key="d0">129</data>
+      <data key="d1">129</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/view">
+      <data key="d0">2097</data>
+      <data key="d1">2097</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/widget">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/os">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/openintents/filemanager" target="android/support/v4/app">
+      <data key="d0">314</data>
+      <data key="d1">314</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/openintents/filemanager" target="android/support/v4/content">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/openintents/filemanager" target="org/openintents/filemanager">
+      <data key="d0">2858</data>
+      <data key="d1">2858</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/openintents/filemanager" target="org/openintents/util">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/openintents/filemanager" target="org/openintents/distribution">
+      <data key="d0">17</data>
+      <data key="d1">17</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/util" target="android/support/v4/util">
+      <data key="d0">150</data>
+      <data key="d1">150</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/openintents/distribution" target="org/openintents/util">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/openintents/distribution" target="org/openintents/distribution">
+      <data key="d0">260</data>
+      <data key="d1">260</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/net" target="android/support/v4/net">
+      <data key="d0">57</data>
+      <data key="d1">57</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/content">
+      <data key="d0">254</data>
+      <data key="d1">254</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/util">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/widget">
+      <data key="d0">204</data>
+      <data key="d1">204</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/os" target="android/support/v4/os">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/accessibilityservice" target="android/support/v4/accessibilityservice">
+      <data key="d0">36</data>
+      <data key="d1">36</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

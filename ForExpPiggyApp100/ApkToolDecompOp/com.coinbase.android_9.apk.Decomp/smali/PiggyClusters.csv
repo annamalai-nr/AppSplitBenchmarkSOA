@@ -1,0 +1,12 @@
+1, android/support/v4/accessibilityservice
+2, android/support/v4/app com/coinbase/android com/actionbarsherlock com/coinbase/api android/support/v4/util android/support/v4/view android/support/v4/widget org/acra android/support/v4/content uk/co/senab/actionbarpulltorefresh/extras/actionbarsherlock uk/co/senab/actionbarpulltorefresh/library fr/castorflex/android/smoothprogressbar com/nineoldandroids/animation com/nineoldandroids/util com/nineoldandroids/view android/support/v4/internal/view com/google/zxing com/justinschultz/examples com/justinschultz/pusherclient com/justinschultz/websocket
+3, android/support/v4/database
+4, android/support/v4/graphics/drawable
+5, android/support/v4/hardware/display
+6, android/support/v4/media
+7, android/support/v4/net
+8, android/support/v4/os
+9, android/support/v4/print
+10, android/support/v4/text
+11, org/apache/commons/codec
+12, org/apache/commons/logging

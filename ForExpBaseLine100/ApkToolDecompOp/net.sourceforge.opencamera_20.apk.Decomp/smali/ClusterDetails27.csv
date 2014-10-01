@@ -1,0 +1,14 @@
+1,android/support/v4/app
+2,android/support/v4/util
+3,android/support/v4/content
+4,android/support/v4/view android/support/v4/widget
+5,android/support/v4/media
+6,android/support/v4/text
+7,net/sourceforge/opencamera
+8,android/support/v4/net
+9,android/support/v4/hardware/display
+10,android/support/v4/graphics/drawable
+11,android/support/v4/database
+12,android/support/v4/accessibilityservice
+13,android/support/v4/os
+14,android/support/v4/internal/view

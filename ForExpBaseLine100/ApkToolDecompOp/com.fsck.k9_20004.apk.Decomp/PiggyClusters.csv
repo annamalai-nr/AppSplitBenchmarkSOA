@@ -1,0 +1,7 @@
+1, android/support/v4/accessibilityservice
+2, android/support/v4/app com/actionbarsherlock com/fsck/k9 android/support/v4/util android/support/v4/view android/support/v4/widget android/support/v4/content com/handmark/pulltorefresh/library de/cketti/library/changelog org/htmlcleaner org/apache/james/mime4j org/apache/commons/io com/larswerkman/colorpicker
+3, android/support/v4/database
+4, android/support/v4/net
+5, android/support/v4/os
+6, com/beetstra/jutf7
+7, com/jcraft/jzlib

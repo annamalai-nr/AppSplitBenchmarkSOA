@@ -1,0 +1,151 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="android/support/v4/app" />
+    <node id="android/support/v4/view" />
+    <node id="it/sasabz/android/sasabus" />
+    <node id="org/mapsforge/android" />
+    <node id="org/mapsforge/map/reader" />
+    <node id="android/support/v4/database" />
+    <node id="android/support/v4/util" />
+    <node id="android/support/v4/net" />
+    <node id="android/support/v4/content" />
+    <node id="org/mapsforge/core" />
+    <node id="android/support/v4/widget" />
+    <node id="android/annotation" />
+    <node id="android/support/v4/os" />
+    <node id="android/support/v4/accessibilityservice" />
+    <edge source="android/support/v4/app" target="android/support/v4/app">
+      <data key="d0">1703</data>
+      <data key="d1">1703</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/view">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/content">
+      <data key="d0">40</data>
+      <data key="d1">40</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/widget">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/util">
+      <data key="d0">112</data>
+      <data key="d1">112</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/view">
+      <data key="d0">2412</data>
+      <data key="d1">2412</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/widget">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/os">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="it/sasabz/android/sasabus" target="android/support/v4/app">
+      <data key="d0">352</data>
+      <data key="d1">352</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="it/sasabz/android/sasabus" target="it/sasabz/android/sasabus">
+      <data key="d0">1601</data>
+      <data key="d1">1601</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="it/sasabz/android/sasabus" target="org/mapsforge/android">
+      <data key="d0">142</data>
+      <data key="d1">142</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="it/sasabz/android/sasabus" target="org/mapsforge/core">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mapsforge/android" target="org/mapsforge/android">
+      <data key="d0">672</data>
+      <data key="d1">672</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mapsforge/android" target="org/mapsforge/map/reader">
+      <data key="d0">15</data>
+      <data key="d1">15</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mapsforge/android" target="org/mapsforge/core">
+      <data key="d0">163</data>
+      <data key="d1">163</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mapsforge/map/reader" target="org/mapsforge/map/reader">
+      <data key="d0">486</data>
+      <data key="d1">486</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mapsforge/map/reader" target="org/mapsforge/core">
+      <data key="d0">46</data>
+      <data key="d1">46</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/util" target="android/support/v4/util">
+      <data key="d0">156</data>
+      <data key="d1">156</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/net" target="android/support/v4/net">
+      <data key="d0">57</data>
+      <data key="d1">57</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/content">
+      <data key="d0">333</data>
+      <data key="d1">333</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/util">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mapsforge/core" target="org/mapsforge/core">
+      <data key="d0">59</data>
+      <data key="d1">59</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/view">
+      <data key="d0">314</data>
+      <data key="d1">314</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/widget">
+      <data key="d0">1378</data>
+      <data key="d1">1378</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/os" target="android/support/v4/os">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/accessibilityservice" target="android/support/v4/accessibilityservice">
+      <data key="d0">36</data>
+      <data key="d1">36</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

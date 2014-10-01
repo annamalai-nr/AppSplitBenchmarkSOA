@@ -1,0 +1,5 @@
+org/achartengine
+org/dom4j
+org/jaxen
+org/w3c/dom
+to/networld/android/divedroid

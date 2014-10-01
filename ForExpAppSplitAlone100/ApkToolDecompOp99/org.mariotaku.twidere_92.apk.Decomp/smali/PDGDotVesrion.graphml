@@ -1,0 +1,645 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="com/jeremyfeinstein/slidingmenu/lib" />
+    <node id="org/slf4j" />
+    <node id="android/support/v4/text" />
+    <node id="com/nostra13/universalimageloader/utils" />
+    <node id="android/support/v4/graphics/drawable" />
+    <node id="com/negusoft/holoaccent" />
+    <node id="com/twitter" />
+    <node id="android/support/v4/media" />
+    <node id="android/support/v4/widget" />
+    <node id="android/support/v4/database" />
+    <node id="android/support/v4/os" />
+    <node id="edu/ucdavis/earlybird" />
+    <node id="org/mariotaku/harmony/view" />
+    <node id="com/google/android/apps/dashclock/api" />
+    <node id="org/mariotaku/gallery3d" />
+    <node id="it/sephiroth/android/library/imagezoom" />
+    <node id="com/nostra13/universalimageloader/core" />
+    <node id="org/acra" />
+    <node id="android/support/v4/accessibilityservice" />
+    <node id="org/apache/http/entity/mime" />
+    <node id="com/nostra13/universalimageloader/cache/disc" />
+    <node id="android/support/v4/internal/view" />
+    <node id="org/xbill/DNS" />
+    <node id="org/mariotaku/menucomponent" />
+    <node id="com/nostra13/universalimageloader/cache/memory" />
+    <node id="android/support/v4/view" />
+    <node id="com/mobeta/android/dslv" />
+    <node id="org/osmdroid" />
+    <node id="android/support/v13/app" />
+    <node id="android/support/v4/util" />
+    <node id="org/mariotaku/twidere" />
+    <node id="microsoft/mappoint" />
+    <node id="twitter4j" />
+    <node id="com/scvngr/levelup/views/gallery" />
+    <node id="android/support/v4/app" />
+    <node id="android/support/v4/hardware/display" />
+    <node id="org/apache/commons/lang3" />
+    <node id="org/mariotaku/jsonserializer" />
+    <node id="fr/castorflex/android/smoothprogressbar" />
+    <node id="de/keyboardsurfer/android/widget/crouton" />
+    <node id="com/etsy/android/grid" />
+    <node id="me/imid/swipebacklayout/lib" />
+    <node id="org/mariotaku/querybuilder" />
+    <node id="android/support/v4/net" />
+    <node id="android/support/v4/content" />
+    <node id="org/metalev/multitouch/controller" />
+    <node id="org/mariotaku/refreshnow" />
+    <node id="com/readystatesoftware/viewbadger" />
+    <edge source="com/jeremyfeinstein/slidingmenu/lib" target="android/support/v4/app">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/jeremyfeinstein/slidingmenu/lib" target="android/support/v4/view">
+      <data key="d0">48</data>
+      <data key="d1">48</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/jeremyfeinstein/slidingmenu/lib" target="com/jeremyfeinstein/slidingmenu/lib">
+      <data key="d0">947</data>
+      <data key="d1">947</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/slf4j" target="org/slf4j">
+      <data key="d0">431</data>
+      <data key="d1">431</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/text" target="android/support/v4/text">
+      <data key="d0">185</data>
+      <data key="d1">185</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/utils" target="com/nostra13/universalimageloader/core">
+      <data key="d0">45</data>
+      <data key="d1">45</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/utils" target="com/nostra13/universalimageloader/utils">
+      <data key="d0">36</data>
+      <data key="d1">36</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/graphics/drawable" target="android/support/v4/graphics/drawable">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/negusoft/holoaccent" target="com/negusoft/holoaccent">
+      <data key="d0">986</data>
+      <data key="d1">986</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/twitter" target="com/twitter">
+      <data key="d0">191</data>
+      <data key="d1">191</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/media" target="android/support/v4/view">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/media" target="android/support/v4/media">
+      <data key="d0">162</data>
+      <data key="d1">162</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/view">
+      <data key="d0">406</data>
+      <data key="d1">406</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/widget">
+      <data key="d0">1448</data>
+      <data key="d1">1448</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/os" target="android/support/v4/os">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="edu/ucdavis/earlybird" target="edu/ucdavis/earlybird">
+      <data key="d0">72</data>
+      <data key="d1">72</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="edu/ucdavis/earlybird" target="org/mariotaku/twidere">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="edu/ucdavis/earlybird" target="twitter4j">
+      <data key="d0">11</data>
+      <data key="d1">11</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/harmony/view" target="org/mariotaku/harmony/view">
+      <data key="d0">44</data>
+      <data key="d1">44</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/android/apps/dashclock/api" target="com/google/android/apps/dashclock/api">
+      <data key="d0">126</data>
+      <data key="d1">126</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/gallery3d" target="android/support/v4/app">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/gallery3d" target="com/nostra13/universalimageloader/cache/disc">
+      <data key="d0">3</data>
+      <data key="d1">3</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/gallery3d" target="org/mariotaku/gallery3d">
+      <data key="d0">2471</data>
+      <data key="d1">2471</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/gallery3d" target="org/mariotaku/menucomponent">
+      <data key="d0">19</data>
+      <data key="d1">19</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/gallery3d" target="com/nostra13/universalimageloader/core">
+      <data key="d0">3</data>
+      <data key="d1">3</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/gallery3d" target="org/mariotaku/twidere">
+      <data key="d0">62</data>
+      <data key="d1">62</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/gallery3d" target="android/support/v4/content">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="it/sephiroth/android/library/imagezoom" target="android/support/v4/view">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="it/sephiroth/android/library/imagezoom" target="it/sephiroth/android/library/imagezoom">
+      <data key="d0">363</data>
+      <data key="d1">363</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/core" target="com/nostra13/universalimageloader/cache/disc">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/core" target="com/nostra13/universalimageloader/core">
+      <data key="d0">1468</data>
+      <data key="d1">1468</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/core" target="com/nostra13/universalimageloader/utils">
+      <data key="d0">114</data>
+      <data key="d1">114</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/core" target="com/nostra13/universalimageloader/cache/memory">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/acra" target="org/acra">
+      <data key="d0">1712</data>
+      <data key="d1">1712</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/accessibilityservice" target="android/support/v4/accessibilityservice">
+      <data key="d0">56</data>
+      <data key="d1">56</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/apache/http/entity/mime" target="org/apache/http/entity/mime">
+      <data key="d0">289</data>
+      <data key="d1">289</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/cache/disc" target="com/nostra13/universalimageloader/cache/disc">
+      <data key="d0">150</data>
+      <data key="d1">150</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/cache/disc" target="com/nostra13/universalimageloader/core">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/cache/disc" target="com/nostra13/universalimageloader/utils">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbill/DNS" target="org/xbill/DNS">
+      <data key="d0">2725</data>
+      <data key="d1">2725</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/menucomponent" target="android/support/v4/view">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/menucomponent" target="org/mariotaku/menucomponent">
+      <data key="d0">152</data>
+      <data key="d1">152</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/cache/memory" target="com/nostra13/universalimageloader/utils">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/cache/memory" target="com/nostra13/universalimageloader/cache/memory">
+      <data key="d0">290</data>
+      <data key="d1">290</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/view">
+      <data key="d0">2613</data>
+      <data key="d1">2613</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/internal/view">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/widget">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/os">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/mobeta/android/dslv" target="com/mobeta/android/dslv">
+      <data key="d0">1016</data>
+      <data key="d1">1016</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/mobeta/android/dslv" target="android/support/v4/widget">
+      <data key="d0">30</data>
+      <data key="d1">30</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/osmdroid" target="org/apache/http/entity/mime">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/osmdroid" target="microsoft/mappoint">
+      <data key="d0">98</data>
+      <data key="d1">98</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/osmdroid" target="org/osmdroid">
+      <data key="d0">2044</data>
+      <data key="d1">2044</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/osmdroid" target="org/metalev/multitouch/controller">
+      <data key="d0">15</data>
+      <data key="d1">15</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/osmdroid" target="org/slf4j">
+      <data key="d0">47</data>
+      <data key="d1">47</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v13/app" target="android/support/v4/view">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v13/app" target="android/support/v13/app">
+      <data key="d0">162</data>
+      <data key="d1">162</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/util" target="android/support/v4/util">
+      <data key="d0">156</data>
+      <data key="d1">156</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="org/mariotaku/gallery3d">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="com/negusoft/holoaccent">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="com/twitter">
+      <data key="d0">37</data>
+      <data key="d1">37</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="android/support/v4/widget">
+      <data key="d0">81</data>
+      <data key="d1">81</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="edu/ucdavis/earlybird">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="com/google/android/apps/dashclock/api">
+      <data key="d0">78</data>
+      <data key="d1">78</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="com/nostra13/universalimageloader/core">
+      <data key="d0">83</data>
+      <data key="d1">83</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="org/acra">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="android/support/v4/view">
+      <data key="d0">154</data>
+      <data key="d1">154</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="com/nostra13/universalimageloader/utils">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="org/mariotaku/menucomponent">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="com/mobeta/android/dslv">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="android/support/v13/app">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="android/support/v4/util">
+      <data key="d0">61</data>
+      <data key="d1">61</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="org/mariotaku/twidere">
+      <data key="d0">12824</data>
+      <data key="d1">12824</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="twitter4j">
+      <data key="d0">998</data>
+      <data key="d1">998</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="com/scvngr/levelup/views/gallery">
+      <data key="d0">9</data>
+      <data key="d1">9</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="android/support/v4/app">
+      <data key="d0">135</data>
+      <data key="d1">135</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="org/apache/commons/lang3">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="org/mariotaku/jsonserializer">
+      <data key="d0">435</data>
+      <data key="d1">435</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="com/nostra13/universalimageloader/cache/disc">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="de/keyboardsurfer/android/widget/crouton">
+      <data key="d0">54</data>
+      <data key="d1">54</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="com/etsy/android/grid">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="org/mariotaku/querybuilder">
+      <data key="d0">486</data>
+      <data key="d1">486</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="android/support/v4/content">
+      <data key="d0">72</data>
+      <data key="d1">72</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/twidere" target="org/mariotaku/refreshnow">
+      <data key="d0">37</data>
+      <data key="d1">37</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="microsoft/mappoint" target="microsoft/mappoint">
+      <data key="d0">22</data>
+      <data key="d1">22</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="microsoft/mappoint" target="org/osmdroid">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="twitter4j" target="twitter4j">
+      <data key="d0">1241</data>
+      <data key="d1">1241</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/scvngr/levelup/views/gallery" target="com/scvngr/levelup/views/gallery">
+      <data key="d0">716</data>
+      <data key="d1">716</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/app">
+      <data key="d0">1722</data>
+      <data key="d1">1722</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/view">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/content">
+      <data key="d0">40</data>
+      <data key="d1">40</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/widget">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/util">
+      <data key="d0">114</data>
+      <data key="d1">114</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/hardware/display" target="android/support/v4/hardware/display">
+      <data key="d0">38</data>
+      <data key="d1">38</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/apache/commons/lang3" target="org/apache/commons/lang3">
+      <data key="d0">70</data>
+      <data key="d1">70</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/jsonserializer" target="org/mariotaku/twidere">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/jsonserializer" target="org/mariotaku/jsonserializer">
+      <data key="d0">108</data>
+      <data key="d1">108</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="fr/castorflex/android/smoothprogressbar" target="fr/castorflex/android/smoothprogressbar">
+      <data key="d0">215</data>
+      <data key="d1">215</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="de/keyboardsurfer/android/widget/crouton" target="org/mariotaku/twidere">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="de/keyboardsurfer/android/widget/crouton" target="de/keyboardsurfer/android/widget/crouton">
+      <data key="d0">401</data>
+      <data key="d1">401</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/etsy/android/grid" target="android/support/v4/view">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/etsy/android/grid" target="com/etsy/android/grid">
+      <data key="d0">1178</data>
+      <data key="d1">1178</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/etsy/android/grid" target="android/support/v4/util">
+      <data key="d0">29</data>
+      <data key="d1">29</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/imid/swipebacklayout/lib" target="android/support/v4/app">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/imid/swipebacklayout/lib" target="android/support/v4/view">
+      <data key="d0">84</data>
+      <data key="d1">84</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/imid/swipebacklayout/lib" target="me/imid/swipebacklayout/lib">
+      <data key="d0">481</data>
+      <data key="d1">481</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/imid/swipebacklayout/lib" target="android/support/v4/widget">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="me/imid/swipebacklayout/lib" target="org/mariotaku/twidere">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/querybuilder" target="org/mariotaku/twidere">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/querybuilder" target="org/mariotaku/querybuilder">
+      <data key="d0">441</data>
+      <data key="d1">441</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/net" target="android/support/v4/net">
+      <data key="d0">57</data>
+      <data key="d1">57</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/content">
+      <data key="d0">335</data>
+      <data key="d1">335</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/util">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/metalev/multitouch/controller" target="org/metalev/multitouch/controller">
+      <data key="d0">142</data>
+      <data key="d1">142</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/refreshnow" target="fr/castorflex/android/smoothprogressbar">
+      <data key="d0">37</data>
+      <data key="d1">37</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/mariotaku/refreshnow" target="org/mariotaku/refreshnow">
+      <data key="d0">148</data>
+      <data key="d1">148</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/readystatesoftware/viewbadger" target="org/mariotaku/twidere">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/readystatesoftware/viewbadger" target="com/readystatesoftware/viewbadger">
+      <data key="d0">86</data>
+      <data key="d1">86</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

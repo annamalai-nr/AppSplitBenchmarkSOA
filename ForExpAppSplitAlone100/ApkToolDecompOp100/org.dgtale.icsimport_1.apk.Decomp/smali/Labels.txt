@@ -1,0 +1,10 @@
+edu/emory/mathcs/backport/java/util
+net/fortuna/ical4j/data
+net/fortuna/ical4j/filter
+net/fortuna/ical4j/model
+net/fortuna/ical4j/transform
+net/fortuna/ical4j/util
+org/apache/commons/codec
+org/apache/commons/lang
+org/apache/commons/logging
+org/dgtale/icsimport

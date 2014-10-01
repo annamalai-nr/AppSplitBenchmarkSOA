@@ -1,0 +1,25 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="org/eehouse/android/xw4" />
+    <node id="com/google/android/gcm" />
+    <node id="android/annotation" />
+    <edge source="org/eehouse/android/xw4" target="org/eehouse/android/xw4">
+      <data key="d0">8485</data>
+      <data key="d1">8485</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/eehouse/android/xw4" target="com/google/android/gcm">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/android/gcm" target="com/google/android/gcm">
+      <data key="d0">109</data>
+      <data key="d1">109</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

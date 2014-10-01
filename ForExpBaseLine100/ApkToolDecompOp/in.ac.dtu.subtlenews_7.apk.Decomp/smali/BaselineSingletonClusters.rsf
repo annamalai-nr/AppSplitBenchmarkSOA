@@ -1,0 +1,13 @@
+contain 1 android/support/v4/a
+contain 2 android/support/v4/b/a
+contain 3 android/support/v4/c
+contain 4 android/support/v4/d
+contain 5 android/support/v4/view
+contain 6 android/support/v4/widget
+contain 7 android/support/v7/a
+contain 8 android/support/v7/b
+contain 9 android/support/v7/c
+contain 10 android/support/v7/internal/view
+contain 11 android/support/v7/internal/widget
+contain 12 android/support/v7/widget
+contain 13 in/ac/dtu/subtlenews

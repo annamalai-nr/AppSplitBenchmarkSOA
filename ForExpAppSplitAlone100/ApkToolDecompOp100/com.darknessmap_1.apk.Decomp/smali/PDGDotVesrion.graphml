@@ -1,0 +1,101 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="com/google/code/microlog4android" />
+    <node id="org/slf4j" />
+    <node id="com/darknessmap" />
+    <node id="com/mongodb" />
+    <node id="relocated/morphia/org/apache/commons/collections" />
+    <node id="com/paulm/jsignal" />
+    <node id="org/bson" />
+    <node id="com/google/gson" />
+    <node id="com/google/code/morphia" />
+    <edge source="com/google/code/microlog4android" target="com/google/code/microlog4android">
+      <data key="d0">549</data>
+      <data key="d1">549</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/slf4j" target="com/google/code/microlog4android">
+      <data key="d0">35</data>
+      <data key="d1">35</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/slf4j" target="org/slf4j">
+      <data key="d0">403</data>
+      <data key="d1">403</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/darknessmap" target="com/darknessmap">
+      <data key="d0">204</data>
+      <data key="d1">204</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/darknessmap" target="com/google/code/microlog4android">
+      <data key="d0">22</data>
+      <data key="d1">22</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/darknessmap" target="com/google/gson">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/darknessmap" target="com/paulm/jsignal">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/mongodb" target="com/mongodb">
+      <data key="d0">5768</data>
+      <data key="d1">5768</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/mongodb" target="org/bson">
+      <data key="d0">412</data>
+      <data key="d1">412</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="relocated/morphia/org/apache/commons/collections" target="relocated/morphia/org/apache/commons/collections">
+      <data key="d0">245</data>
+      <data key="d1">245</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/paulm/jsignal" target="com/paulm/jsignal">
+      <data key="d0">134</data>
+      <data key="d1">134</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/bson" target="com/mongodb">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/bson" target="org/bson">
+      <data key="d0">2535</data>
+      <data key="d1">2535</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/gson" target="com/google/gson">
+      <data key="d0">2325</data>
+      <data key="d1">2325</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/code/morphia" target="com/mongodb">
+      <data key="d0">477</data>
+      <data key="d1">477</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/code/morphia" target="org/bson">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/code/morphia" target="com/google/code/morphia">
+      <data key="d0">3987</data>
+      <data key="d1">3987</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

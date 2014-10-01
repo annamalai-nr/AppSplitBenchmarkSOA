@@ -1,0 +1,12 @@
+contain 1 android/support/v4/os
+contain 2 android/support/v4/app
+contain 3 android/support/v4/view
+contain 4 com/caverock/androidsvg
+contain 5 it/ecosw/dudo
+contain 6 android/support/v4/accessibilityservice
+contain 7 android/support/v4/database
+contain 8 android/support/v4/net
+contain 9 net/margaritov/preference/colorpicker
+contain 10 android/support/v4/content
+contain 11 android/support/v4/util
+contain 12 android/support/v4/widget

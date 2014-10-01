@@ -1,0 +1,14 @@
+com
+android
+com/radioreddit
+com/google
+com/radioreddit/android
+com/radioreddit/android/api
+com/radioreddit/android/actionbarcompat
+com/google/gson
+com/google/gson/reflect
+com/google/gson/annotations
+com/google/gson/stream
+com/google/gson/internal
+com/google/gson/internal/bind
+android/annotation

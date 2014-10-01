@@ -1,0 +1,52 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="zame/GloomyDungeons/opensource/libs" />
+    <node id="zame/GloomyDungeons/opensource/game" />
+    <node id="org/acra" />
+    <node id="android/annotation" />
+    <node id="com/google/android/apps/analytics" />
+    <edge source="zame/GloomyDungeons/opensource/libs" target="zame/GloomyDungeons/opensource/libs">
+      <data key="d0">142</data>
+      <data key="d1">142</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="zame/GloomyDungeons/opensource/libs" target="zame/GloomyDungeons/opensource/game">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="zame/GloomyDungeons/opensource/game" target="zame/GloomyDungeons/opensource/libs">
+      <data key="d0">63</data>
+      <data key="d1">63</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="zame/GloomyDungeons/opensource/game" target="zame/GloomyDungeons/opensource/game">
+      <data key="d0">1731</data>
+      <data key="d1">1731</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="zame/GloomyDungeons/opensource/game" target="org/acra">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="zame/GloomyDungeons/opensource/game" target="com/google/android/apps/analytics">
+      <data key="d0">48</data>
+      <data key="d1">48</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/acra" target="org/acra">
+      <data key="d0">987</data>
+      <data key="d1">987</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/google/android/apps/analytics" target="com/google/android/apps/analytics">
+      <data key="d0">329</data>
+      <data key="d1">329</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,11 @@
+1,org/openintents/distribution org/openintents/util
+2,android/support/v4/app android/support/v4/util
+3,android/support/v4/content
+4,android/support/v4/view
+5,android/support/v4/widget
+6,org/openintents/filemanager
+7,android/support/v4/os
+8,android/support/v4/net
+9,org/openintents/intents
+10,android/support/v4/database
+11,android/support/v4/accessibilityservice

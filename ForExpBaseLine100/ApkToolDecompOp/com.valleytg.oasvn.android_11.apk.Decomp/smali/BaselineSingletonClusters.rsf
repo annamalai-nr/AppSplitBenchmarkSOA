@@ -1,0 +1,8 @@
+contain 1 android/annotation
+contain 2 com/sun/jna/platform
+contain 3 com/trilead/ssh2
+contain 4 com/valleytg/oasvn/android
+contain 5 de/regnis/q/sequence
+contain 6 org/tmatesoft/sqljet/core
+contain 7 org/tmatesoft/svn/core
+contain 8 org/tmatesoft/svn/util

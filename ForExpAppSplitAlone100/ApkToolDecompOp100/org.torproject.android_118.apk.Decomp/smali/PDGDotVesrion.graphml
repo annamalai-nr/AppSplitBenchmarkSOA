@@ -1,0 +1,187 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="android/support/v7/internal/widget" />
+    <node id="android/support/v4/view" />
+    <node id="a/a/a/a" />
+    <node id="android/support/v7/a" />
+    <node id="android/support/v7/b" />
+    <node id="android/support/v7/c" />
+    <node id="android/support/v4/b/a" />
+    <node id="android/support/v7/widget" />
+    <node id="android/support/v4/c" />
+    <node id="android/support/v4/a" />
+    <node id="android/support/v7/internal/view" />
+    <node id="android/support/v4/d" />
+    <node id="android/support/v4/widget" />
+    <node id="org/a/a" />
+    <node id="org/torproject/android" />
+    <edge source="android/support/v7/internal/widget" target="android/support/v7/internal/widget">
+      <data key="d0">1606</data>
+      <data key="d1">1606</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/internal/widget" target="android/support/v7/internal/view">
+      <data key="d0">129</data>
+      <data key="d1">129</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/internal/widget" target="android/support/v7/c">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/internal/widget" target="android/support/v7/a">
+      <data key="d0">15</data>
+      <data key="d1">15</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/internal/widget" target="android/support/v4/b/a">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/c">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/view">
+      <data key="d0">817</data>
+      <data key="d1">817</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/widget">
+      <data key="d0">30</data>
+      <data key="d1">30</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/b/a">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="a/a/a/a" target="a/a/a/a">
+      <data key="d0">87</data>
+      <data key="d1">87</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/a" target="android/support/v7/internal/widget">
+      <data key="d0">96</data>
+      <data key="d1">96</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/a" target="android/support/v7/internal/view">
+      <data key="d0">50</data>
+      <data key="d1">50</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/a" target="android/support/v4/a">
+      <data key="d0">60</data>
+      <data key="d1">60</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/a" target="android/support/v7/a">
+      <data key="d0">395</data>
+      <data key="d1">395</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/a" target="android/support/v7/c">
+      <data key="d0">3</data>
+      <data key="d1">3</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/widget" target="android/support/v4/widget">
+      <data key="d0">25</data>
+      <data key="d1">25</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/widget" target="android/support/v7/widget">
+      <data key="d0">253</data>
+      <data key="d1">253</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/c" target="android/support/v4/c">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/a" target="android/support/v4/a">
+      <data key="d0">34</data>
+      <data key="d1">34</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/a" target="android/support/v4/d">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/internal/view" target="android/support/v7/internal/widget">
+      <data key="d0">59</data>
+      <data key="d1">59</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/internal/view" target="android/support/v4/view">
+      <data key="d0">30</data>
+      <data key="d1">30</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/internal/view" target="android/support/v7/internal/view">
+      <data key="d0">1258</data>
+      <data key="d1">1258</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/internal/view" target="android/support/v7/c">
+      <data key="d0">17</data>
+      <data key="d1">17</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/d" target="android/support/v4/d">
+      <data key="d0">268</data>
+      <data key="d1">268</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/view">
+      <data key="d0">118</data>
+      <data key="d1">118</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/widget">
+      <data key="d0">776</data>
+      <data key="d1">776</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/a/a" target="org/a/a">
+      <data key="d0">138</data>
+      <data key="d1">138</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/torproject/android" target="org/a/a">
+      <data key="d0">105</data>
+      <data key="d1">105</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/torproject/android" target="a/a/a/a">
+      <data key="d0">31</data>
+      <data key="d1">31</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/torproject/android" target="android/support/v4/a">
+      <data key="d0">15</data>
+      <data key="d1">15</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/torproject/android" target="org/torproject/android">
+      <data key="d0">1793</data>
+      <data key="d1">1793</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/torproject/android" target="android/support/v7/a">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,15 @@
+contain 1 android/support/v4/os
+contain 2 android/support/v4/app
+contain 2 android/support/v4/content
+contain 2 android/support/v4/util
+contain 3 android/support/v4/view
+contain 3 android/support/v4/widget
+contain 4 com/rj/pixelesque
+contain 4 com/rj/processing/mt
+contain 5 de/devmil/common/ui/color
+contain 6 processing/core
+contain 6 processing/xml
+contain 7 android/support/v4/net
+contain 8 android/annotation
+contain 9 android/support/v4/accessibilityservice
+contain 10 android/support/v4/database

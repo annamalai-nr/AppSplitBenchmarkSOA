@@ -1,0 +1,12 @@
+1,android/support/v4/app
+2,android/support/v4/content
+3,android/support/v4/os
+4,android/support/v4/util
+5,android/support/v4/view android/support/v4/widget
+6,com/android/inputmethod/accessibility com/android/inputmethod/keyboard
+7,com/android/inputmethod/compat com/android/inputmethod/dictionarypack com/android/inputmethod/event com/android/inputmethod/latin com/android/inputmethod/research
+8,com/android/inputmethodcommon
+9,android/support/v4/accessibilityservice
+10,android/support/v4/database
+11,android/support/v4/net
+12,com/android/inputmethod/annotations

@@ -1,0 +1,13 @@
+org
+android
+org/zakky
+org/zakky/memopad
+android/support
+android/annotation
+android/support/v4
+android/support/v4/util
+android/support/v4/widget
+android/support/v4/view
+android/support/v4/app
+android/support/v4/os
+android/support/v4/content

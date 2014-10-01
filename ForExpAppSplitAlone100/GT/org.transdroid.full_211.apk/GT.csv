@@ -1,0 +1,24 @@
+1,android/support/v4/os
+2,android/support/v4/app
+25,android/support/v4/content
+26,android/support/v4/util
+3,android/support/v4/view
+27,android/support/v4/widget
+4,com/actionbarsherlock
+5,com/android/internalcopy/http/multipart
+6,com/j256/ormlite/db com/j256/ormlite/field com/j256/ormlite/misc com/j256/ormlite/table com/j256/ormlite/android com/j256/ormlite/logger com/j256/ormlite/support com/j256/ormlite/dao com/j256/ormlite/stmt
+9,com/nostra13/universalimageloader/cache/memory com/nostra13/universalimageloader/cache/disc com/nostra13/universalimageloader/core com/nostra13/universalimageloader/utils
+11,de/keyboardsurfer/android/widget/crouton
+12,de/timroes/axmlrpc de/timroes/base64
+13,org/androidannotations/api
+14,org/apache/openjpa/lib/util
+15,org/base64/android
+16,org/transdroid/core org/transdroid/daemon
+17,uk/co/senab/actionbarpulltorefresh/extras/actionbarsherlock uk/co/senab/actionbarpulltorefresh/library
+18,android/support/v4/accessibilityservice
+19,android/support/v4/database
+20,android/support/v4/net
+21,de/keyboardsurfer/mobile/app/android/widget/crouton
+22,net/margaritov/preference/colorpicker
+23,org/androidannotations/annotations
+24,org/transdroid/full

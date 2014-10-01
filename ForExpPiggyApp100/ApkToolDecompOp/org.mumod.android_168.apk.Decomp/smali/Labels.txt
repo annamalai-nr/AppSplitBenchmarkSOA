@@ -1,0 +1,9 @@
+a/a/a/a/a/a
+b/a
+org/apache/a/a/a
+org/apache/james/mime4j
+org/mumod/a
+org/mumod/b
+org/mumod/c
+org/mumod/d
+org/mumod/e

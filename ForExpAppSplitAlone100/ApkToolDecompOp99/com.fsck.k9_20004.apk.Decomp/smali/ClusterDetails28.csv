@@ -1,0 +1,17 @@
+1,android/support/v4/content
+2,android/support/v4/os
+3,android/support/v4/app android/support/v4/util
+4,android/support/v4/view android/support/v4/widget
+5,com/actionbarsherlock
+6,com/fsck/k9
+7,com/handmark/pulltorefresh/library
+8,com/larswerkman/colorpicker
+9,de/cketti/library/changelog
+10,org/apache/commons/io
+11,org/apache/james/mime4j
+12,org/htmlcleaner
+13,android/support/v4/accessibilityservice
+14,android/support/v4/database
+15,android/support/v4/net
+16,com/beetstra/jutf7
+17,com/jcraft/jzlib

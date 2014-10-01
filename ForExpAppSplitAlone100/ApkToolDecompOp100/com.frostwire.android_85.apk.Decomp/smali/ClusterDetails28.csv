@@ -1,0 +1,63 @@
+1,android/support/v4/content
+2,android/support/v4/os
+3,android/support/v4/app android/support/v4/util
+4,android/support/v4/view android/support/v4/widget
+5,ch/qos/logback/classic ch/qos/logback/core
+6,ch/qos/logback/repackage/brut/androlib ch/qos/logback/repackage/brut/common
+7,com/aelitis/azureus/activities com/aelitis/azureus/core com/aelitis/azureus/plugins/dht com/aelitis/azureus/plugins/extseed com/aelitis/azureus/plugins/startstoprules/defaultplugin com/aelitis/azureus/ui com/aelitis/azureus/util com/aelitis/net/magneturi com/aelitis/net/natpmp com/aelitis/net/udp/uc
+8,com/aelitis/azureus/plugins/clientid
+9,com/aelitis/azureus/plugins/removerules
+10,com/aelitis/azureus/plugins/sharing/hoster
+11,com/aelitis/azureus/plugins/startstoprules/always
+12,com/aelitis/net/udp/mc
+13,com/aelitis/azureus/plugins/upnp com/aelitis/net/upnp
+14,com/android/vending/billing
+15,com/coremedia/iso com/googlecode/mp4parser
+16,com/frostwire/android com/frostwire/gui/upnp
+17,com/frostwire/frostclick
+18,com/frostwire/licences
+19,com/frostwire/search com/frostwire/util
+20,com/google/gson
+21,com/jakewharton
+22,com/slidingmenu/lib
+23,com/sun/net/httpserver
+24,jd/nutils/encoding
+25,jd/http jd/parser
+26,jd/utils
+27,org/apache/commons/io
+28,org/appwork/utils
+29,org/fourthline/cling
+30,org/gudy/azureus2/core3/category org/gudy/azureus2/core3/config org/gudy/azureus2/core3/disk org/gudy/azureus2/core3/download org/gudy/azureus2/core3/global org/gudy/azureus2/core3/html org/gudy/azureus2/core3/internat org/gudy/azureus2/core3/ipchecker/extipchecker org/gudy/azureus2/core3/ipchecker/natchecker org/gudy/azureus2/core3/ipfilter org/gudy/azureus2/core3/logging org/gudy/azureus2/core3/peer org/gudy/azureus2/core3/security org/gudy/azureus2/core3/stats org/gudy/azureus2/core3/torrent org/gudy/azureus2/core3/tracker/client org/gudy/azureus2/core3/tracker/protocol org/gudy/azureus2/core3/tracker/util org/gudy/azureus2/core3/util org/gudy/azureus2/core3/xml/util org/json
+31,org/gudy/azureus2/core3/xml/simpleparser org/gudy/azureus2/platform org/gudy/azureus2/plugins
+32,org/pf/file org/pf/text
+33,org/seamless/http
+34,org/seamless/util
+35,org/seamless/xhtml org/seamless/xml
+36,org/slf4j
+37,org/bouncycastle/util/encoders org/xmlpull/v1
+38,sun/misc
+39,sun/net/httpserver
+40,android/annotation
+41,android/support/v4/accessibilityservice
+42,android/support/v4/database
+43,android/support/v4/net
+44,ch/qos/logback/repackage/brut/util
+45,ch/qos/logback/repackage/com/mindprod/ledatastream
+46,com/frostwire/core
+47,com/frostwire/mp3
+48,com/google/ads
+49,httpserver/com/sun/net/httpserver
+50,javax/annotation
+51,javax/decorator
+52,javax/enterprise/context
+53,javax/enterprise/event
+54,javax/enterprise/inject
+55,javax/enterprise/util
+56,javax/inject
+57,javax/interceptor
+58,javax/servlet
+59,org/apache/commons/lang
+60,org/appwork/storage
+61,org/bouncycastle/crypto
+62,sun/net/www
+63,sun/security/action

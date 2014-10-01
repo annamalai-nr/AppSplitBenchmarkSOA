@@ -1,0 +1,14 @@
+1,com/commonsware/cwac/adapter com/commonsware/cwac/endless
+2,com/nineoldandroids/animation com/nineoldandroids/util com/nineoldandroids/view
+3,android/support/v4/app android/support/v4/content android/support/v4/media android/support/v4/util android/support/v4/view android/support/v4/widget android/support/v7/app android/support/v7/internal/view android/support/v7/internal/widget android/support/v7/view android/support/v7/widget de/geeksfactory/opacclient org/holoeverywhere org/jsoup
+4,org/acra
+5,android/support/v4/text
+6,org/apmem/tools/layouts
+7,android/support/v4/print
+8,android/support/v4/net
+9,android/support/v4/hardware/display
+10,android/support/v4/graphics/drawable
+11,android/support/v4/database
+12,android/support/v4/accessibilityservice
+13,android/support/v4/os
+14,android/support/v4/internal/view

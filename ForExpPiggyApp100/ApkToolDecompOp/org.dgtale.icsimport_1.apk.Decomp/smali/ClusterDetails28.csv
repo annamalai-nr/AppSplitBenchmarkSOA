@@ -1,0 +1,8 @@
+1,net/fortuna/ical4j/model net/fortuna/ical4j/transform net/fortuna/ical4j/util
+2,net/fortuna/ical4j/data
+3,org/apache/commons/logging
+4,org/dgtale/icsimport
+5,edu/emory/mathcs/backport/java/util
+6,org/apache/commons/lang
+7,org/apache/commons/codec
+8,net/fortuna/ical4j/filter

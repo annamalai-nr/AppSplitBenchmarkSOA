@@ -1,0 +1,19 @@
+1,android/support/v4/graphics/drawable
+2,android/support/v4/os
+3,android/support/v4/app
+4,android/support/v4/media
+5,com/jefftharris/passwdsafe
+6,android/support/v4/internal/view
+7,org/pwsafe/lib org/pwsafe/util
+8,android/annotation
+9,android/support/v4/accessibilityservice
+10,android/support/v4/database
+11,android/support/v4/hardware/display
+12,android/support/v4/net
+13,android/support/v4/print
+14,android/support/v4/text
+15,android/support/v4/content
+16,android/support/v4/util
+17,android/support/v4/view
+18,android/support/v4/widget
+19,org/bouncycastle

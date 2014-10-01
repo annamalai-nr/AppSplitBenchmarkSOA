@@ -1,0 +1,234 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="android/support/v4/text" />
+    <node id="android/support/v4/graphics/drawable" />
+    <node id="android/support/v4/media" />
+    <node id="android/support/v4/widget" />
+    <node id="android/support/v4/database" />
+    <node id="android/support/v4/os" />
+    <node id="com/stericson/RootTools" />
+    <node id="com/haibison/android/lockpattern" />
+    <node id="android/support/v4/accessibilityservice" />
+    <node id="eu/chainfire/libsuperuser" />
+    <node id="android/support/v4/internal/view" />
+    <node id="com/actionbarsherlock" />
+    <node id="android/support/v4/view" />
+    <node id="com/twofortyfouram/locale" />
+    <node id="android/support/v4/util" />
+    <node id="android/support/v4/app" />
+    <node id="android/support/v4/hardware/display" />
+    <node id="dev/ukanth/ufirewall" />
+    <node id="net/margaritov/preference/colorpicker" />
+    <node id="net/saik0/android/unifiedpreference" />
+    <node id="android/support/v4/net" />
+    <node id="android/support/v4/content" />
+    <edge source="android/support/v4/text" target="android/support/v4/text">
+      <data key="d0">185</data>
+      <data key="d1">185</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/graphics/drawable" target="android/support/v4/graphics/drawable">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/media" target="android/support/v4/view">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/media" target="android/support/v4/media">
+      <data key="d0">162</data>
+      <data key="d1">162</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/view">
+      <data key="d0">406</data>
+      <data key="d1">406</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/widget">
+      <data key="d0">1448</data>
+      <data key="d1">1448</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/os" target="android/support/v4/os">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/stericson/RootTools" target="com/stericson/RootTools">
+      <data key="d0">1912</data>
+      <data key="d1">1912</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/haibison/android/lockpattern" target="com/haibison/android/lockpattern">
+      <data key="d0">1028</data>
+      <data key="d1">1028</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/accessibilityservice" target="android/support/v4/accessibilityservice">
+      <data key="d0">56</data>
+      <data key="d1">56</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="eu/chainfire/libsuperuser" target="eu/chainfire/libsuperuser">
+      <data key="d0">350</data>
+      <data key="d1">350</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/actionbarsherlock" target="android/support/v4/app">
+      <data key="d0">96</data>
+      <data key="d1">96</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/actionbarsherlock" target="android/support/v4/view">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/actionbarsherlock" target="com/actionbarsherlock">
+      <data key="d0">2651</data>
+      <data key="d1">2651</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/actionbarsherlock" target="android/support/v4/widget">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/view">
+      <data key="d0">2613</data>
+      <data key="d1">2613</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/internal/view">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/widget">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/os">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/twofortyfouram/locale" target="com/twofortyfouram/locale">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/util" target="android/support/v4/util">
+      <data key="d0">156</data>
+      <data key="d1">156</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/app">
+      <data key="d0">1750</data>
+      <data key="d1">1750</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/view">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="com/actionbarsherlock">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/util">
+      <data key="d0">114</data>
+      <data key="d1">114</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/content">
+      <data key="d0">40</data>
+      <data key="d1">40</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/widget">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/hardware/display" target="android/support/v4/hardware/display">
+      <data key="d0">38</data>
+      <data key="d1">38</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="dev/ukanth/ufirewall" target="android/support/v4/app">
+      <data key="d0">62</data>
+      <data key="d1">62</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="dev/ukanth/ufirewall" target="eu/chainfire/libsuperuser">
+      <data key="d0">53</data>
+      <data key="d1">53</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="dev/ukanth/ufirewall" target="com/actionbarsherlock">
+      <data key="d0">236</data>
+      <data key="d1">236</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="dev/ukanth/ufirewall" target="com/stericson/RootTools">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="dev/ukanth/ufirewall" target="dev/ukanth/ufirewall">
+      <data key="d0">4011</data>
+      <data key="d1">4011</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="dev/ukanth/ufirewall" target="net/saik0/android/unifiedpreference">
+      <data key="d0">108</data>
+      <data key="d1">108</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="dev/ukanth/ufirewall" target="com/haibison/android/lockpattern">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/margaritov/preference/colorpicker" target="net/margaritov/preference/colorpicker">
+      <data key="d0">262</data>
+      <data key="d1">262</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/saik0/android/unifiedpreference" target="com/actionbarsherlock">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/saik0/android/unifiedpreference" target="net/saik0/android/unifiedpreference">
+      <data key="d0">116</data>
+      <data key="d1">116</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/net" target="android/support/v4/net">
+      <data key="d0">57</data>
+      <data key="d1">57</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/content">
+      <data key="d0">335</data>
+      <data key="d1">335</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/util">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

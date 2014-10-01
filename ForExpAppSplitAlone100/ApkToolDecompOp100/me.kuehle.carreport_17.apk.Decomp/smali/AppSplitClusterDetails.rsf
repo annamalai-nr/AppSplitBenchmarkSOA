@@ -1,0 +1,7 @@
+contain 1 com/dropbox/client2
+contain 2 me/kuehle/carreport
+contain 3 me/kuehle/chartlib
+contain 4 org/joda/time
+contain 5 org/json/simple
+contain 6 android/annotation
+contain 7 org/apache/http/entity/mime

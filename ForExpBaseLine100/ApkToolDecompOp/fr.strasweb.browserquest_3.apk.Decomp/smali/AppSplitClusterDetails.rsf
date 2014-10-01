@@ -1,0 +1,4 @@
+contain 1 com/phonegap/plugins/statusBarNotification
+contain 1 fr/strasweb/browserquest
+contain 1 org/apache/cordova
+contain 1 org/java_websocket

@@ -1,0 +1,10 @@
+contain 1 edu/emory/mathcs/backport/java/util
+contain 2 net/fortuna/ical4j/data
+contain 3 net/fortuna/ical4j/filter
+contain 4 net/fortuna/ical4j/model
+contain 5 net/fortuna/ical4j/transform
+contain 6 net/fortuna/ical4j/util
+contain 7 org/apache/commons/codec
+contain 8 org/apache/commons/lang
+contain 9 org/apache/commons/logging
+contain 10 org/dgtale/icsimport

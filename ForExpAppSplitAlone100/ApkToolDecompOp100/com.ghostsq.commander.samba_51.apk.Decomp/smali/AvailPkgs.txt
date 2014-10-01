@@ -1,0 +1,15 @@
+jcifs
+com
+jcifs/netbios
+jcifs/https
+jcifs/smb
+jcifs/util
+jcifs/dcerpc
+jcifs/ntlmssp
+jcifs/http
+jcifs/util/transport
+jcifs/dcerpc/ndr
+jcifs/dcerpc/msrpc
+com/ghostsq
+com/ghostsq/commander
+com/ghostsq/commander/samba

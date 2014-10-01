@@ -1,0 +1,22 @@
+1,microsoft/mappoint org/osmdroid
+2,org/slf4j
+3,net/wigle/wigleandroid
+4,android/support/v7/app android/support/v7/internal/view android/support/v7/internal/widget
+5,android/support/v7/view
+6,android/support/v4/app
+7,android/support/v4/util
+8,android/support/v4/content
+9,android/support/v7/widget
+10,android/support/v4/view android/support/v4/widget
+11,android/support/v4/media
+12,org/metalev/multitouch/controller
+13,android/support/v4/graphics/drawable
+14,android/support/v4/text
+15,com/google/tts
+16,android/support/v4/print
+17,android/support/v4/net
+18,android/support/v4/hardware/display
+19,android/support/v4/database
+20,android/support/v4/accessibilityservice
+21,android/support/v4/os
+22,android/support/v4/internal/view

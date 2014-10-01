@@ -1,0 +1,442 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="com/nineoldandroids/animation" />
+    <node id="android/support/v4/text" />
+    <node id="android/support/v7/widget" />
+    <node id="android/support/v4/print" />
+    <node id="android/support/v4/graphics/drawable" />
+    <node id="com/nineoldandroids/util" />
+    <node id="android/support/v4/media" />
+    <node id="android/support/v4/widget" />
+    <node id="android/support/v4/database" />
+    <node id="android/support/v4/os" />
+    <node id="com/nineoldandroids/view" />
+    <node id="de/geeksfactory/opacclient" />
+    <node id="org/apmem/tools/layouts" />
+    <node id="org/holoeverywhere" />
+    <node id="org/acra" />
+    <node id="android/support/v4/accessibilityservice" />
+    <node id="android/support/v4/view" />
+    <node id="android/support/v4/internal/view" />
+    <node id="android/support/v7/internal/view" />
+    <node id="android/support/v7/internal/widget" />
+    <node id="com/commonsware/cwac/adapter" />
+    <node id="android/support/v4/util" />
+    <node id="android/support/v7/view" />
+    <node id="android/support/v4/app" />
+    <node id="android/support/v4/hardware/display" />
+    <node id="org/jsoup" />
+    <node id="android/support/v7/app" />
+    <node id="com/commonsware/cwac/endless" />
+    <node id="android/support/v4/net" />
+    <node id="android/support/v4/content" />
+    <edge source="com/nineoldandroids/animation" target="com/nineoldandroids/util">
+      <data key="d0">201</data>
+      <data key="d1">201</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nineoldandroids/animation" target="com/nineoldandroids/animation">
+      <data key="d0">1191</data>
+      <data key="d1">1191</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nineoldandroids/animation" target="com/nineoldandroids/view">
+      <data key="d0">112</data>
+      <data key="d1">112</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/text" target="android/support/v4/text">
+      <data key="d0">185</data>
+      <data key="d1">185</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/widget" target="android/support/v7/internal/widget">
+      <data key="d0">34</data>
+      <data key="d1">34</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/widget" target="android/support/v4/view">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/widget" target="android/support/v7/internal/view">
+      <data key="d0">22</data>
+      <data key="d1">22</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/widget" target="android/support/v7/widget">
+      <data key="d0">642</data>
+      <data key="d1">642</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/widget" target="org/holoeverywhere">
+      <data key="d0">72</data>
+      <data key="d1">72</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/widget" target="android/support/v4/widget">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/print" target="android/support/v4/print">
+      <data key="d0">86</data>
+      <data key="d1">86</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/graphics/drawable" target="android/support/v4/graphics/drawable">
+      <data key="d0">42</data>
+      <data key="d1">42</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nineoldandroids/util" target="com/nineoldandroids/util">
+      <data key="d0">60</data>
+      <data key="d1">60</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/media" target="android/support/v4/view">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/media" target="android/support/v4/media">
+      <data key="d0">162</data>
+      <data key="d1">162</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/view">
+      <data key="d0">412</data>
+      <data key="d1">412</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/widget">
+      <data key="d0">1660</data>
+      <data key="d1">1660</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/os" target="android/support/v4/os">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nineoldandroids/view" target="com/nineoldandroids/animation">
+      <data key="d0">73</data>
+      <data key="d1">73</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nineoldandroids/view" target="com/nineoldandroids/view">
+      <data key="d0">530</data>
+      <data key="d1">530</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="de/geeksfactory/opacclient" target="android/support/v4/app">
+      <data key="d0">356</data>
+      <data key="d1">356</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="de/geeksfactory/opacclient" target="android/support/v4/view">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="de/geeksfactory/opacclient" target="org/jsoup">
+      <data key="d0">3858</data>
+      <data key="d1">3858</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="de/geeksfactory/opacclient" target="android/support/v7/widget">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="de/geeksfactory/opacclient" target="android/support/v7/app">
+      <data key="d0">44</data>
+      <data key="d1">44</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="de/geeksfactory/opacclient" target="com/commonsware/cwac/endless">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="de/geeksfactory/opacclient" target="de/geeksfactory/opacclient">
+      <data key="d0">8246</data>
+      <data key="d1">8246</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="de/geeksfactory/opacclient" target="org/holoeverywhere">
+      <data key="d0">1421</data>
+      <data key="d1">1421</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="de/geeksfactory/opacclient" target="android/support/v4/content">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="de/geeksfactory/opacclient" target="android/support/v4/widget">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="de/geeksfactory/opacclient" target="org/acra">
+      <data key="d0">110</data>
+      <data key="d1">110</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/apmem/tools/layouts" target="org/apmem/tools/layouts">
+      <data key="d0">124</data>
+      <data key="d1">124</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/holoeverywhere" target="android/support/v4/app">
+      <data key="d0">200</data>
+      <data key="d1">200</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/holoeverywhere" target="android/support/v4/view">
+      <data key="d0">60</data>
+      <data key="d1">60</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/holoeverywhere" target="android/support/v7/internal/view">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/holoeverywhere" target="android/support/v7/view">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/holoeverywhere" target="android/support/v7/app">
+      <data key="d0">41</data>
+      <data key="d1">41</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/holoeverywhere" target="android/support/v7/internal/widget">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/holoeverywhere" target="android/support/v4/util">
+      <data key="d0">89</data>
+      <data key="d1">89</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/holoeverywhere" target="org/holoeverywhere">
+      <data key="d0">13282</data>
+      <data key="d1">13282</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/holoeverywhere" target="android/support/v4/widget">
+      <data key="d0">30</data>
+      <data key="d1">30</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/acra" target="org/acra">
+      <data key="d0">1712</data>
+      <data key="d1">1712</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/accessibilityservice" target="android/support/v4/accessibilityservice">
+      <data key="d0">56</data>
+      <data key="d1">56</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/view">
+      <data key="d0">2766</data>
+      <data key="d1">2766</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/internal/view">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/widget">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/os">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/internal/view" target="android/support/v4/view">
+      <data key="d0">75</data>
+      <data key="d1">75</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/internal/view" target="android/support/v7/view">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/internal/view" target="org/holoeverywhere">
+      <data key="d0">196</data>
+      <data key="d1">196</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/internal/view" target="android/support/v7/internal/view">
+      <data key="d0">1887</data>
+      <data key="d1">1887</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/internal/widget" target="android/support/v7/internal/widget">
+      <data key="d0">1272</data>
+      <data key="d1">1272</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/internal/widget" target="android/support/v4/view">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/internal/widget" target="android/support/v4/internal/view">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/internal/widget" target="android/support/v7/internal/view">
+      <data key="d0">177</data>
+      <data key="d1">177</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/internal/widget" target="android/support/v7/app">
+      <data key="d0">21</data>
+      <data key="d1">21</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/internal/widget" target="org/holoeverywhere">
+      <data key="d0">415</data>
+      <data key="d1">415</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/internal/widget" target="android/support/v7/view">
+      <data key="d0">9</data>
+      <data key="d1">9</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/commonsware/cwac/adapter" target="com/commonsware/cwac/adapter">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/util" target="android/support/v4/util">
+      <data key="d0">458</data>
+      <data key="d1">458</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/app">
+      <data key="d0">1952</data>
+      <data key="d1">1952</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/view">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v7/internal/view">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v7/app">
+      <data key="d0">40</data>
+      <data key="d1">40</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/util">
+      <data key="d0">147</data>
+      <data key="d1">147</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="org/holoeverywhere">
+      <data key="d0">143</data>
+      <data key="d1">143</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/content">
+      <data key="d0">40</data>
+      <data key="d1">40</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/widget">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/hardware/display" target="android/support/v4/hardware/display">
+      <data key="d0">38</data>
+      <data key="d1">38</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/jsoup" target="org/jsoup">
+      <data key="d0">8815</data>
+      <data key="d1">8815</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/app" target="android/support/v4/app">
+      <data key="d0">73</data>
+      <data key="d1">73</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/app" target="android/support/v7/internal/view">
+      <data key="d0">82</data>
+      <data key="d1">82</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/app" target="android/support/v7/app">
+      <data key="d0">705</data>
+      <data key="d1">705</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/app" target="android/support/v7/internal/widget">
+      <data key="d0">224</data>
+      <data key="d1">224</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/app" target="org/holoeverywhere">
+      <data key="d0">53</data>
+      <data key="d1">53</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v7/app" target="android/support/v7/view">
+      <data key="d0">39</data>
+      <data key="d1">39</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/commonsware/cwac/endless" target="com/commonsware/cwac/endless">
+      <data key="d0">51</data>
+      <data key="d1">51</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/commonsware/cwac/endless" target="com/commonsware/cwac/adapter">
+      <data key="d0">38</data>
+      <data key="d1">38</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/net" target="android/support/v4/net">
+      <data key="d0">57</data>
+      <data key="d1">57</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/content">
+      <data key="d0">353</data>
+      <data key="d1">353</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/util">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

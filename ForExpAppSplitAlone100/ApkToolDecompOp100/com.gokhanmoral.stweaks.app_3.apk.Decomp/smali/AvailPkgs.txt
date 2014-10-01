@@ -1,0 +1,14 @@
+android
+com
+android/support
+android/support/v4
+android/support/v4/c
+android/support/v4/view
+android/support/v4/a
+android/support/v4/d
+android/support/v4/app
+android/support/v4/b
+android/support/v4/view/a
+com/gokhanmoral
+com/gokhanmoral/stweaks
+com/gokhanmoral/stweaks/app

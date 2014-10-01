@@ -1,0 +1,25 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="edu/killerud/kitchentimer" />
+    <node id="com/quietlycoding/android/picker" />
+    <node id="android/annotation" />
+    <edge source="edu/killerud/kitchentimer" target="com/quietlycoding/android/picker">
+      <data key="d0">57</data>
+      <data key="d1">57</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="edu/killerud/kitchentimer" target="edu/killerud/kitchentimer">
+      <data key="d0">312</data>
+      <data key="d1">312</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/quietlycoding/android/picker" target="com/quietlycoding/android/picker">
+      <data key="d0">132</data>
+      <data key="d1">132</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

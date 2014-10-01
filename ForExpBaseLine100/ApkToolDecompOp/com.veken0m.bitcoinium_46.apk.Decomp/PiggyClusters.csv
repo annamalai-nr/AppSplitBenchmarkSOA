@@ -1,0 +1,5 @@
+1, android/support/v4/accessibilityservice
+2, android/support/v4/app com/actionbarsherlock com/veken0m/bitcoinium com/xeiam/xchange org/joda/money com/fasterxml/jackson/annotation com/fasterxml/jackson/core com/fasterxml/jackson/databind com/jjoe64/graphview com/veken0m/compatibility com/veken0m/mining/emc com/veken0m/mining/slush com/veken0m/mining/fiftybtc android/support/v4/view android/support/v4/widget com/veken0m/mining/bitminter com/veken0m/mining/eligius com/veken0m/mining/btcguild org/slf4j si/mazi/rescu com/veken0m/mining/deepbit android/support/v4/content android/support/v4/util net/margaritov/preference/colorpicker
+3, android/support/v4/database
+4, android/support/v4/os
+5, javax/ws/rs

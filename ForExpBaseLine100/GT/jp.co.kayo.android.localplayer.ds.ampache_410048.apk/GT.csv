@@ -1,0 +1,10 @@
+1,android/support/v4/app
+2,android/support/v4/os
+3,android/support/v4/content
+9,android/support/v4/util
+4,android/support/v4/view
+10,android/support/v4/widget
+5,jp/co/kayo/android/localplayer/ds/ampache
+6,org/apache/commons/httpclient/contrib/ssl
+7,android/annotation
+8,android/support/v4/android/accessibilityservice

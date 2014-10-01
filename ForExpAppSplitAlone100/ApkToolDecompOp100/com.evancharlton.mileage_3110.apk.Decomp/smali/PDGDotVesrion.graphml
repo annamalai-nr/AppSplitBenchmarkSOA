@@ -1,0 +1,47 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="au/com/bytecode/opencsv" />
+    <node id="com/artfulbits/license" />
+    <node id="com/evancharlton/mileage" />
+    <node id="android/annotation" />
+    <node id="com/artfulbits/aiCharts" />
+    <edge source="au/com/bytecode/opencsv" target="au/com/bytecode/opencsv">
+      <data key="d0">110</data>
+      <data key="d1">110</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/artfulbits/license" target="com/artfulbits/license">
+      <data key="d0">22</data>
+      <data key="d1">22</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/evancharlton/mileage" target="au/com/bytecode/opencsv">
+      <data key="d0">56</data>
+      <data key="d1">56</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/evancharlton/mileage" target="com/evancharlton/mileage">
+      <data key="d0">5126</data>
+      <data key="d1">5126</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/evancharlton/mileage" target="com/artfulbits/aiCharts">
+      <data key="d0">48</data>
+      <data key="d1">48</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/artfulbits/aiCharts" target="com/artfulbits/license">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/artfulbits/aiCharts" target="com/artfulbits/aiCharts">
+      <data key="d0">6667</data>
+      <data key="d1">6667</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,69 @@
+1,android/support/v4/os
+2,android/support/v4/app
+66,android/support/v4/content
+67,android/support/v4/util
+3,android/support/v4/view
+68,android/support/v4/widget
+4,ch/qos/logback/classic
+69,ch/qos/logback/core
+5,ch/qos/logback/repackage/brut/androlib ch/qos/logback/repackage/brut/common
+6,com/aelitis/azureus/activities
+70,com/aelitis/azureus/core
+71,com/aelitis/azureus/plugins/upnp com/aelitis/azureus/plugins/startstoprules/always com/aelitis/azureus/plugins/dht com/aelitis/azureus/plugins/extseed com/aelitis/azureus/plugins/startstoprules/defaultplugin com/aelitis/azureus/plugins/clientid com/aelitis/azureus/plugins/removerules com/aelitis/azureus/plugins/sharing/hoster
+72,com/aelitis/azureus/ui
+73,com/aelitis/azureus/util
+74,com/aelitis/net/magneturi com/aelitis/net/natpmp com/aelitis/net/upnp com/aelitis/net/udp/mc com/aelitis/net/udp/uc
+14,com/android/vending/billing
+15,com/coremedia/iso
+16,com/frostwire/android
+75,com/frostwire/gui/upnp
+17,com/frostwire/frostclick
+18,com/frostwire/licences
+19,com/frostwire/search
+76,com/frostwire/util
+20,com/google/gson
+21,com/googlecode/mp4parser
+22,com/jakewharton
+23,com/slidingmenu/lib
+24,com/sun/net/httpserver
+25,jd/nutils/encoding jd/http jd/parser jd/utils
+28,org/apache/commons/io
+29,org/appwork/utils
+30,org/bouncycastle/util/encoders
+31,org/fourthline/cling
+32,org/gudy/azureus2/core3/xml/simpleparser org/gudy/azureus2/core3/category org/gudy/azureus2/core3/config org/gudy/azureus2/core3/disk org/gudy/azureus2/core3/download org/gudy/azureus2/core3/global org/gudy/azureus2/core3/html org/gudy/azureus2/core3/internat org/gudy/azureus2/core3/ipchecker/extipchecker org/gudy/azureus2/core3/ipchecker/natchecker org/gudy/azureus2/core3/ipfilter org/gudy/azureus2/core3/logging org/gudy/azureus2/core3/peer org/gudy/azureus2/core3/security org/gudy/azureus2/core3/stats org/gudy/azureus2/core3/torrent org/gudy/azureus2/core3/tracker/client org/gudy/azureus2/core3/tracker/protocol org/gudy/azureus2/core3/tracker/util org/gudy/azureus2/core3/util org/gudy/azureus2/core3/xml/util
+33,org/gudy/azureus2/platform
+77,org/gudy/azureus2/plugins
+34,org/json
+35,org/pf/file org/pf/text
+36,org/seamless/http
+78,org/seamless/util
+37,org/seamless/xhtml org/seamless/xml
+38,org/slf4j
+39,org/xmlpull/v1
+40,sun/misc
+41,sun/net/httpserver
+42,android/annotation
+43,android/support/v4/accessibilityservice
+44,android/support/v4/database
+45,android/support/v4/net
+46,ch/qos/logback/repackage/brut/util
+47,ch/qos/logback/repackage/com/mindprod/ledatastream
+48,com/frostwire/core
+49,com/frostwire/mp3
+50,com/google/ads
+51,httpserver/com/sun/net/httpserver
+52,javax/annotation
+53,javax/decorator
+54,javax/enterprise/context
+55,javax/enterprise/event
+56,javax/enterprise/inject
+57,javax/enterprise/util
+58,javax/inject
+59,javax/interceptor
+60,javax/servlet
+61,org/apache/commons/lang
+62,org/appwork/storage
+63,org/bouncycastle/crypto
+64,sun/net/www
+65,sun/security/action

@@ -1,0 +1,19 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="hu/vsza/a" />
+    <node id="a/a" />
+    <edge source="hu/vsza/a" target="a/a">
+      <data key="d0">111</data>
+      <data key="d1">111</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="a/a" target="a/a">
+      <data key="d0">7367</data>
+      <data key="d1">7367</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,25 @@
+1,com/justinschultz/examples com/justinschultz/pusherclient com/justinschultz/websocket
+2,uk/co/senab/actionbarpulltorefresh/extras/actionbarsherlock uk/co/senab/actionbarpulltorefresh/library
+3,com/nineoldandroids/animation com/nineoldandroids/util com/nineoldandroids/view
+4,android/support/v4/view android/support/v4/widget
+5,android/support/v4/media
+6,com/coinbase/android
+7,com/coinbase/api
+8,android/support/v4/app
+9,android/support/v4/util
+10,android/support/v4/content
+11,com/actionbarsherlock
+12,org/acra
+13,com/google/zxing
+14,org/apache/commons/codec
+15,org/apache/commons/logging
+16,android/support/v4/text
+17,android/support/v4/print
+18,android/support/v4/net
+19,android/support/v4/hardware/display
+20,android/support/v4/graphics/drawable
+21,android/support/v4/database
+22,android/support/v4/accessibilityservice
+23,android/support/v4/os
+24,android/support/v4/internal/view
+25,fr/castorflex/android/smoothprogressbar

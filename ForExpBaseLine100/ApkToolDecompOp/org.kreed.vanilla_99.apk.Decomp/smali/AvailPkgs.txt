@@ -1,0 +1,9 @@
+com
+android
+org
+com/viewpagerindicator
+android/support
+android/support/v4
+android/support/v4/view
+org/kreed
+org/kreed/vanilla

@@ -1,0 +1,40 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="android/support/v4/view" />
+    <node id="com/viewpagerindicator" />
+    <node id="org/kreed/vanilla" />
+    <edge source="android/support/v4/view" target="android/support/v4/view">
+      <data key="d0">314</data>
+      <data key="d1">314</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/viewpagerindicator" target="android/support/v4/view">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/viewpagerindicator" target="com/viewpagerindicator">
+      <data key="d0">32</data>
+      <data key="d1">32</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/kreed/vanilla" target="android/support/v4/view">
+      <data key="d0">19</data>
+      <data key="d1">19</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/kreed/vanilla" target="com/viewpagerindicator">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/kreed/vanilla" target="org/kreed/vanilla">
+      <data key="d0">1155</data>
+      <data key="d1">1155</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

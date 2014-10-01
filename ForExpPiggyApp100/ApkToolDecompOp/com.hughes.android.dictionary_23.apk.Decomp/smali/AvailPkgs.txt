@@ -1,0 +1,17 @@
+com
+com/ibm
+com/hughes
+com/ibm/icu
+com/ibm/icu/impl
+com/ibm/icu/util
+com/ibm/icu/lang
+com/ibm/icu/text
+com/ibm/icu/math
+com/ibm/icu/impl/data
+com/ibm/icu/impl/locale
+com/hughes/android
+com/hughes/util
+com/hughes/android/dictionary
+com/hughes/android/util
+com/hughes/android/dictionary/engine
+com/hughes/util/raf

@@ -1,0 +1,17 @@
+1,com/michaldabski/filemanager com/michaldabski/utils
+2,com/readystatesoftware/systembartint
+3,com/michaldabski/msqlite
+4,android/support/v4/app
+5,android/support/v4/util
+6,android/support/v4/content
+7,android/support/v4/view android/support/v4/widget
+8,android/support/v4/media
+9,android/support/v4/graphics/drawable
+10,android/support/v4/print
+11,android/support/v4/text
+12,android/support/v4/net
+13,android/support/v4/hardware/display
+14,android/support/v4/database
+15,android/support/v4/accessibilityservice
+16,android/support/v4/os
+17,android/support/v4/internal/view

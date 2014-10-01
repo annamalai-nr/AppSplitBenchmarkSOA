@@ -1,0 +1,70 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="de/regnis/q/sequence" />
+    <node id="com/sun/jna/platform" />
+    <node id="org/tmatesoft/svn/util" />
+    <node id="com/trilead/ssh2" />
+    <node id="com/valleytg/oasvn/android" />
+    <node id="org/tmatesoft/sqljet/core" />
+    <node id="android/annotation" />
+    <node id="org/tmatesoft/svn/core" />
+    <edge source="de/regnis/q/sequence" target="de/regnis/q/sequence">
+      <data key="d0">1043</data>
+      <data key="d1">1043</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/sun/jna/platform" target="com/sun/jna/platform">
+      <data key="d0">4615</data>
+      <data key="d1">4615</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/tmatesoft/svn/util" target="org/tmatesoft/svn/util">
+      <data key="d0">61</data>
+      <data key="d1">61</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/tmatesoft/svn/util" target="org/tmatesoft/svn/core">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/trilead/ssh2" target="com/trilead/ssh2">
+      <data key="d0">3824</data>
+      <data key="d1">3824</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/valleytg/oasvn/android" target="com/valleytg/oasvn/android">
+      <data key="d0">990</data>
+      <data key="d1">990</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/valleytg/oasvn/android" target="org/tmatesoft/svn/core">
+      <data key="d0">276</data>
+      <data key="d1">276</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/tmatesoft/sqljet/core" target="org/tmatesoft/sqljet/core">
+      <data key="d0">1659</data>
+      <data key="d1">1659</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/tmatesoft/svn/core" target="de/regnis/q/sequence">
+      <data key="d0">43</data>
+      <data key="d1">43</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/tmatesoft/svn/core" target="org/tmatesoft/svn/util">
+      <data key="d0">54</data>
+      <data key="d1">54</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/tmatesoft/svn/core" target="org/tmatesoft/svn/core">
+      <data key="d0">13509</data>
+      <data key="d1">13509</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

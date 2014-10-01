@@ -1,0 +1,12 @@
+1,android/support/v4/app
+2,android/support/v4/util
+3,android/support/v4/content
+4,android/support/v4/view
+5,android/support/v4/widget
+6,com/elsdoerfer/android/autostarts
+7,android/support/v4/os
+8,android/support/v4/net
+9,src/com/elsdoerfer/android/autostarts/opt
+10,android/support/v4/database
+11,android/support/v4/accessibilityservice
+12,android/annotation

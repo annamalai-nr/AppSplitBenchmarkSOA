@@ -1,0 +1,12 @@
+1,org/mapsforge/android org/mapsforge/core
+2,org/mapsforge/map/reader
+3,android/support/v4/view android/support/v4/widget
+4,android/support/v4/app
+5,android/support/v4/util
+6,it/sasabz/android/sasabus
+7,android/support/v4/content
+8,android/support/v4/database
+9,android/support/v4/net
+10,android/support/v4/accessibilityservice
+11,android/annotation
+12,android/support/v4/os

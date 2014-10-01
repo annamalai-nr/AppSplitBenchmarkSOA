@@ -1,0 +1,35 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="org/apache/commons/io" />
+    <node id="info/guardianproject/lildebi" />
+    <node id="org/torproject/android/service" />
+    <edge source="org/apache/commons/io" target="org/apache/commons/io">
+      <data key="d0">2891</data>
+      <data key="d1">2891</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="info/guardianproject/lildebi" target="org/apache/commons/io">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="info/guardianproject/lildebi" target="info/guardianproject/lildebi">
+      <data key="d0">696</data>
+      <data key="d1">696</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="info/guardianproject/lildebi" target="org/torproject/android/service">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/torproject/android/service" target="org/torproject/android/service">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

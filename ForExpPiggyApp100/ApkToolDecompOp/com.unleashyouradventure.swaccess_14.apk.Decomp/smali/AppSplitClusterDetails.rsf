@@ -1,0 +1,14 @@
+contain 1 android/support/v4/accessibilityservice
+contain 2 android/support/v4/app
+contain 2 com/actionbarsherlock
+contain 2 com/unleashyouradventure/swaccess
+contain 2 com/unleashyouradventure/swapi
+contain 2 org/jsoup
+contain 2 com/novoda/imageloader/core
+contain 2 android/support/v4/widget
+contain 2 android/support/v4/view
+contain 2 android/support/v4/content
+contain 2 android/support/v4/util
+contain 2 com/google/gson
+contain 3 android/support/v4/database
+contain 4 android/support/v4/os

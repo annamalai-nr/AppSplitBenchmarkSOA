@@ -1,0 +1,3 @@
+android/annotation
+com/google/gson
+com/radioreddit/android

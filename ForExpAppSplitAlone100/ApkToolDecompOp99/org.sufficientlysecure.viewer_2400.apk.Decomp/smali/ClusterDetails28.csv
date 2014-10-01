@@ -1,0 +1,13 @@
+1,android/support/v4/app
+2,android/support/v4/content
+3,android/support/v4/os
+4,android/support/v4/util
+5,android/support/v4/view android/support/v4/widget
+6,org/ebookdroid org/emdev
+7,android/support/v4/accessibilityservice
+8,android/support/v4/database
+9,android/support/v4/net
+10,com/ximpleware
+11,jcifs
+12,org/afzkl/colorpicker
+13,org/sufficientlysecure/viewer

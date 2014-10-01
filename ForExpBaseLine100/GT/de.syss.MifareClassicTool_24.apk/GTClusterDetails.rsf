@@ -1,0 +1,10 @@
+contain 1 android/support/v4/os
+contain 2 android/support/v4/app
+contain 3 android/support/v4/view
+contain 4 android/support/v4/widget
+contain 5 android/support/v4/accessibilityservice
+contain 6 android/support/v4/database
+contain 7 android/support/v4/net
+contain 8 de/syss/MifareClassicTool
+contain 9 android/support/v4/content
+contain 10 android/support/v4/util

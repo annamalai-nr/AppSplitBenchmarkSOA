@@ -1,0 +1,5 @@
+1, android/support/v4/accessibilityservice
+2, android/support/v4/app com/actionbarsherlock com/dalthed/tucan org/jsoup android/support/v4/view com/viewpagerindicator android/support/v4/widget org/acra android/support/v4/content android/support/v4/util
+3, android/support/v4/database
+4, android/support/v4/os
+5, org/apache/commons/lang3

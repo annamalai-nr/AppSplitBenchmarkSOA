@@ -1,0 +1,248 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="org/xbmc/api/info" />
+    <node id="org/xbmc/jsonrpc" />
+    <node id="org/xbmc/api/type" />
+    <node id="com/strangeberry/jmdns/tools" />
+    <node id="org/xbmc/android/util" />
+    <node id="org/xbmc/api/presentation" />
+    <node id="javax/jmdns" />
+    <node id="org/xbmc/api/object" />
+    <node id="org/xbmc/android/widget" />
+    <node id="org/xbmc/android/remote" />
+    <node id="org/xbmc/api/data" />
+    <node id="org/xbmc/api/business" />
+    <node id="samples" />
+    <node id="org/codehaus/jackson" />
+    <node id="org/xbmc/httpapi" />
+    <node id="org/xbmc/eventclient" />
+    <edge source="org/xbmc/api/info" target="org/xbmc/api/info">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/jsonrpc" target="org/xbmc/api/info">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/jsonrpc" target="org/xbmc/jsonrpc">
+      <data key="d0">250</data>
+      <data key="d1">250</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/jsonrpc" target="org/xbmc/api/type">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/jsonrpc" target="org/xbmc/android/util">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/jsonrpc" target="org/xbmc/api/business">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/jsonrpc" target="org/xbmc/api/object">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/jsonrpc" target="org/codehaus/jackson">
+      <data key="d0">98</data>
+      <data key="d1">98</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/jsonrpc" target="org/xbmc/httpapi">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/api/type" target="org/xbmc/api/type">
+      <data key="d0">154</data>
+      <data key="d1">154</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/strangeberry/jmdns/tools" target="com/strangeberry/jmdns/tools">
+      <data key="d0">36</data>
+      <data key="d1">36</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/util" target="org/xbmc/api/type">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/util" target="org/xbmc/android/util">
+      <data key="d0">336</data>
+      <data key="d1">336</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/util" target="org/xbmc/api/business">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/util" target="org/xbmc/api/object">
+      <data key="d0">9</data>
+      <data key="d1">9</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/util" target="org/xbmc/android/remote">
+      <data key="d0">11</data>
+      <data key="d1">11</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/util" target="org/xbmc/httpapi">
+      <data key="d0">17</data>
+      <data key="d1">17</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/util" target="org/xbmc/eventclient">
+      <data key="d0">11</data>
+      <data key="d1">11</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/api/object" target="org/xbmc/api/info">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/api/object" target="org/xbmc/android/util">
+      <data key="d0">42</data>
+      <data key="d1">42</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/api/object" target="org/xbmc/api/object">
+      <data key="d0">71</data>
+      <data key="d1">71</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/widget" target="org/xbmc/android/widget">
+      <data key="d0">675</data>
+      <data key="d1">675</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/widget" target="org/xbmc/android/util">
+      <data key="d0">19</data>
+      <data key="d1">19</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/widget" target="org/xbmc/android/remote">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/widget" target="org/xbmc/api/type">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/widget" target="org/xbmc/api/business">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/remote" target="org/xbmc/api/type">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/remote" target="org/xbmc/android/util">
+      <data key="d0">52</data>
+      <data key="d1">52</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/remote" target="org/xbmc/api/presentation">
+      <data key="d0">21</data>
+      <data key="d1">21</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/remote" target="org/xbmc/api/business">
+      <data key="d0">124</data>
+      <data key="d1">124</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/remote" target="org/xbmc/api/object">
+      <data key="d0">110</data>
+      <data key="d1">110</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/remote" target="org/xbmc/android/remote">
+      <data key="d0">1852</data>
+      <data key="d1">1852</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/remote" target="org/xbmc/api/data">
+      <data key="d0">294</data>
+      <data key="d1">294</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/android/remote" target="org/xbmc/httpapi">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/api/business" target="org/xbmc/api/business">
+      <data key="d0">19</data>
+      <data key="d1">19</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/api/business" target="org/xbmc/api/object">
+      <data key="d0">1</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/codehaus/jackson" target="org/codehaus/jackson">
+      <data key="d0">6583</data>
+      <data key="d1">6583</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/httpapi" target="org/xbmc/api/info">
+      <data key="d0">34</data>
+      <data key="d1">34</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/httpapi" target="org/xbmc/api/type">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/httpapi" target="org/xbmc/android/util">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/httpapi" target="org/xbmc/api/business">
+      <data key="d0">25</data>
+      <data key="d1">25</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/httpapi" target="org/xbmc/api/object">
+      <data key="d0">50</data>
+      <data key="d1">50</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/httpapi" target="org/xbmc/api/data">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/httpapi" target="org/xbmc/httpapi">
+      <data key="d0">915</data>
+      <data key="d1">915</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/xbmc/eventclient" target="org/xbmc/eventclient">
+      <data key="d0">271</data>
+      <data key="d1">271</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

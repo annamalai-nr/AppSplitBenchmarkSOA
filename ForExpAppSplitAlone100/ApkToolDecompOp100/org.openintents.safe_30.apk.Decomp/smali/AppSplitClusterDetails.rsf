@@ -1,0 +1,15 @@
+contain 1 android/support/v4/app
+contain 2 android/support/v4/content
+contain 3 android/support/v4/os
+contain 4 android/support/v4/util
+contain 5 android/support/v4/view
+contain 6 android/support/v4/widget
+contain 7 estreamj/ciphers/trivium
+contain 7 estreamj/framework
+contain 8 org/openintents/safe
+contain 9 org/openintents/distribution
+contain 9 org/openintents/util
+contain 10 android/support/v4/accessibilityservice
+contain 11 android/support/v4/database
+contain 12 android/support/v4/net
+contain 13 org/openintents/intents

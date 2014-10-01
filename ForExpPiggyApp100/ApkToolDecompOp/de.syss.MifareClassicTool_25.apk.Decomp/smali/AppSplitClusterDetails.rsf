@@ -1,0 +1,6 @@
+contain 1 android/support/v4/a
+contain 2 android/support/v4/b
+contain 3 android/support/v4/c
+contain 4 android/support/v4/d
+contain 4 android/support/v4/view
+contain 5 de/syss/MifareClassicTool

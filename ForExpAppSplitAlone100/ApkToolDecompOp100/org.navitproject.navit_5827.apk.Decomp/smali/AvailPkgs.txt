@@ -1,0 +1,14 @@
+org
+android
+com
+org/navitproject
+org/acra
+org/navitproject/navit
+org/acra/collector
+org/acra/util
+org/acra/annotation
+org/acra/sender
+org/acra/log
+android/annotation
+com/google
+com/google/tts

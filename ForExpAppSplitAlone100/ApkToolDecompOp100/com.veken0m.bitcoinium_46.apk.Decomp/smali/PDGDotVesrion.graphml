@@ -1,0 +1,335 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="com/veken0m/mining/fiftybtc" />
+    <node id="com/veken0m/mining/deepbit" />
+    <node id="android/support/v4/util" />
+    <node id="com/xeiam/xchange" />
+    <node id="com/veken0m/mining/emc" />
+    <node id="com/veken0m/mining/eligius" />
+    <node id="android/support/v4/widget" />
+    <node id="android/support/v4/database" />
+    <node id="android/support/v4/os" />
+    <node id="org/slf4j" />
+    <node id="com/veken0m/mining/bitminter" />
+    <node id="org/joda/money" />
+    <node id="si/mazi/rescu" />
+    <node id="android/support/v4/accessibilityservice" />
+    <node id="android/support/v4/view" />
+    <node id="com/fasterxml/jackson/databind" />
+    <node id="com/actionbarsherlock" />
+    <node id="com/fasterxml/jackson/core" />
+    <node id="com/fasterxml/jackson/annotation" />
+    <node id="javax/ws/rs" />
+    <node id="android/support/v4/app" />
+    <node id="com/veken0m/mining/slush" />
+    <node id="com/veken0m/mining/btcguild" />
+    <node id="com/veken0m/compatibility" />
+    <node id="net/margaritov/preference/colorpicker" />
+    <node id="com/jjoe64/graphview" />
+    <node id="com/veken0m/bitcoinium" />
+    <node id="android/support/v4/content" />
+    <edge source="com/veken0m/mining/fiftybtc" target="com/veken0m/mining/fiftybtc">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/mining/deepbit" target="com/veken0m/mining/deepbit">
+      <data key="d0">1</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/util" target="android/support/v4/util">
+      <data key="d0">62</data>
+      <data key="d1">62</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/xeiam/xchange" target="si/mazi/rescu">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/xeiam/xchange" target="com/xeiam/xchange">
+      <data key="d0">1907</data>
+      <data key="d1">1907</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/xeiam/xchange" target="org/slf4j">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/xeiam/xchange" target="org/joda/money">
+      <data key="d0">114</data>
+      <data key="d1">114</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/mining/emc" target="com/veken0m/mining/emc">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/mining/eligius" target="com/veken0m/mining/eligius">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/widget">
+      <data key="d0">186</data>
+      <data key="d1">186</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/os" target="android/support/v4/os">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/slf4j" target="org/slf4j">
+      <data key="d0">467</data>
+      <data key="d1">467</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/mining/bitminter" target="com/veken0m/mining/bitminter">
+      <data key="d0">6</data>
+      <data key="d1">6</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/joda/money" target="org/joda/money">
+      <data key="d0">1286</data>
+      <data key="d1">1286</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="si/mazi/rescu" target="si/mazi/rescu">
+      <data key="d0">337</data>
+      <data key="d1">337</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="si/mazi/rescu" target="com/fasterxml/jackson/databind">
+      <data key="d0">16</data>
+      <data key="d1">16</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="si/mazi/rescu" target="org/slf4j">
+      <data key="d0">34</data>
+      <data key="d1">34</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/accessibilityservice" target="android/support/v4/accessibilityservice">
+      <data key="d0">36</data>
+      <data key="d1">36</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/view">
+      <data key="d0">1451</data>
+      <data key="d1">1451</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/widget">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/os">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/fasterxml/jackson/databind" target="com/fasterxml/jackson/core">
+      <data key="d0">1417</data>
+      <data key="d1">1417</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/fasterxml/jackson/databind" target="com/fasterxml/jackson/databind">
+      <data key="d0">14658</data>
+      <data key="d1">14658</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/fasterxml/jackson/databind" target="com/fasterxml/jackson/annotation">
+      <data key="d0">163</data>
+      <data key="d1">163</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/actionbarsherlock" target="android/support/v4/app">
+      <data key="d0">96</data>
+      <data key="d1">96</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/actionbarsherlock" target="android/support/v4/view">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/actionbarsherlock" target="com/actionbarsherlock">
+      <data key="d0">2651</data>
+      <data key="d1">2651</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/actionbarsherlock" target="android/support/v4/widget">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/fasterxml/jackson/core" target="com/fasterxml/jackson/core">
+      <data key="d0">5840</data>
+      <data key="d1">5840</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/fasterxml/jackson/annotation" target="com/fasterxml/jackson/annotation">
+      <data key="d0">224</data>
+      <data key="d1">224</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/app">
+      <data key="d0">1293</data>
+      <data key="d1">1293</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/view">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/content">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="com/actionbarsherlock">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/util">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/mining/slush" target="com/veken0m/mining/slush">
+      <data key="d0">1</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/mining/btcguild" target="com/veken0m/mining/btcguild">
+      <data key="d0">3</data>
+      <data key="d1">3</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/compatibility" target="com/veken0m/compatibility">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/compatibility" target="com/actionbarsherlock">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/margaritov/preference/colorpicker" target="net/margaritov/preference/colorpicker">
+      <data key="d0">320</data>
+      <data key="d1">320</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/jjoe64/graphview" target="com/jjoe64/graphview">
+      <data key="d0">324</data>
+      <data key="d1">324</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/bitcoinium" target="android/support/v4/app">
+      <data key="d0">44</data>
+      <data key="d1">44</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/bitcoinium" target="android/support/v4/view">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/bitcoinium" target="com/fasterxml/jackson/databind">
+      <data key="d0">60</data>
+      <data key="d1">60</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/bitcoinium" target="com/actionbarsherlock">
+      <data key="d0">346</data>
+      <data key="d1">346</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/bitcoinium" target="org/joda/money">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/bitcoinium" target="com/veken0m/mining/slush">
+      <data key="d0">45</data>
+      <data key="d1">45</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/bitcoinium" target="com/veken0m/compatibility">
+      <data key="d0">37</data>
+      <data key="d1">37</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/bitcoinium" target="com/xeiam/xchange">
+      <data key="d0">84</data>
+      <data key="d1">84</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/bitcoinium" target="com/veken0m/mining/emc">
+      <data key="d0">55</data>
+      <data key="d1">55</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/bitcoinium" target="net/margaritov/preference/colorpicker">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/bitcoinium" target="com/veken0m/mining/eligius">
+      <data key="d0">34</data>
+      <data key="d1">34</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/bitcoinium" target="com/veken0m/mining/bitminter">
+      <data key="d0">35</data>
+      <data key="d1">35</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/bitcoinium" target="com/veken0m/mining/btcguild">
+      <data key="d0">31</data>
+      <data key="d1">31</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/bitcoinium" target="com/veken0m/mining/deepbit">
+      <data key="d0">27</data>
+      <data key="d1">27</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/bitcoinium" target="com/jjoe64/graphview">
+      <data key="d0">57</data>
+      <data key="d1">57</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/bitcoinium" target="com/veken0m/bitcoinium">
+      <data key="d0">1979</data>
+      <data key="d1">1979</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/veken0m/bitcoinium" target="com/veken0m/mining/fiftybtc">
+      <data key="d0">41</data>
+      <data key="d1">41</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/content">
+      <data key="d0">248</data>
+      <data key="d1">248</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/util">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

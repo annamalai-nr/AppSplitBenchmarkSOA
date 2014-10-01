@@ -1,0 +1,35 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="org/androidsoft/games/utils/credits" />
+    <node id="org/androidsoft/games/memory/kids" />
+    <node id="org/androidsoft/utils" />
+    <edge source="org/androidsoft/games/utils/credits" target="org/androidsoft/games/utils/credits">
+      <data key="d0">133</data>
+      <data key="d1">133</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/androidsoft/games/memory/kids" target="org/androidsoft/games/utils/credits">
+      <data key="d0">34</data>
+      <data key="d1">34</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/androidsoft/games/memory/kids" target="org/androidsoft/games/memory/kids">
+      <data key="d0">471</data>
+      <data key="d1">471</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/androidsoft/games/memory/kids" target="org/androidsoft/utils">
+      <data key="d0">64</data>
+      <data key="d1">64</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/androidsoft/utils" target="org/androidsoft/utils">
+      <data key="d0">74</data>
+      <data key="d1">74</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

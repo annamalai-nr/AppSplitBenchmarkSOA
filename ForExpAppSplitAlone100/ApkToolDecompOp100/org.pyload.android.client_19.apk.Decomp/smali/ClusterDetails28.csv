@@ -1,0 +1,9 @@
+1,android/support/v4/b
+2,android/support/v4/a android/support/v4/c
+3,android/support/v4/d
+4,android/support/v4/view
+5,org/apache/commons/codec
+6,org/apache/commons/lang
+7,org/apache/thrift org/pyload/thrift
+8,org/pyload/android/client
+9,org/slf4j

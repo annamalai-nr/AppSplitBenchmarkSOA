@@ -1,0 +1,21 @@
+1,com/nostra13/universalimageloader/core com/nostra13/universalimageloader/utils
+2,org/eclipse/jgit/fnmatch org/eclipse/jgit/ignore
+3,org/eclipse/jgit/api org/eclipse/jgit/blame org/eclipse/jgit/diff org/eclipse/jgit/dircache org/eclipse/jgit/errors org/eclipse/jgit/internal org/eclipse/jgit/lib org/eclipse/jgit/merge org/eclipse/jgit/nls org/eclipse/jgit/notes org/eclipse/jgit/patch org/eclipse/jgit/revplot org/eclipse/jgit/revwalk org/eclipse/jgit/storage/file org/eclipse/jgit/storage/pack org/eclipse/jgit/submodule org/eclipse/jgit/transport org/eclipse/jgit/treewalk org/eclipse/jgit/util
+4,me/sheimi/android/activities me/sheimi/android/utils me/sheimi/android/views me/sheimi/sgit
+5,android/support/v4/app android/support/v4/content android/support/v4/util
+6,android/support/v13/app android/support/v4/view android/support/v4/widget
+7,android/support/v4/media
+8,android/support/v4/graphics/drawable
+9,android/support/v4/print
+10,android/support/v4/text
+11,android/support/v4/net
+12,android/support/v4/hardware/display
+13,android/support/v4/database
+14,android/support/v4/accessibilityservice
+15,android/support/v4/os
+16,com/jcraft/jsch
+17,android/support/v4/internal/view
+18,com/nostra13/universalimageloader/cache/memory
+19,org/apache/commons/io
+20,org/eclipse/jgit/events
+21,com/nostra13/universalimageloader/cache/disc

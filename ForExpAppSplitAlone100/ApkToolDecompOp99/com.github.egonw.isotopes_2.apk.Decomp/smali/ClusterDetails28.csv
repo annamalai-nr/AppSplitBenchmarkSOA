@@ -1,0 +1,15 @@
+1,android/support/v4/app
+2,android/support/v4/content
+3,android/support/v4/media
+4,android/support/v4/internal/view android/support/v4/os
+5,android/support/v4/util
+6,android/support/v4/view android/support/v4/widget
+7,com/github/egonw/isotopes
+8,org/openscience/cdk
+9,android/support/v4/accessibilityservice
+10,android/support/v4/database
+11,android/support/v4/graphics/drawable
+12,android/support/v4/hardware/display
+13,android/support/v4/net
+14,android/support/v4/text
+15,javax/vecmath

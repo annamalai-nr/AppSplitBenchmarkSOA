@@ -1,0 +1,12 @@
+contain 1 android/support/v4/app
+contain 1 android/support/v4/view
+contain 1 android/support/v4/content
+contain 1 android/support/v4/util
+contain 1 at/enajat/david/android/filechooser
+contain 2 android/support/v4/os
+contain 3 android/support/v4/widget
+contain 4 at/tomtasche/reader
+contain 5 at/tomtasche/writer
+contain 6 openoffice
+contain 6 xml
+contain 7 util

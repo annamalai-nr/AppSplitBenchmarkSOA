@@ -1,0 +1,31 @@
+1,com/nostra13/universalimageloader/core com/nostra13/universalimageloader/utils
+2,com/j256/ormlite/logger com/j256/ormlite/support
+3,com/j256/ormlite/dao com/j256/ormlite/db com/j256/ormlite/field com/j256/ormlite/misc com/j256/ormlite/table
+4,com/j256/ormlite/stmt
+5,com/j256/ormlite/android
+6,de/timroes/axmlrpc
+7,de/timroes/base64
+8,android/support/v4/app
+9,android/support/v4/util
+10,android/support/v4/content
+11,android/support/v4/view
+12,android/support/v4/widget
+13,org/transdroid/core
+14,org/transdroid/daemon
+15,uk/co/senab/actionbarpulltorefresh/extras/actionbarsherlock uk/co/senab/actionbarpulltorefresh/library
+16,com/actionbarsherlock
+17,org/androidannotations/api
+18,android/support/v4/os
+19,org/androidannotations/annotations
+20,org/transdroid/full
+21,net/margaritov/preference/colorpicker
+22,de/keyboardsurfer/mobile/app/android/widget/crouton
+23,android/support/v4/net
+24,android/support/v4/database
+25,android/support/v4/accessibilityservice
+26,org/apache/openjpa/lib/util
+27,org/base64/android
+28,com/android/internalcopy/http/multipart
+29,de/keyboardsurfer/android/widget/crouton
+30,com/nostra13/universalimageloader/cache/memory
+31,com/nostra13/universalimageloader/cache/disc

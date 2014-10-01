@@ -1,0 +1,5 @@
+1,android/support/v4/app android/support/v4/content android/support/v4/os android/support/v4/util android/support/v4/view android/support/v4/widget
+2,com/actionbarsherlock com/commonsware/cwac/tlv com/xatik/app/droiddraw/client com/xatik/app/droiddraw/common
+3,android/annotation
+4,android/support/v4/accessibilityservice
+5,android/support/v4/database

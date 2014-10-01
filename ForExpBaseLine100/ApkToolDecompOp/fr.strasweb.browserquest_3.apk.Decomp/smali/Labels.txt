@@ -1,0 +1,4 @@
+com/phonegap/plugins/statusBarNotification
+fr/strasweb/browserquest
+org/apache/cordova
+org/java_websocket

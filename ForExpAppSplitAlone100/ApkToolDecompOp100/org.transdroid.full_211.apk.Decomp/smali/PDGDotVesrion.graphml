@@ -1,0 +1,575 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="de/keyboardsurfer/mobile/app/android/widget/crouton" />
+    <node id="org/androidannotations/annotations" />
+    <node id="com/j256/ormlite/db" />
+    <node id="uk/co/senab/actionbarpulltorefresh/extras/actionbarsherlock" />
+    <node id="android/support/v4/widget" />
+    <node id="android/support/v4/database" />
+    <node id="com/j256/ormlite/stmt" />
+    <node id="org/transdroid/full" />
+    <node id="com/j256/ormlite/field" />
+    <node id="com/j256/ormlite/logger" />
+    <node id="de/timroes/base64" />
+    <node id="uk/co/senab/actionbarpulltorefresh/library" />
+    <node id="com/nostra13/universalimageloader/core" />
+    <node id="android/support/v4/os" />
+    <node id="android/support/v4/accessibilityservice" />
+    <node id="android/support/v4/view" />
+    <node id="com/nostra13/universalimageloader/utils" />
+    <node id="com/actionbarsherlock" />
+    <node id="com/nostra13/universalimageloader/cache/memory" />
+    <node id="org/base64/android" />
+    <node id="com/j256/ormlite/misc" />
+    <node id="android/support/v4/util" />
+    <node id="com/j256/ormlite/support" />
+    <node id="com/j256/ormlite/table" />
+    <node id="android/support/v4/app" />
+    <node id="org/transdroid/daemon" />
+    <node id="com/j256/ormlite/dao" />
+    <node id="com/nostra13/universalimageloader/cache/disc" />
+    <node id="org/transdroid/core" />
+    <node id="com/j256/ormlite/android" />
+    <node id="net/margaritov/preference/colorpicker" />
+    <node id="org/androidannotations/api" />
+    <node id="de/timroes/axmlrpc" />
+    <node id="android/support/v4/net" />
+    <node id="android/support/v4/content" />
+    <node id="com/android/internalcopy/http/multipart" />
+    <node id="de/keyboardsurfer/android/widget/crouton" />
+    <node id="org/apache/openjpa/lib/util" />
+    <edge source="org/androidannotations/annotations" target="org/androidannotations/annotations">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/db" target="com/j256/ormlite/db">
+      <data key="d0">96</data>
+      <data key="d1">96</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/db" target="com/j256/ormlite/misc">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/db" target="com/j256/ormlite/field">
+      <data key="d0">97</data>
+      <data key="d1">97</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/db" target="com/j256/ormlite/support">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="uk/co/senab/actionbarpulltorefresh/extras/actionbarsherlock" target="uk/co/senab/actionbarpulltorefresh/library">
+      <data key="d0">66</data>
+      <data key="d1">66</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="uk/co/senab/actionbarpulltorefresh/extras/actionbarsherlock" target="uk/co/senab/actionbarpulltorefresh/extras/actionbarsherlock">
+      <data key="d0">29</data>
+      <data key="d1">29</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="uk/co/senab/actionbarpulltorefresh/extras/actionbarsherlock" target="com/actionbarsherlock">
+      <data key="d0">20</data>
+      <data key="d1">20</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/widget" target="android/support/v4/widget">
+      <data key="d0">297</data>
+      <data key="d1">297</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/stmt" target="com/j256/ormlite/dao">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/stmt" target="com/j256/ormlite/field">
+      <data key="d0">133</data>
+      <data key="d1">133</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/stmt" target="com/j256/ormlite/logger">
+      <data key="d0">98</data>
+      <data key="d1">98</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/stmt" target="com/j256/ormlite/misc">
+      <data key="d0">14</data>
+      <data key="d1">14</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/stmt" target="com/j256/ormlite/support">
+      <data key="d0">150</data>
+      <data key="d1">150</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/stmt" target="com/j256/ormlite/db">
+      <data key="d0">62</data>
+      <data key="d1">62</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/stmt" target="com/j256/ormlite/stmt">
+      <data key="d0">1075</data>
+      <data key="d1">1075</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/stmt" target="com/j256/ormlite/table">
+      <data key="d0">98</data>
+      <data key="d1">98</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/field" target="com/j256/ormlite/dao">
+      <data key="d0">29</data>
+      <data key="d1">29</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/field" target="com/j256/ormlite/field">
+      <data key="d0">1074</data>
+      <data key="d1">1074</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/field" target="com/j256/ormlite/misc">
+      <data key="d0">38</data>
+      <data key="d1">38</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/field" target="com/j256/ormlite/support">
+      <data key="d0">55</data>
+      <data key="d1">55</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/field" target="com/j256/ormlite/db">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/field" target="com/j256/ormlite/stmt">
+      <data key="d0">5</data>
+      <data key="d1">5</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/field" target="com/j256/ormlite/table">
+      <data key="d0">27</data>
+      <data key="d1">27</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/logger" target="com/j256/ormlite/logger">
+      <data key="d0">113</data>
+      <data key="d1">113</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="de/timroes/base64" target="de/timroes/base64">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="uk/co/senab/actionbarpulltorefresh/library" target="uk/co/senab/actionbarpulltorefresh/library">
+      <data key="d0">320</data>
+      <data key="d1">320</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/core" target="com/nostra13/universalimageloader/cache/disc">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/core" target="com/nostra13/universalimageloader/core">
+      <data key="d0">1071</data>
+      <data key="d1">1071</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/core" target="com/nostra13/universalimageloader/utils">
+      <data key="d0">106</data>
+      <data key="d1">106</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/core" target="com/nostra13/universalimageloader/cache/memory">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/os" target="android/support/v4/os">
+      <data key="d0">18</data>
+      <data key="d1">18</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/accessibilityservice" target="android/support/v4/accessibilityservice">
+      <data key="d0">36</data>
+      <data key="d1">36</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/view">
+      <data key="d0">2270</data>
+      <data key="d1">2270</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/widget">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/view" target="android/support/v4/os">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/utils" target="com/nostra13/universalimageloader/core">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/utils" target="com/nostra13/universalimageloader/utils">
+      <data key="d0">26</data>
+      <data key="d1">26</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/actionbarsherlock" target="android/support/v4/app">
+      <data key="d0">96</data>
+      <data key="d1">96</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/actionbarsherlock" target="android/support/v4/view">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/actionbarsherlock" target="com/actionbarsherlock">
+      <data key="d0">2771</data>
+      <data key="d1">2771</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/actionbarsherlock" target="android/support/v4/widget">
+      <data key="d0">33</data>
+      <data key="d1">33</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/cache/memory" target="com/nostra13/universalimageloader/utils">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/cache/memory" target="com/nostra13/universalimageloader/cache/memory">
+      <data key="d0">290</data>
+      <data key="d1">290</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/base64/android" target="org/base64/android">
+      <data key="d0">118</data>
+      <data key="d1">118</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/misc" target="com/j256/ormlite/dao">
+      <data key="d0">17</data>
+      <data key="d1">17</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/misc" target="com/j256/ormlite/field">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/misc" target="com/j256/ormlite/logger">
+      <data key="d0">21</data>
+      <data key="d1">21</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/misc" target="com/j256/ormlite/misc">
+      <data key="d0">34</data>
+      <data key="d1">34</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/misc" target="com/j256/ormlite/db">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/misc" target="com/j256/ormlite/support">
+      <data key="d0">31</data>
+      <data key="d1">31</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/util" target="android/support/v4/util">
+      <data key="d0">156</data>
+      <data key="d1">156</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/support" target="com/j256/ormlite/logger">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/support" target="com/j256/ormlite/support">
+      <data key="d0">9</data>
+      <data key="d1">9</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/table" target="com/j256/ormlite/dao">
+      <data key="d0">25</data>
+      <data key="d1">25</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/table" target="com/j256/ormlite/field">
+      <data key="d0">50</data>
+      <data key="d1">50</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/table" target="com/j256/ormlite/logger">
+      <data key="d0">19</data>
+      <data key="d1">19</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/table" target="com/j256/ormlite/misc">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/table" target="com/j256/ormlite/db">
+      <data key="d0">34</data>
+      <data key="d1">34</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/table" target="com/j256/ormlite/support">
+      <data key="d0">66</data>
+      <data key="d1">66</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/table" target="com/j256/ormlite/table">
+      <data key="d0">140</data>
+      <data key="d1">140</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/app">
+      <data key="d0">1625</data>
+      <data key="d1">1625</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/view">
+      <data key="d0">24</data>
+      <data key="d1">24</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/content">
+      <data key="d0">40</data>
+      <data key="d1">40</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="com/actionbarsherlock">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/app" target="android/support/v4/util">
+      <data key="d0">112</data>
+      <data key="d1">112</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/transdroid/daemon" target="de/timroes/axmlrpc">
+      <data key="d0">17</data>
+      <data key="d1">17</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/transdroid/daemon" target="org/base64/android">
+      <data key="d0">10</data>
+      <data key="d1">10</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/transdroid/daemon" target="com/android/internalcopy/http/multipart">
+      <data key="d0">34</data>
+      <data key="d1">34</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/transdroid/daemon" target="org/transdroid/daemon">
+      <data key="d0">5451</data>
+      <data key="d1">5451</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/transdroid/daemon" target="org/apache/openjpa/lib/util">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/dao" target="com/j256/ormlite/dao">
+      <data key="d0">421</data>
+      <data key="d1">421</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/dao" target="com/j256/ormlite/field">
+      <data key="d0">22</data>
+      <data key="d1">22</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/dao" target="com/j256/ormlite/misc">
+      <data key="d0">22</data>
+      <data key="d1">22</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/dao" target="com/j256/ormlite/support">
+      <data key="d0">109</data>
+      <data key="d1">109</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/dao" target="com/j256/ormlite/db">
+      <data key="d0">1</data>
+      <data key="d1">1</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/dao" target="com/j256/ormlite/stmt">
+      <data key="d0">95</data>
+      <data key="d1">95</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/dao" target="com/j256/ormlite/table">
+      <data key="d0">45</data>
+      <data key="d1">45</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/cache/disc" target="com/nostra13/universalimageloader/cache/disc">
+      <data key="d0">150</data>
+      <data key="d1">150</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/cache/disc" target="com/nostra13/universalimageloader/core">
+      <data key="d0">12</data>
+      <data key="d1">12</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/nostra13/universalimageloader/cache/disc" target="com/nostra13/universalimageloader/utils">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/transdroid/core" target="android/support/v4/app">
+      <data key="d0">116</data>
+      <data key="d1">116</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/transdroid/core" target="org/transdroid/daemon">
+      <data key="d0">498</data>
+      <data key="d1">498</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/transdroid/core" target="com/actionbarsherlock">
+      <data key="d0">439</data>
+      <data key="d1">439</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/transdroid/core" target="org/transdroid/core">
+      <data key="d0">3375</data>
+      <data key="d1">3375</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/transdroid/core" target="de/keyboardsurfer/android/widget/crouton">
+      <data key="d0">36</data>
+      <data key="d1">36</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/transdroid/core" target="org/androidannotations/api">
+      <data key="d0">78</data>
+      <data key="d1">78</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/transdroid/core" target="uk/co/senab/actionbarpulltorefresh/library">
+      <data key="d0">11</data>
+      <data key="d1">11</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/transdroid/core" target="uk/co/senab/actionbarpulltorefresh/extras/actionbarsherlock">
+      <data key="d0">7</data>
+      <data key="d1">7</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/android" target="com/j256/ormlite/dao">
+      <data key="d0">2</data>
+      <data key="d1">2</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/android" target="com/j256/ormlite/field">
+      <data key="d0">32</data>
+      <data key="d1">32</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/android" target="com/j256/ormlite/android">
+      <data key="d0">172</data>
+      <data key="d1">172</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/android" target="com/j256/ormlite/misc">
+      <data key="d0">28</data>
+      <data key="d1">28</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/android" target="com/j256/ormlite/support">
+      <data key="d0">31</data>
+      <data key="d1">31</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/android" target="com/j256/ormlite/db">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/android" target="com/j256/ormlite/logger">
+      <data key="d0">39</data>
+      <data key="d1">39</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/j256/ormlite/android" target="com/j256/ormlite/stmt">
+      <data key="d0">3</data>
+      <data key="d1">3</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="net/margaritov/preference/colorpicker" target="net/margaritov/preference/colorpicker">
+      <data key="d0">275</data>
+      <data key="d1">275</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="org/androidannotations/api" target="org/androidannotations/api">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="de/timroes/axmlrpc" target="de/timroes/axmlrpc">
+      <data key="d0">503</data>
+      <data key="d1">503</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="de/timroes/axmlrpc" target="de/timroes/base64">
+      <data key="d0">4</data>
+      <data key="d1">4</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/net" target="android/support/v4/net">
+      <data key="d0">57</data>
+      <data key="d1">57</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/content">
+      <data key="d0">298</data>
+      <data key="d1">298</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="android/support/v4/content" target="android/support/v4/util">
+      <data key="d0">8</data>
+      <data key="d1">8</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/android/internalcopy/http/multipart" target="com/android/internalcopy/http/multipart">
+      <data key="d0">209</data>
+      <data key="d1">209</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="de/keyboardsurfer/android/widget/crouton" target="de/keyboardsurfer/android/widget/crouton">
+      <data key="d0">341</data>
+      <data key="d1">341</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

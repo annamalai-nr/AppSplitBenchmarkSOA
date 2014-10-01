@@ -1,0 +1,47 @@
+1,ch/qos/logback/repackage/brut/androlib ch/qos/logback/repackage/brut/common
+2,com/coremedia/iso com/googlecode/mp4parser
+3,org/pf/file org/pf/text
+4,org/seamless/xhtml org/seamless/xml org/xmlpull/v1
+5,com/sun/net/httpserver sun/misc sun/net/httpserver
+6,com/aelitis/azureus/plugins/upnp com/aelitis/net/upnp
+7,com/aelitis/azureus/activities com/aelitis/azureus/core com/aelitis/azureus/plugins/clientid com/aelitis/azureus/plugins/dht com/aelitis/azureus/plugins/extseed com/aelitis/azureus/plugins/removerules com/aelitis/azureus/plugins/sharing/hoster com/aelitis/azureus/plugins/startstoprules/always com/aelitis/azureus/plugins/startstoprules/defaultplugin com/aelitis/azureus/ui com/aelitis/azureus/util com/aelitis/net/udp/uc org/gudy/azureus2/core3/category org/gudy/azureus2/core3/config org/gudy/azureus2/core3/disk org/gudy/azureus2/core3/download org/gudy/azureus2/core3/global org/gudy/azureus2/core3/html org/gudy/azureus2/core3/internat org/gudy/azureus2/core3/ipchecker/extipchecker org/gudy/azureus2/core3/ipchecker/natchecker org/gudy/azureus2/core3/ipfilter org/gudy/azureus2/core3/logging org/gudy/azureus2/core3/peer org/gudy/azureus2/core3/security org/gudy/azureus2/core3/stats org/gudy/azureus2/core3/torrent org/gudy/azureus2/core3/tracker/client org/gudy/azureus2/core3/tracker/protocol org/gudy/azureus2/core3/tracker/util org/gudy/azureus2/core3/util org/gudy/azureus2/core3/xml/simpleparser org/gudy/azureus2/core3/xml/util org/gudy/azureus2/platform org/gudy/azureus2/plugins
+8,com/aelitis/net/magneturi
+9,com/aelitis/net/natpmp
+10,org/bouncycastle/util/encoders
+11,com/frostwire/frostclick org/apache/commons/io
+12,android/support/v4/app android/support/v4/content android/support/v4/util android/support/v4/view android/support/v4/widget
+13,com/slidingmenu/lib
+14,org/seamless/http org/seamless/util
+15,jd/http jd/nutils/encoding jd/parser org/appwork/utils
+16,ch/qos/logback/classic ch/qos/logback/core com/frostwire/android com/frostwire/gui/upnp com/frostwire/search com/frostwire/util com/google/gson org/fourthline/cling org/slf4j
+17,com/jakewharton
+18,com/frostwire/licences
+19,org/json
+20,com/android/vending/billing
+21,android/support/v4/os
+22,sun/net/www
+23,sun/security/action
+24,org/bouncycastle/crypto
+25,org/appwork/storage
+26,org/apache/commons/lang
+27,javax/servlet
+28,javax/interceptor
+29,javax/inject
+30,javax/enterprise/util
+31,javax/enterprise/inject
+32,javax/enterprise/event
+33,javax/enterprise/context
+34,javax/decorator
+35,javax/annotation
+36,httpserver/com/sun/net/httpserver
+37,com/google/ads
+38,com/frostwire/mp3
+39,com/frostwire/core
+40,ch/qos/logback/repackage/com/mindprod/ledatastream
+41,ch/qos/logback/repackage/brut/util
+42,android/support/v4/net
+43,android/support/v4/database
+44,android/support/v4/accessibilityservice
+45,android/annotation
+46,jd/utils
+47,com/aelitis/net/udp/mc

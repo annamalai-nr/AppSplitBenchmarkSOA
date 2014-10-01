@@ -1,0 +1,13 @@
+org
+org/androidsoft
+org/androidsoft/games
+org/androidsoft/utils
+org/androidsoft/games/memory
+org/androidsoft/games/utils
+org/androidsoft/games/memory/kids
+org/androidsoft/games/memory/kids/ui
+org/androidsoft/games/memory/kids/model
+org/androidsoft/games/utils/credits
+org/androidsoft/utils/res
+org/androidsoft/utils/sound
+org/androidsoft/utils/ui

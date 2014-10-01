@@ -1,0 +1,16 @@
+1,android/support/v4/view android/support/v4/widget
+2,android/support/v4/media
+3,android/support/v4/app
+4,android/support/v4/util
+5,android/support/v4/content
+6,com/casimirlab/simpleDeadlines
+7,com/google/android/apps/dashclock/api
+8,android/support/v4/print
+9,android/support/v4/text
+10,android/support/v4/net
+11,android/support/v4/hardware/display
+12,android/support/v4/graphics/drawable
+13,android/support/v4/database
+14,android/support/v4/accessibilityservice
+15,android/support/v4/os
+16,android/support/v4/internal/view

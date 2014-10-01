@@ -1,0 +1,24 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="key" attr.type="int" for="edge" id="d2" />
+  <key attr.name="label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="com/ghostsq/commander/samba" />
+    <node id="jcifs" />
+    <edge source="com/ghostsq/commander/samba" target="com/ghostsq/commander/samba">
+      <data key="d0">245</data>
+      <data key="d1">245</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="com/ghostsq/commander/samba" target="jcifs">
+      <data key="d0">266</data>
+      <data key="d1">266</data>
+      <data key="d2">0</data>
+    </edge>
+    <edge source="jcifs" target="jcifs">
+      <data key="d0">6843</data>
+      <data key="d1">6843</data>
+      <data key="d2">0</data>
+    </edge>
+  </graph>
+</graphml>

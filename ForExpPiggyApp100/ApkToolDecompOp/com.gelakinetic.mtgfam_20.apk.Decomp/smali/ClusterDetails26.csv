@@ -1,0 +1,23 @@
+1,com/google/common/cache com/google/common/eventbus
+2,com/google/common/base com/google/common/collect com/google/common/net com/google/common/primitives com/google/common/reflect
+3,com/google/common/io
+4,com/google/common/hash
+5,com/google/common/math
+6,com/google/common/util/concurrent
+7,com/octo/android/robospice
+8,roboguice/util/temp
+9,com/actionbarsherlock
+10,com/slidingmenu/lib
+11,android/support/v4/app
+12,android/support/v4/util
+13,android/support/v4/content
+14,android/support/v4/view
+15,android/support/v4/widget
+16,com/gelakinetic/mtgfam
+17,com/google/gson
+18,android/support/v4/os
+19,org/apache/commons/io
+20,android/support/v4/net
+21,com/google/common/annotations
+22,android/support/v4/database
+23,android/support/v4/accessibilityservice
